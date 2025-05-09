@@ -1,0 +1,91 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\savin\Downloads\SRM-Install_20211203110757-211201-0001\SRM-Install_20211203110757-211201-0001\SRM-Install-SRM_20211203110757-211201-0001.sct
+SECTORTITLE:SRM-Install-SRM_20211203110757-211201-0001.sct
+ARTCC boundary:VRMF_N_CTR Male Control:
+ARTCC high boundary:FIR border VRMF FIMM_CTR Mauritius Control:
+ARTCC high boundary:ML-IND_FSS Brisbane Radio:
+ARTCC high boundary:VCCF_CTR:
+ARTCC high boundary:VCCF_CTR Colombo Control:
+ARTCC high boundary:VRMF_CTR Male Control:
+ARTCC high boundary:VRMF_S_CTR Male Control:
+ARTCC high boundary:WIIF_N_CTR Jakarta Control:
+ARTCC low boundary:VCBI TWR Colombo Tower:
+ARTCC low boundary:VCBI_APP Colombo Approach:
+ARTCC low boundary:VCBI_F_APP Colombo Director:
+ARTCC low boundary:VCCA_APP Anuradhapura Approach:
+ARTCC low boundary:VCCA_TWR Anuradhapura Tower:
+ARTCC low boundary:VCCB_TWR Batticaloa Tower:
+ARTCC low boundary:VCCC_TWR Ratmalana Tower:
+ARTCC low boundary:VCCH_TWR Minneriya Tower:
+ARTCC low boundary:VCCJ_CTA Jaffna CTA:
+ARTCC low boundary:VCCJ_TWR Jaffna Tower:
+ARTCC low boundary:VCCK_TWR Koggala Tower:
+ARTCC low boundary:VCCN_TWR Katukurunda Tower:
+ARTCC low boundary:VCCT_TWR China-bay Tower:
+ARTCC low boundary:VCCV_TWR Vavunya Tower:
+ARTCC low boundary:VCRI_APP Mattala Approach:
+ARTCC low boundary:VCRI_TWR Mattala Tower:
+ARTCC low boundary:VRDA AFIS Area:
+ARTCC low boundary:VREI AFIS Area:
+ARTCC low boundary:VRMD_TWR Dharavandhoo Tower:
+ARTCC low boundary:VRMG_TWR Gan Tower:
+ARTCC low boundary:VRMH_TWR Hanimaadhoo Tower:
+ARTCC low boundary:VRMK_TWR Kadhdhoo Tower:
+ARTCC low boundary:VRMM_APP Male Approach:
+ARTCC low boundary:VRMM_TWR Male Tower:
+ARTCC low boundary:VRMO_TWR Kooddoo Tower:
+ARTCC low boundary:VRMR_TWR Fuvahmulah Tower:
+ARTCC low boundary:VRMT_TWR Kaadedhdhoo Tower:
+ARTCC low boundary:VRMU AFIS Area:
+ARTCC low boundary:VRMV_TWR Maamigili Tower:
+Geo:GEO:
+Geo:VCCB Groundlayout:
+Geo:VCCC Groundlayout:
+Geo:VCCF Landmark Coastline:
+Geo:VCCJ Groundlayout:
+Geo:VCCT Groundlayout:
+Geo:VRMD Groundlayout:
+Geo:VRMF Landmark Coastline:
+Geo:VRMG Groundlayout:
+Geo:VRMH Groundlayout:
+Geo:VRMM Groundlayout:
+Geo:VRMM Groundlayout Water Aerodrome:
+Geo:VRMO Groundlayout:
+Geo:VRMR Groundlayout:
+Geo:VRMT Groundlayout:
+Geo:VRMV Groundlayout:
+Runways:VRMM 18-36:centerline
+Runways:VRMM 18-36:extended centerline 1
+Runways:VRMM 18-36:extended centerline 1 left base
+Runways:VRMM 18-36:extended centerline 1 left ticks
+Runways:VRMM 18-36:extended centerline 1 left vectoring
+Runways:VRMM 18-36:extended centerline 1 right base
+Runways:VRMM 18-36:extended centerline 1 right ticks
+Runways:VRMM 18-36:extended centerline 1 right vectoring
+Runways:VRMM 18-36:extended centerline 2
+Runways:VRMM 18-36:extended centerline 2 left base
+Runways:VRMM 18-36:extended centerline 2 left ticks
+Runways:VRMM 18-36:extended centerline 2 left vectoring
+Runways:VRMM 18-36:extended centerline 2 right base
+Runways:VRMM 18-36:extended centerline 2 right ticks
+Runways:VRMM 18-36:extended centerline 2 right vectoring
+Runways:VRMM 18-36:name
+VORs:MLE:frequency
+VORs:MLE:name
+VORs:MLE:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:2.897612:70.850571:5.662211:76.111941

@@ -1,0 +1,27 @@
+VOICE
+AG:VCBI_APP Colombo Approach:132.400
+AG:VCBI_ATIS:127.200
+AG:VCBI_DEL Colombo Delivery:123.800
+AG:VCBI_F_APP Colombo Director:120.900
+AG:VCBI_GND Colombo Ground:121.900
+AG:VCBI_TWR Colombo Tower:118.700
+AG:VCCA_APP Anuradhapura Approach:126.700
+AG:VCCA_TWR Anuradhapura Tower:120.500
+AG:VCCB_TWR Batticaloa Tower:123.700
+AG:VCCC_TWR Ratmalana Tower:119.100
+AG:VCCF_CTR Colombo Radar:124.900
+AG:VCCG_TWR Amparai Tower:123.675
+AG:VCCH_TWR Minneriya Tower:123.525
+AG:VCCJ_TWR Jaffna Tower:118.800
+AG:VCCK_TWR Koggala Tower:131.900
+AG:VCCN_TWR Katukurunda Tower:118.400
+AG:VCCS_TWR Sigiriya Tower:118.900
+AG:VCCT_TWR China-bay Tower:126.200
+AG:VCCV_TWR Vavunya Tower:118.100
+AG:VCCW_TWR Wirawila Tower:118.100
+AG:VCRI_APP Mattala Approach:124.350
+AG:VCRI_GND Mattala Ground:121.700
+AG:VCRI_TWR Mattala Tower:119.850
+AG:ASIA_W_FSS:135.400
+AG:VRMM_APP Male Approach:119.700
+END

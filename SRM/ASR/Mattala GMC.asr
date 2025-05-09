@@ -1,0 +1,24 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC VATWA\SRM-Install-SRM_20211203110757-211201-0001.sct
+SECTORTITLE:SRM-Install-SRM_20211203110757-211201-0001.sct
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:44.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:6.267255:81.086723:6.307141:81.159156
+PLUGIN:Ground Radar plugin:AirportElevation:159
+PLUGIN:Ground Radar plugin:AirportRadius:5.0
+PLUGIN:Ground Radar plugin:GroundMode:VCRI
+PLUGIN:Ground Radar plugin:Window_APP_Rotation:44.0
+PLUGIN:TopSky plugin:NoDraw:1
