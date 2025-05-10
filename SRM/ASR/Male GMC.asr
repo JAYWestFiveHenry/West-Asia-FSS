@@ -1,7 +1,7 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:\SRMvACC.sct
+SECTORFILE:SRMvACC.sct
 SECTORTITLE:SRMvACC AIRAC 2504
 Geo:GEO:
 Geo:VRMM Groundlayout:
