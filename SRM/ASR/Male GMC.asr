@@ -1,7 +1,7 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC VATWA\SRM-Install-SRM_20211203110757-211201-0001.sct
+SECTORFILE:\SRMvACC.sct
 SECTORTITLE:SRM-Install-SRM_20211203110757-211201-0001.sct
 Geo:GEO:
 Geo:VRMM Groundlayout:
