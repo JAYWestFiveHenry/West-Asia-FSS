@@ -1,8 +1,8 @@
 Settings	alias	\SRM\Alias\alias.txt
 Settings	sector	\SRMvACC.sct
 Settings	SettingsfileSYMBOLOGY	\SRM\Settings\Symbology.txt
-Settings	SettingsfileVOICE	\SRM\Settings\VoiceChannels.txt
-Settings	SettingsfilePROFILE	\SRM\Settings\Profiles.txt
+Settings	SettingsfileVOICE	\SRM\Settings\VRMF Voice Channels.txt
+Settings	SettingsfilePROFILE	\SRM\Settings\VRMF Profiles.txt
 Settings	SettingsfileTAGS	\SRM\Settings\Custom Tag.txt
 Settings	SettingsfileSIL	\SRM\Settings\SectorInbound.txt
 Settings	SettingsfileSEL	\SRM\Settings\SectorExit.txt
