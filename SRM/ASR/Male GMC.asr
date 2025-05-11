@@ -1,4 +1,4 @@
-DisplayTypeName:SMR Radar display
+DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
@@ -91,8 +91,6 @@ DISABLEZOOMING:1
 DisplayRotation:91.00000
 TAGFAMILY:TopSky Eurocat
 WINDOWAREA:4.182701:73.505435:4.207705:73.550768
-PLUGIN:Ground Radar plugin:AirportElevation:6
-PLUGIN:Ground Radar plugin:AirportRadius:2.0
-PLUGIN:Ground Radar plugin:GroundMode:VRMM
-PLUGIN:Ground Radar plugin:Window_APP_Rotation:90.0
 PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VRMM
