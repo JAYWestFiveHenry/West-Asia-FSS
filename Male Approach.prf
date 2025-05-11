@@ -50,10 +50,9 @@ Sounds	Sound18	\SRM\Sounds\startup.wav
 Plugins	Plugin0	\SRM\Plugins\DiscordEuroScope\DiscordEuroscope.dll
 Plugins	Plugin1	\SRM\Plugins\TopSky\TopSky.dll
 Plugins	Plugin2	\SRM\Plugins\GRPlugin\GRplugin.dll
-Plugins	Plugin3	\SRM\Plugins\MAESTRO\MAESTRO.dll
-Plugins	Plugin4	\SRM\Plugins\VCH.dll
+Plugins	Plugin3	\SRM\Plugins\VCH.dll
+Plugins	Plugin4	\SRM\Plugins\ESEgypt.dll
 Plugins	Plugin2Display0	Ground Radar display
-Plugins	Plugin3Display0	Standard ES radar screen
 LastSession	atis_letter	65
 LastSession	atis_airport	VRMM
 RecentFiles	Recent1	\SRM\ASR\Male Approach.asr
@@ -74,14 +73,13 @@ LastSession	realname	Gia Huy Tran
 LastSession	certificate	1442675
 LastSession	password	cz11Mrc9
 LastSession	server	AUTOMATIC
-Plugins	Plugin5	\SRM\Plugins\ESEgypt.dll
+Plugins	Plugin5	\SRM\Plugins\ESTimers.dll
 ASRFastKeys	1	\SRM\ASR\Male Approach.asr
 ASRFastKeys	2	\SRM\ASR\Male GMC.asr
 Plugins	Plugin1Display0	Standard ES radar screen
 Plugins	Plugin1Display1	SMR radar display
 Plugins	Plugin1Display2	Ground Radar display
-Plugins	Plugin6	\SRM\Plugins\ESTimers.dll
-Plugins	Plugin7	\SRM\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
-Plugins	Plugin8	\SRM\Plugins\RDFPlugin.dll
-Plugins	Plugin8Display0	Standard ES radar screen
-Plugins	Plugin8Display1	Ground Radar display
+Plugins	Plugin6	\SRM\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
+Plugins	Plugin7	\SRM\Plugins\RDFPlugin.dll
+Plugins	Plugin7Display0	Standard ES radar screen
+Plugins	Plugin7Display1	Ground Radar display
