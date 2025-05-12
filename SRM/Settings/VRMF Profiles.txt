@@ -56,7 +56,7 @@ ATIS2:"Gan Ground" | PDC Logon VRMG
 ATIS3:Request PDC via Private Message or Datalink
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 PROFILE:VRMM_APP:150:5
-ATIS2:"Male Approach" | [PDC/DLK - VRMM]
-ATIS3:Request Pre Departure Clearance via Private Message or PDC Datalink
-ATIS4:Covering Male TMA up to FL285 | More info -> www.4r-ipm.me/vaccsrm/
+ATIS2:"Male Approach" 
+ATIS3:Covering Male TMA up to FL160
+ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 END

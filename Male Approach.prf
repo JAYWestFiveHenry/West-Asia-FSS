@@ -55,8 +55,8 @@ Plugins	Plugin4	\SRM\Plugins\ESEgypt.dll
 Plugins	Plugin2Display0	SMR radar display
 LastSession	atis_letter	65
 LastSession	atis_airport	VRMM
-RecentFiles	Recent1	\SRM\ASR\Male FIR.asr
-RecentFiles	Recent2	\SRM\ASR\Male Approach.asr
+RecentFiles	Recent1	\SRM\ASR\Male Approach.asr
+RecentFiles	Recent2	\SRM\ASR\Male GMC.asr
 LastSession	atis_freq4	118000
 Settings	SettingsfilePILOTING	\SRM\Settings\General.txt
 Settings	SettingsfileORIGPLANE	\SRM\Settings\General.txt
@@ -66,9 +66,9 @@ Settings	SettingsfileTAKEOFF	\SRM\Settings\General.txt
 Settings	SettingsfileADCS	\SRM\Settings\General.txt
 Settings	SettingsfileTAXIIN	\SRM\Settings\General.txt
 LastSession	callsign	VRMM_APP
-LastSession	atis2	"Male Approach" | [PDC/DLK - VRMM]
-LastSession	atis3	Request Pre Departure Clearance via Private Message or PDC Datalink
-LastSession	atis4	Covering Male TMA up to FL285 | More info -> www.4r-ipm.me/vaccsrm/
+LastSession	atis2	"Male Approach" 
+LastSession	atis3	Covering Male TMA up to FL160
+LastSession	atis4	More info -> www.4r-ipm.me/vaccsrm/
 LastSession	realname	Gia Huy Tran
 LastSession	certificate	1442675
 LastSession	password	cz11Mrc9
@@ -83,4 +83,4 @@ Plugins	Plugin6	\SRM\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
 Plugins	Plugin7	\SRM\Plugins\RDFPlugin.dll
 Plugins	Plugin7Display0	Standard ES radar screen
 Plugins	Plugin7Display1	Ground Radar display
-RecentFiles	Recent3	\SRM\ASR\Male GMC.asr
+RecentFiles	Recent3	\SRM\ASR\Male FIR.asr
