@@ -3,7 +3,7 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
-ARTCC boundary:VCCF_CTR:
+ARTCC boundary:Colombo TMA/UTA:
 ARTCC boundary:VCCF_CTR Colombo Control:
 ARTCC low boundary:VCBI TWR Colombo Tower:
 ARTCC low boundary:VCBI_APP Colombo Director:
@@ -53,7 +53,7 @@ Runways:VCRI 05-23:extended centerline 2 right ticks
 Runways:VCRI 05-23:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:0
-BELOW:0
+BELOW:1000
 ABOVE:0
 LEADER:-1
 SHOWLEADER:0
@@ -64,4 +64,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky Eurocat
-WINDOWAREA:4.661342:76.750423:8.975214:84.571608
+WINDOWAREA:5.202225:76.917621:8.653324:83.174571

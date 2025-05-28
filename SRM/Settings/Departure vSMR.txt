@@ -1,6 +1,6 @@
 DEP
 m_Visible:1
-m_X:703
+m_X:729
 m_Y:45
 m_LineNumber:10
 m_Resizable:1
@@ -12,7 +12,7 @@ m_Column:RQST:5:1:540:548:548:1:VCH:VCH:VCH:9:0.0
 m_Column:TIME:4:1:544:0:0:0:VCH:::9:0.0
 m_Column:DEP:5:1:395:1001:1001:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:CALLSIGN:10:1:22:6:100:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
-m_Column:STAND:6:1:1:0:0:1:Ground Radar plugin:::0:0.0
+m_Column:STAND:6:1:1:0:0:0:Ground Radar plugin:::0:0.0
 m_Column:AC/WTC:7:1:70:7:7:1:TopSky plugin:::1:0.0
 m_Column:COMS:5:1:201:32:32:1:TopSky plugin:::0:0.0
 m_Column:DEST:5:1:79:99:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
@@ -22,8 +22,8 @@ m_Column:CLB:5:1:43:109:109:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:CRZ:4:1:120:59:59:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:ASQK:5:1:10042:62:62:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:C:2:1:10130:155:122:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
-m_Column:CHK:4:1:1:100:106:1:VFPC:VFPC:HKvACC VFPC:0:0.0
+m_Column:CHK:4:1:1:100:106:0:HKvACC VFPC:HKvACC VFPC:HKvACC VFPC:0:0.0
 m_Column:EOBT:5:1:97:0:0:0::::0:0.0
-m_Column:GND/STATE:10:1:3:13:0:1:Ground Radar plugin:Ground Radar plugin::1:0.0
+m_Column:GND/STATE:10:1:59:46:0:1::::1:0.0
 m_Column:SCRATCH PAD/NOTES:20:1:155:2:2:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
 END
