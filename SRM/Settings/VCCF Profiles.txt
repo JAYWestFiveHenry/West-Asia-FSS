@@ -28,8 +28,8 @@ ATIS2:"Jaffna Tower"
 ATIS3:Procedural Tower Service
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 PROFILE:VCCV_TWR:50:4
-ATIS2:"Vavunya Tower" | PDC Logon VCCV
-ATIS3:Request PDC via Private Message or Datalink
+ATIS2:"Vavunya Tower" 
+ATIS3:Procedural Tower Service
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 PROFILE:VCCT_TWR:50:4
 ATIS2:"China-bay Tower" 
