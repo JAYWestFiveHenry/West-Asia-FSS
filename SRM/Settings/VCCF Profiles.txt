@@ -1,15 +1,15 @@
 PROFILE
 PROFILE:VCBI_TWR:50:4
-ATIS2:"Colombo Tower"
+ATIS2:"Colombo Tower" | [PDC/DCL Logon VCBI
 ATIS3:Report Aircraft Type, Stand & POB on Initial Contact
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 PROFILE:VCBI_GND:10:3
-ATIS2:"Colombo Ground" | PDC Logon VCBI
+ATIS2:"Colombo Ground" | [PDC/DCL Logon VCBI]
 ATIS3:Report Aircraft Type, Stand & POB on Initial Contact
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 PROFILE:VCRI_APP:150:5
 ATIS2:"Mattala Approach" 
-ATIS3:
+ATIS3:Covering Mattala CTA ONLY
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 PROFILE:VCRI_TWR:50:4
 ATIS2:"Mattala Tower" 
@@ -52,12 +52,12 @@ ATIS2:"Anuradhapura Tower"
 ATIS3:Procedural Tower Service
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 PROFILE:VCCA_APP:150:5
-ATIS2:"Anuradhapura Approach" | PDC Logon VCCA
-ATIS3:Request PDC via Private Message or Datalink
+ATIS2:"Anuradhapura Approach" 
+ATIS3:
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 PROFILE:VCBI_APP:150:5
-ATIS2:"Colombo Director" | PDC Logon VCBI
-ATIS3:Covering VCBI CTA ONLY | NOT REPONSIBLE FOR MATTALA
+ATIS2:"Colombo Director" | [PDC/DCL Logon VCBI]
+ATIS3:Covering Colombo CTA ONLY | NOT REPONSIBLE FOR MATTALA CTA
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 PROFILE:XX_OBS:300:0
 ATIS2:SRMvACC Observer
