@@ -21,7 +21,7 @@ Settings	airports	\SRM\ICAO\ICAO_Airports.txt
 Settings	aircraft	\SRM\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\SRM\NavData\icao.txt
 Settings	airways	\SRM\NavData\airway.txt
-LastSession	connecttype	2
+LastSession	connecttype	0
 LastSession	facility	5
 LastSession	rating	3
 LastSession	tovatsim	1
@@ -53,7 +53,7 @@ Plugins	Plugin2	\SRM\Plugins\ESTimers.dll
 Plugins	Plugin3	\SRM\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
 LastSession	atis_freq4	118000
 LastSession	callsign	VCBI_APP
-LastSession	server	SweatBox
+LastSession	server	AUTOMATIC
 LastSession	atis2	"Colombo Director" | [PDC/DCL Logon VCBI]
 LastSession	atis4	More info -> www.4r-ipm.me/vaccsrm/
 RecentFiles	Recent1	\SRM\ASR\Colombo FIR.asr
@@ -88,7 +88,7 @@ RecentFiles	Recent3	\SRM\ASR\Mattala GMC.asr
 ASRFastKeys	1	\SRM\ASR\Colombo FIR.asr
 ASRFastKeys	2	\SRM\ASR\Colombo SMC.asr
 ASRFastKeys	3	\SRM\ASR\Mattala GMC.asr
-LastSession	atis3	Covering Colombo CTA ONLY up to FL145
+LastSession	atis3	Covering Colombo CTA ONLY up to FL150
 Settings	alias	\SRM\Alias\alias.txt
 Settings	sector	\SRMvACC.sct
 Settings	SettingsfileSYMBOLOGY	\SRM\Settings\Symbology.txt
