@@ -54,7 +54,7 @@ Plugins	Plugin3	\SRM\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
 LastSession	atis_freq4	118000
 LastSession	callsign	VCBI_APP
 LastSession	server	AUTOMATIC
-LastSession	atis2	"Colombo Director" | [PDC/DCL Logon VCBI]
+LastSession	atis2	"Colombo Director" 
 LastSession	atis4	More info -> www.4r-ipm.me/vaccsrm/
 RecentFiles	Recent1	\SRM\ASR\Colombo FIR.asr
 LastSession	atis_freq3	118000

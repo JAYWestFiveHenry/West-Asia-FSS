@@ -12,8 +12,8 @@ TopSky plugin:ACList/Holding List /m_Column_3:-:2:0:10027:0:0:1:EUROCAT 2000 E p
 TopSky plugin:ACList/Holding List /m_Column_4:CFL:4:0:10002:12:39:1:EUROCAT 2000 E plugin:EUROCAT 2000 E plugin:EUROCAT 2000 E plugin
 TopSky plugin:ACList/Holding List /m_Column_5:HPT:6:0:10024:65:0:1:EUROCAT 2000 E plugin:EUROCAT 2000 E plugin:
 TopSky plugin:ACList/Holding List /m_Column_6:ETO:4:0:10036:0:0:1:EUROCAT 2000 E plugin::
-Euroscope timers plugin:x:1828
-Euroscope timers plugin:y:927
+Euroscope timers plugin:x:1830
+Euroscope timers plugin:y:332
 TopSky plugin:ACList/HOLDING LIST/m_Visible:0
 TopSky plugin:ACList/HOLDING LIST/m_X:20
 TopSky plugin:ACList/HOLDING LIST/m_Y:20

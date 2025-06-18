@@ -36,6 +36,22 @@ Runways:VCBI 04-22:extended centerline 2 left vectoring
 Runways:VCBI 04-22:extended centerline 2 right base
 Runways:VCBI 04-22:extended centerline 2 right ticks
 Runways:VCBI 04-22:extended centerline 2 right vectoring
+Runways:VCCC 04-22:centerline
+Runways:VCCC 04-22:extended centerline 1
+Runways:VCCC 04-22:extended centerline 1 left base
+Runways:VCCC 04-22:extended centerline 1 left ticks
+Runways:VCCC 04-22:extended centerline 1 left vectoring
+Runways:VCCC 04-22:extended centerline 1 right base
+Runways:VCCC 04-22:extended centerline 1 right ticks
+Runways:VCCC 04-22:extended centerline 1 right vectoring
+Runways:VCCC 04-22:extended centerline 2
+Runways:VCCC 04-22:extended centerline 2 left base
+Runways:VCCC 04-22:extended centerline 2 left ticks
+Runways:VCCC 04-22:extended centerline 2 left vectoring
+Runways:VCCC 04-22:extended centerline 2 right base
+Runways:VCCC 04-22:extended centerline 2 right ticks
+Runways:VCCC 04-22:extended centerline 2 right vectoring
+Runways:VCCC 04-22:name
 Runways:VCRI 05-23:centerline
 Runways:VCRI 05-23:extended centerline 1
 Runways:VCRI 05-23:extended centerline 1 left base
@@ -64,4 +80,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky Eurocat
-WINDOWAREA:5.059419:77.055543:8.510521:83.312497
+WINDOWAREA:5.091884:76.999902:8.542986:83.256858
