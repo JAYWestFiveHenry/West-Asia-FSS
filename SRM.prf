@@ -4,9 +4,9 @@ Settings	SettingsfileSYMBOLOGY	\SRM\Settings\Symbology.txt
 Settings	SettingsfileVOICE	\SRM\Settings\VCCF Voice Channels.txt
 Settings	SettingsfilePROFILE	\SRM\Settings\VCCF Profiles.txt
 Settings	SettingsfileTAGS	\SRM\Settings\Custom Tag.txt
-Settings	SettingsfileSIL	\SRM\Settings\Lists.txt
-Settings	SettingsfileSEL	\SRM\Settings\Lists.txt
-Settings	SettingsfileDEP	\SRM\Settings\Lists.txt
+Settings	SettingsfileSIL	\SRM\Settings\SectorInbound.txt
+Settings	SettingsfileSEL	\SRM\Settings\SectorExit.txt
+Settings	SettingsfileDEP	\SRM\Settings\Departure.txt
 Settings	SettingsfileARR	\SRM\Settings\Lists.txt
 Settings	SettingsfileFP	\SRM\Settings\Lists.txt
 Settings	SettingsfilePLUGINS	\SRM\Settings\Plugins.txt
@@ -56,7 +56,7 @@ LastSession	callsign	VCCF_CTR
 LastSession	server	SweatBox
 LastSession	atis2	"Colombo Control" | CPDLC Logon VCCF 
 LastSession	atis4	More info -> www.4r-ipm.me/vaccsrm/
-RecentFiles	Recent1	\SRM\ASR\Colombo FIR.asr
+RecentFiles	Recent1	\SRM\ASR\SRMvACC Display.asr
 LastSession	atis_freq3	118000
 LastSession	SimAuto	0
 LastSession	atis3	CPDLC ABOVE FL245+
@@ -75,9 +75,10 @@ LastSession	realname	Gia Huy Tran
 LastSession	certificate	1442675
 LastSession	password	cz11Mrc9
 LastSession	scenario	\VCBI_ADC.txt
-RecentFiles	Recent2	\SRM\ASR\Colombo SMC.asr
+RecentFiles	Recent2	\SRM\ASR\Colombo FIR.asr
 Plugins	Plugin4	\SRM\Plugins\ESEgypt.dll
 Plugins	Plugin5	\SRM\Plugins\RDFPlugin.dll
 Plugins	Plugin5Display0	Standard ES radar screen
 Plugins	Plugin5Display1	Ground Radar display
 Plugins	Plugin6	\SRM\Plugins\VCH.dll
+RecentFiles	Recent3	\SRM\ASR\Colombo SMC.asr
