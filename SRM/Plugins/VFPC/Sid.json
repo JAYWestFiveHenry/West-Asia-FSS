@@ -2,6 +2,12 @@
    {
       "icao": "VCBI",
       "sids": {
+         "RADAR":[
+            {
+               "direction": "ANY",
+               "suffix":"1L,1R,1S,2L,2R,2S"
+            }
+         ],
          "ATETA": [
             {
                "direction": "EVEN",
@@ -11,7 +17,7 @@
             },
             {
                "direction": "EVEN",
-               "airways": ["ATETA"]
+               "airways": ["ATETA T4"]
             }
          ],
          "BASUR": [
@@ -46,9 +52,7 @@
             {
                "direction": "EVEN",
                "airways":["LALUM"],
-               "destinations": [
-                  "VR"
-               ]
+               "destinations": ["VR"]
             }
          ],
          "OLSAR": [
@@ -70,81 +74,102 @@
       }
    },
    {
-      "icao": "EDDW",
+      "icao": "VRMM",
       "sids": {
-         "VCT": [
+         "PATLO": [
             {
-               "direction": "ANY"
+               "direction": "ODD",
+               "airways":["PATLO R457"]
             }
          ],
-         "BASUM": [
+         "MUGBA": [
 		 	{
-               "direction": "EVEN",
-			   "max_fl": 240,
-			   "destinations": [
-                  "EDDL",
-                  "EDDK",
-                  "EDLW",
-                  "EDLV",
-                  "EDLN",
-                  "EDDG"
-               ]
-            },
-            {
-               "direction": "EVEN"
-            }
+               "direction": "ODD",
+               "airways":["MUGBA R457"]
+         }
          ],
-         "EEL": [
-            {
-               "direction": "EVEN"
-            }
-         ],
-         "ERLAD": [
-            {
-               "direction": "EVEN",
-               "destinations": [
-                  "EDDK",
-                  "EDDL",
-                  "EDDG",
-                  "EDLW",
-                  "EDLN",
-                  "EDLP",
-                  "EDGS",
-                  "EDLV"
-               ]
-            },
-            {
-               "direction": "ODD"
-            }
-         ],
-         "GESTO": [
-            {
-               "direction": "ODD"
-            }
-         ],
-         "NIE": [
+         "DOPDO": [
             {
                "direction": "ODD",
-               "max_fl": 90,
-               "destinations": [
-                  "EDDV",
-                  "EDVE"
-               ]
-            },
-            {
-               "direction": "ODD"
+               "airways":["DOPDO G465"]
             }
          ],
-         "WSN": [
+         "ATSON": [
             {
                "direction": "ODD",
-               "max_fl": 90,
-               "destinations": [
-                  "EDDH"
-               ]
-            },
+               "airways":["ATSON G465"]
+            }
+         ],
+         "GOKAM": [
             {
-               "direction": "ODD"
+               "direction": "ODD",
+               "airways":["GOKAM P756"]
+            }
+         ],
+         "TENIV": [
+            {
+               "direction": "ODD",
+               "airways":["TENIV P756"]
+            }
+         ],
+         "AQAXA": [
+            {
+               "direction": "ODD",
+               "airways":["AQAXA L894"]
+            }
+         ],
+         "ATISA": [
+            {
+               "direction":"ODD",
+               "airways":["ATISA Z852"]
+            }
+         ],
+         "IGRAM": [
+            {
+               "direction":"EVEN",
+               "airways":["IGRAM Z749",
+               "IGRAM Q511"]
+            }
+         ],
+         "MISAQ":[
+            {
+               "direction":"EVEN"
+            }
+         ],
+         "ESKOL":[
+            {
+               "direction":"EVEN",
+               "airways":["ESKOL G465"]
+            }
+         ],
+         "ELBET":[
+            {
+               "direction":"EVEN",
+               "airways":["ELBET L894"]
+            }
+         ],
+         "LELEM":[
+            {
+               "direction":"EVEN",
+               "airways":["LELEM L894"]
+            }
+         ],
+         "PILIK":[
+            {
+               "direction":"EVEN",
+               "airways":"PILIK Y991"
+            }
+         ],
+         "KAGUM":[
+            {
+               "direction":"EVEN",
+               "airways":["KAGUM R329"]
+            }
+         ],
+         "MUNUT":[
+            {
+               "direction":"EVEN",
+               "airways":["MUNUT Y993","MUNUT Y992","MUNUT R329"]
             }
          ]
       }
