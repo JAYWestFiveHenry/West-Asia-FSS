@@ -2,17 +2,11 @@ Setup_AutoSignIn=1
 
 Window_PDC_SetASSR=1
 Window_PDC_SetCFL=1
-Window_CPDLC_Current=1,1550,380
-Window_CPDLC_Current_MaxListItems=5
-Window_CPDLC_Setting=1,0,355
 Window_LostList_Auto=0
 Window_WxMsgs_MetarRefreshInterval=900
 Window_WxMsgs_HighlightNew=1
 Window_SM_LeaveHoldTime=3
-Window_PredTfc=3,1620,797
-Window_Ops=3,1620,597
 Window_Clock=3,1520,950
-Window_CARD=3,0,700
 Window_SM_LeaveHoldTime=3
 Window_SM_LowestLevel=30
 
@@ -41,10 +35,6 @@ STCA_CurrProx_Sep_Lat_U=7.75
 STCA_CurrProx_Sep_Lat_L=7.75
 
 [_APP]
-Label_Co_GS=1
-Label_Ass_GS=1
-Label_Red_GS=1
-Label_No_GS=1
 MTCD=0
 
 [VCBI_APP]
