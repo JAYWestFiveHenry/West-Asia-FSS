@@ -1,7 +1,7 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
+SECTORFILE:\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
 Geo:GEO:
 Regions:VCBI GroundLayout:polygon
