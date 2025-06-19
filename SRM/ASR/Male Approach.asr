@@ -10,14 +10,6 @@ Airports:VRMM:name
 Airports:VRMM:symbol
 Airports:VRMV:name
 Airports:VRMV:symbol
-Fixes:AQAXA:name
-Fixes:AQAXA:symbol
-Fixes:HOKEY:name
-Fixes:HOKEY:symbol
-Fixes:LELEM:name
-Fixes:LELEM:symbol
-Fixes:PATLO:name
-Fixes:PATLO:symbol
 Geo:VRMF Landmark Coastline:
 Runways:VRMM 18-36:centerline
 Runways:VRMM 18-36:extended centerline 1
@@ -64,4 +56,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky Eurocat
-WINDOWAREA:2.707272:70.885233:5.666043:76.249578
+WINDOWAREA:2.344779:70.366626:6.043244:77.072057

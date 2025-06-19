@@ -23,7 +23,7 @@
          "BASUR": [
             {
                "direction": "EVEN",
-			      "airways": ["P570"]
+			      "airways": ["BASUR P570","BASUR"]
             }
          ],
          "DEMON": [

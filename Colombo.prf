@@ -6,7 +6,7 @@ Settings	SettingsfilePROFILE	\SRM\Settings\VCCF Profiles.txt
 Settings	SettingsfileTAGS	\SRM\Settings\Custom Tag.txt
 Settings	SettingsfileSIL	\SRM\Settings\SectorInbound.txt
 Settings	SettingsfileSEL	\SRM\Settings\SectorExit.txt
-Settings	SettingsfileDEP	\SRM\Settings\Departure.txt
+Settings	SettingsfileDEP	\SRM\Settings\Departure vSMR.txt
 Settings	SettingsfileARR	\SRM\Settings\Lists.txt
 Settings	SettingsfileFP	\SRM\Settings\Lists.txt
 Settings	SettingsfilePLUGINS	\SRM\Settings\Plugins.txt
@@ -48,7 +48,7 @@ Sounds	Sound16	\SRM\Sounds\handoff_refused.wav
 Sounds	Sound17	\SRM\Sounds\pointout.wav
 Sounds	Sound18	\SRM\Sounds\startup.wav
 Plugins	Plugin0	\SRM\Plugins\TopSky\TopSky.dll
-Plugins	Plugin1	\SRM\Plugins\GRPlugin\GRplugin.dll
+Plugins	Plugin1	\SRM\Plugins\vSMR\vSMR.dll
 Plugins	Plugin2	\SRM\Plugins\ESTimers.dll
 Plugins	Plugin3	\SRM\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
 LastSession	atis_freq4	118000
@@ -56,13 +56,13 @@ LastSession	callsign	VCBI_APP
 LastSession	server	AUTOMATIC
 LastSession	atis2	"Colombo Director" 
 LastSession	atis4	More info -> www.4r-ipm.me/vaccsrm/
-RecentFiles	Recent1	\SRM\ASR\Colombo FIR.asr
+RecentFiles	Recent1	\SRM\ASR\Colombo SMC.asr
 LastSession	atis_freq3	118000
 LastSession	SimAuto	0
 Plugins	Plugin0Display0	SMR radar display
 Plugins	Plugin0Display1	Ground Radar display
 Plugins	Plugin0Display2	Standard ES radar screen
-Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1Display0	SMR radar display
 Settings	SettingsfilePILOTING	\SRM\Settings\General.txt
 Settings	SettingsfileORIGPLANE	\SRM\Settings\General.txt
 Settings	SettingsfileSTUP	\SRM\Settings\General.txt
@@ -74,7 +74,7 @@ LastSession	realname	Gia Huy Tran
 LastSession	certificate	1442675
 LastSession	password	cz11Mrc9
 LastSession	scenario	\VCBI_ADC.txt
-RecentFiles	Recent2	\SRM\ASR\Colombo SMC.asr
+RecentFiles	Recent2	\SRM\ASR\Colombo FIR.asr
 Plugins	Plugin4	\SRM\Plugins\DiscordEuroScope\DiscordEuroscope.dll
 Plugins	Plugin5	\SRM\Plugins\ESEgypt.dll
 Plugins	Plugin6	\SRM\Plugins\RDFPlugin.dll

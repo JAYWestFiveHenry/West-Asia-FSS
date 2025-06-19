@@ -9,7 +9,7 @@ ATIS3:Report Aircraft Type, Stand & POB on Initial Contact
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 PROFILE:VCRI_APP:150:5
 ATIS2:"Mattala Approach" 
-ATIS3:Covering Mattala CTA ONLY up to FL145
+ATIS3:Covering Mattala CTA ONLY up to FL130
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 PROFILE:VCRI_TWR:50:4
 ATIS2:"Mattala Tower" 
@@ -25,7 +25,7 @@ ATIS3:Procedural Tower Service
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 PROFILE:VCCJ_TWR:50:4
 ATIS2:"Jaffna Tower" 
-ATIS3:Procedural Tower Service
+ATIS3:Procedural Tower Service up to 10000ft
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 PROFILE:VCCV_TWR:50:4
 ATIS2:"Vavunya Tower" 
@@ -49,11 +49,11 @@ ATIS3:Procedural Tower Service
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 PROFILE:VCCA_TWR:50:4
 ATIS2:"Anuradhapura Tower" 
-ATIS3:Procedural Tower Service
+ATIS3:Report Aircraft Type, Stand & POB on Initial Contact
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 PROFILE:VCCA_APP:150:5
 ATIS2:"Anuradhapura Approach" 
-ATIS3:
+ATIS3:Covering Anuradhapura CTA up to 9500ft
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
 PROFILE:VCBI_APP:150:5
 ATIS2:"Colombo Director" 
