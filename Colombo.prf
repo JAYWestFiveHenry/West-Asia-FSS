@@ -56,7 +56,7 @@ LastSession	callsign	VCBI_APP
 LastSession	server	AUTOMATIC
 LastSession	atis2	"Colombo Director" 
 LastSession	atis4	More info -> www.4r-ipm.me/vaccsrm/
-RecentFiles	Recent1	\SRM\ASR\Colombo SMC.asr
+RecentFiles	Recent1	\SRM\ASR\Colombo FIR.asr
 LastSession	atis_freq3	118000
 LastSession	SimAuto	0
 Plugins	Plugin0Display0	SMR radar display
@@ -74,7 +74,7 @@ LastSession	realname	Gia Huy Tran
 LastSession	certificate	1442675
 LastSession	password	cz11Mrc9
 LastSession	scenario	\VCBI_ADC.txt
-RecentFiles	Recent2	\SRM\ASR\Colombo FIR.asr
+RecentFiles	Recent2	\SRM\ASR\Colombo SMC.asr
 Plugins	Plugin4	\SRM\Plugins\DiscordEuroScope\DiscordEuroscope.dll
 Plugins	Plugin5	\SRM\Plugins\ESEgypt.dll
 Plugins	Plugin6	\SRM\Plugins\RDFPlugin.dll

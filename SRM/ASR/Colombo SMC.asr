@@ -1,8 +1,86 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:\SRMvACC.sct
+SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
+Free Text:VCBI GroundLayout\A:freetext
+Free Text:VCBI GroundLayout\A1:freetext
+Free Text:VCBI GroundLayout\A2:freetext
+Free Text:VCBI GroundLayout\A3:freetext
+Free Text:VCBI GroundLayout\A4:freetext
+Free Text:VCBI GroundLayout\A5:freetext
+Free Text:VCBI GroundLayout\A6:freetext
+Free Text:VCBI GroundLayout\A7:freetext
+Free Text:VCBI GroundLayout\A8:freetext
+Free Text:VCBI GroundLayout\A9:freetext
+Free Text:VCBI GroundLayout\APRON A:freetext
+Free Text:VCBI GroundLayout\APRON B:freetext
+Free Text:VCBI GroundLayout\APRON C:freetext
+Free Text:VCBI GroundLayout\APRON D:freetext
+Free Text:VCBI GroundLayout\APRON E:freetext
+Free Text:VCBI GroundLayout\B:freetext
+Free Text:VCBI GroundLayout\B10:freetext
+Free Text:VCBI GroundLayout\B11:freetext
+Free Text:VCBI GroundLayout\B12:freetext
+Free Text:VCBI GroundLayout\B14:freetext
+Free Text:VCBI GroundLayout\B15:freetext
+Free Text:VCBI GroundLayout\B16:freetext
+Free Text:VCBI GroundLayout\B17:freetext
+Free Text:VCBI GroundLayout\B18:freetext
+Free Text:VCBI GroundLayout\C:freetext
+Free Text:VCBI GroundLayout\C19:freetext
+Free Text:VCBI GroundLayout\C20:freetext
+Free Text:VCBI GroundLayout\C21:freetext
+Free Text:VCBI GroundLayout\C22:freetext
+Free Text:VCBI GroundLayout\C23:freetext
+Free Text:VCBI GroundLayout\C24:freetext
+Free Text:VCBI GroundLayout\C25:freetext
+Free Text:VCBI GroundLayout\C26:freetext
+Free Text:VCBI GroundLayout\D:freetext
+Free Text:VCBI GroundLayout\D1:freetext
+Free Text:VCBI GroundLayout\D2:freetext
+Free Text:VCBI GroundLayout\D3:freetext
+Free Text:VCBI GroundLayout\D4:freetext
+Free Text:VCBI GroundLayout\E:freetext
+Free Text:VCBI GroundLayout\E1:freetext
+Free Text:VCBI GroundLayout\E2:freetext
+Free Text:VCBI GroundLayout\E27:freetext
+Free Text:VCBI GroundLayout\E28:freetext
+Free Text:VCBI GroundLayout\E29:freetext
+Free Text:VCBI GroundLayout\E3:freetext
+Free Text:VCBI GroundLayout\E30:freetext
+Free Text:VCBI GroundLayout\E31:freetext
+Free Text:VCBI GroundLayout\E32:freetext
+Free Text:VCBI GroundLayout\E33:freetext
+Free Text:VCBI GroundLayout\E34:freetext
+Free Text:VCBI GroundLayout\E35:freetext
+Free Text:VCBI GroundLayout\E36:freetext
+Free Text:VCBI GroundLayout\E36L:freetext
+Free Text:VCBI GroundLayout\E36R:freetext
+Free Text:VCBI GroundLayout\E37:freetext
+Free Text:VCBI GroundLayout\E37L:freetext
+Free Text:VCBI GroundLayout\E37R:freetext
+Free Text:VCBI GroundLayout\E38:freetext
+Free Text:VCBI GroundLayout\E39:freetext
+Free Text:VCBI GroundLayout\E40:freetext
+Free Text:VCBI GroundLayout\E40L:freetext
+Free Text:VCBI GroundLayout\E40R:freetext
+Free Text:VCBI GroundLayout\E41:freetext
+Free Text:VCBI GroundLayout\E41L:freetext
+Free Text:VCBI GroundLayout\E41R:freetext
+Free Text:VCBI GroundLayout\E42:freetext
+Free Text:VCBI GroundLayout\E42L:freetext
+Free Text:VCBI GroundLayout\E42R:freetext
+Free Text:VCBI GroundLayout\E43:freetext
+Free Text:VCBI GroundLayout\E44:freetext
+Free Text:VCBI GroundLayout\E45:freetext
+Free Text:VCBI GroundLayout\E46:freetext
+Free Text:VCBI GroundLayout\E47:freetext
+Free Text:VCBI GroundLayout\E48:freetext
+Free Text:VCBI GroundLayout\E49:freetext
+Free Text:VCBI GroundLayout\MAINTENANCE APRON:freetext
+Free Text:VCBI GroundLayout\MILITARY APRON:freetext
+Free Text:VCBI GroundLayout\P:freetext
 Geo:GEO:
 Regions:VCBI GroundLayout:polygon
 SHOWC:1
@@ -13,10 +91,11 @@ LEADER:5
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:0
-SIMULATION_MODE:4
+SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:53.00000
-TAGFAMILY:Matias (built in)
-WINDOWAREA:7.163323:79.854949:7.195268:79.912866
+TAGFAMILY:TopSky Eurocat
+WINDOWAREA:7.168388:79.863131:7.193945:79.909465
 PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:Airport:VCBI
