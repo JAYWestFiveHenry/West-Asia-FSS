@@ -1,8 +1,8 @@
 m_PlaySounds:1
-m_AssumeSlowAcAsStandby:0
+m_AssumeSlowAcAsStandby:1
 m_ShowAirspaceLines:1
 m_ShowRouteFixName:1
-m_ShowRouteETA:1
+m_ShowRouteETA:0
 m_ShowCalculatedHeading:1
 m_ShowSimulatedData:0
 m_TransitionAltitude:11000
@@ -28,10 +28,10 @@ m_STCA_HighHorizontal:5.0
 m_STCA_HighBottom:15000
 m_ExtendedCenterlinActiveArr:1
 m_UseHoveringTagForKeys:0
-m_AutoMessageForTextAircraft:1
+m_AutoMessageForTextAircraft:0
 m_ShowRouteWhenAccepting:0
 m_AllowAssumedACTagDown:0
-m_InhibitAutoPushOnHandoff:0
+m_InhibitAutoPushOnHandoff:1
 m_RandomSquawks:1
 m_VFRSquawks:1000
 m_WhoIsOnlineURL:http://info.vroute.net/vatsim-data.txt
@@ -67,7 +67,7 @@ m_EnableVoiceRecognition:0
 m_VoiceRecognitionStyle:2
 m_SModeTransponders:HLEGWQS
 m_CorrelationMode:0
-m_CorrelationDistance:100
+m_CorrelationDistance:0
 m_SimulateRadars:0
 m_AllowCorrelatedTAGDown:1
 m_ShowDetailedOverUntagged:0
@@ -77,7 +77,7 @@ m_VatsimStatusURL:http://status.vatsim.net/
 m_OverrideWhoIsOnlineURL:0
 m_ShowVFRFlightPlanTrack:0
 m_ShowIFRFlightPlanTrack:0
-m__AutoStartFlightPlanTracks:1
+m__AutoStartFlightPlanTracks:0
 m_UnicomFrequency:122.8
 m_MessageInfoLevel:1
 m_MessageWarningLevel:2
@@ -103,7 +103,7 @@ m_ShowVFRInFpList:1
 m_ShowIFRInFpList:1
 m_ShowConcernedInFpList:1
 m_ShowUnconcernedInFpList:1
-m_ZoomCenterUnderMouse:0
+m_ZoomCenterUnderMouse:1
 m_AseURL:http://www.craig-phillips.co.uk/ase/repository/
 m_STCA_LowPreWarnTime:120
 m_STCA_LowWarnTime:60
@@ -114,7 +114,7 @@ m_STCA_PlaySoundOnCFL:0
 m_STCA_PlaySoundOnTrackedOnly:1
 m_AutoCorrelateDisabledSQs:1000,1200,2000,2200,7000,7700,7600,7500
 m_DontAutoCorrelateDuplicated:1
-m_AcceptPilotSquawkForCorrelation:1
+m_AcceptPilotSquawkForCorrelation:0
 m_MTCA_Floor:10000
 m_MTCA_AltitudeDifference:900
 m_MTCA_Distance:10.0
@@ -129,7 +129,7 @@ SET_MTCA_Show:1
 m_TaxiOutTime:7
 m_StartupTime:10
 m_ConnectTime:15
-m_AutoAssumeOnGroundStateChangeButton:0
+m_AutoAssumeOnGroundStateChangeButton:1
 m_ShowTrackMilesInRouteButton:1
 m_FilterOutSquawks:
 m_EquipmentsIcaoFormat:0

@@ -21,11 +21,11 @@ Settings	airports	\SRM\ICAO\ICAO_Airports.txt
 Settings	aircraft	\SRM\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\SRM\NavData\icao.txt
 Settings	airways	\SRM\NavData\airway.txt
-LastSession	connecttype	0
-LastSession	facility	5
+LastSession	connecttype	2
+LastSession	facility	4
 LastSession	rating	3
 LastSession	tovatsim	1
-LastSession	range	150
+LastSession	range	50
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 Sounds	Sound0	\SRM\Sounds\handoff_request.wav
@@ -52,11 +52,11 @@ Plugins	Plugin1	\SRM\Plugins\vSMR\vSMR.dll
 Plugins	Plugin2	\SRM\Plugins\ESTimers.dll
 Plugins	Plugin3	\SRM\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
 LastSession	atis_freq4	118000
-LastSession	callsign	VCBI_APP
-LastSession	server	AUTOMATIC
-LastSession	atis2	"Colombo Director" 
+LastSession	callsign	VCBI_TWR
+LastSession	server	SweatBox
+LastSession	atis2	"Colombo Tower"
 LastSession	atis4	More info -> www.4r-ipm.me/vaccsrm/
-RecentFiles	Recent1	\SRM\ASR\Colombo FIR.asr
+RecentFiles	Recent1	\SRM\ASR\Colombo SMC.asr
 LastSession	atis_freq3	118000
 LastSession	SimAuto	0
 Plugins	Plugin0Display0	SMR radar display
@@ -74,7 +74,7 @@ LastSession	realname	Gia Huy Tran
 LastSession	certificate	1442675
 LastSession	password	cz11Mrc9
 LastSession	scenario	\VCBI_ADC.txt
-RecentFiles	Recent2	\SRM\ASR\Colombo SMC.asr
+RecentFiles	Recent2	\SRM\ASR\Colombo FIR.asr
 Plugins	Plugin4	\SRM\Plugins\DiscordEuroScope\DiscordEuroscope.dll
 Plugins	Plugin5	\SRM\Plugins\ESEgypt.dll
 Plugins	Plugin6	\SRM\Plugins\RDFPlugin.dll
@@ -88,7 +88,7 @@ RecentFiles	Recent3	\SRM\ASR\Mattala GMC.asr
 ASRFastKeys	1	\SRM\ASR\Colombo FIR.asr
 ASRFastKeys	2	\SRM\ASR\Colombo SMC.asr
 ASRFastKeys	3	\SRM\ASR\Mattala GMC.asr
-LastSession	atis3	Covering Colombo CTA ONLY up to FL150
+LastSession	atis3	Report Aircraft Type, Stand & POB on Initial Contact
 Settings	alias	\SRM\Alias\alias.txt
 Settings	sector	\SRMvACC.sct
 Settings	SettingsfileSYMBOLOGY	\SRM\Settings\Symbology.txt
