@@ -6,9 +6,10 @@ Window_LostList_Auto=0
 Window_WxMsgs_MetarRefreshInterval=900
 Window_WxMsgs_HighlightNew=1
 Window_SM_LeaveHoldTime=3
+Window_PredTfc=3,1620,797
+Window_Ops=3,1620,597
 Window_Clock=3,1520,950
-Window_SM_LeaveHoldTime=3
-Window_SM_LowestLevel=30
+Window_CARD=3,0,700
 
 //WINDOW LIST SETTINGS
 List_Holding=1695,200
