@@ -21,7 +21,7 @@ Settings	airports	\SRM\ICAO\ICAO_Airports.txt
 Settings	aircraft	\SRM\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\SRM\NavData\icao.txt
 Settings	airways	\SRM\NavData\airway.txt
-LastSession	connecttype	2
+LastSession	connecttype	0
 LastSession	facility	6
 LastSession	rating	3
 LastSession	tovatsim	1
