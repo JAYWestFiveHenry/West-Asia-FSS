@@ -6,7 +6,7 @@ m_ShowRouteETA:0
 m_ShowCalculatedHeading:1
 m_ShowSimulatedData:0
 m_TransitionAltitude:11000
-m_AllowConcernedACTagDown:0
+m_AllowConcernedACTagDown:1
 m_CenterlineDme:0.0
 m_CenterlineLength:16.0
 m_CenterlineTickDme:1.0
@@ -70,7 +70,7 @@ m_CorrelationMode:0
 m_CorrelationDistance:0
 m_SimulateRadars:0
 m_AllowCorrelatedTAGDown:1
-m_ShowDetailedOverUntagged:1
+m_ShowDetailedOverUntagged:0
 m_ShowRectAroundFPTrack:0
 m_ShowRectAroundASEL:0
 m_VatsimStatusURL:http://status.vatsim.net/
