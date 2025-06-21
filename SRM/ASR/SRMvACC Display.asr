@@ -1,11 +1,13 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
+SECTORFILE:\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
 ARTCC boundary:Colombo TMA/UTA:
 ARTCC boundary:VCCF_CTR Colombo Control:
 ARTCC boundary:VRMF_CTR Male Control:
+ARTCC boundary:VRMF_N_CTR Male Control:
+ARTCC boundary:VRMF_S_CTR Male Control:
 ARTCC low boundary:VCBI TWR Colombo Tower:
 ARTCC low boundary:VCBI_APP Colombo Director:
 ARTCC low boundary:VCCA_APP Anuradhapura Approach:
@@ -67,6 +69,36 @@ Runways:VCRI 05-23:extended centerline 2 left vectoring
 Runways:VCRI 05-23:extended centerline 2 right base
 Runways:VCRI 05-23:extended centerline 2 right ticks
 Runways:VCRI 05-23:extended centerline 2 right vectoring
+Runways:VRMG 10-28:centerline
+Runways:VRMG 10-28:extended centerline 1
+Runways:VRMG 10-28:extended centerline 1 left base
+Runways:VRMG 10-28:extended centerline 1 left ticks
+Runways:VRMG 10-28:extended centerline 1 left vectoring
+Runways:VRMG 10-28:extended centerline 1 right base
+Runways:VRMG 10-28:extended centerline 1 right ticks
+Runways:VRMG 10-28:extended centerline 1 right vectoring
+Runways:VRMG 10-28:extended centerline 2
+Runways:VRMG 10-28:extended centerline 2 left base
+Runways:VRMG 10-28:extended centerline 2 left ticks
+Runways:VRMG 10-28:extended centerline 2 left vectoring
+Runways:VRMG 10-28:extended centerline 2 right base
+Runways:VRMG 10-28:extended centerline 2 right ticks
+Runways:VRMG 10-28:extended centerline 2 right vectoring
+Runways:VRMM 18-36:centerline
+Runways:VRMM 18-36:extended centerline 1
+Runways:VRMM 18-36:extended centerline 1 left base
+Runways:VRMM 18-36:extended centerline 1 left ticks
+Runways:VRMM 18-36:extended centerline 1 left vectoring
+Runways:VRMM 18-36:extended centerline 1 right base
+Runways:VRMM 18-36:extended centerline 1 right ticks
+Runways:VRMM 18-36:extended centerline 1 right vectoring
+Runways:VRMM 18-36:extended centerline 2
+Runways:VRMM 18-36:extended centerline 2 left base
+Runways:VRMM 18-36:extended centerline 2 left ticks
+Runways:VRMM 18-36:extended centerline 2 left vectoring
+Runways:VRMM 18-36:extended centerline 2 right base
+Runways:VRMM 18-36:extended centerline 2 right ticks
+Runways:VRMM 18-36:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:0
 BELOW:1000
@@ -80,4 +112,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky Eurocat
-WINDOWAREA:-10.620522:56.400124:15.092192:103.018075
+WINDOWAREA:-10.202519:57.106081:15.510195:103.724033
