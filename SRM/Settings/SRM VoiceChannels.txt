@@ -21,7 +21,7 @@ AG:VCCW_TWR Wirawila Tower:118.100
 AG:VCRI_APP Mattala Approach:124.350
 AG:VCRI_GND Mattala Ground:121.700
 AG:VCRI_TWR Mattala Tower:119.850
-AG:ASIA_W_FSS:135.400:West Asia Control
+AG:ASIA_W_FSS:135.400
 AG:VRMD_ATIS:125.700
 AG:VRMD_TWR Dharavandhoo Tower:118.250
 AG:VRMF_CTR Male Control:123.900

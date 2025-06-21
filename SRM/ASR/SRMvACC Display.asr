@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:\SRMvACC.sct
+SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
 ARTCC boundary:Colombo TMA/UTA:
 ARTCC boundary:VCCF_CTR Colombo Control:
@@ -112,4 +112,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky Eurocat
-WINDOWAREA:-10.202519:57.106081:15.510195:103.724033
+WINDOWAREA:-10.625178:56.470932:15.087536:103.088884
