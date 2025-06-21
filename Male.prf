@@ -55,8 +55,8 @@ Plugins	Plugin4	\SRM\Plugins\ESEgypt.dll
 Plugins	Plugin2Display0	SMR radar display
 LastSession	atis_letter	65
 LastSession	atis_airport	VRMM
-RecentFiles	Recent1	\SRM\ASR\Male Approach.asr
-RecentFiles	Recent2	\SRM\ASR\Male GMC.asr
+RecentFiles	Recent1	\SRM\ASR\Male FIR.asr
+RecentFiles	Recent2	\SRM\ASR\Male Approach.asr
 LastSession	atis_freq4	118000
 Settings	SettingsfilePILOTING	\SRM\Settings\General.txt
 Settings	SettingsfileORIGPLANE	\SRM\Settings\General.txt
@@ -83,7 +83,7 @@ Plugins	Plugin6	\SRM\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
 Plugins	Plugin7	\SRM\Plugins\RDFPlugin.dll
 Plugins	Plugin7Display0	Standard ES radar screen
 Plugins	Plugin7Display1	Ground Radar display
-RecentFiles	Recent3	\SRM\ASR\Male FIR.asr
+RecentFiles	Recent3	\SRM\ASR\Male GMC.asr
 Plugins	Plugin8	\SRM\Plugins\VFPC\VFPC.dll
 Plugins	Plugin8Display0	SMR radar display
 Plugins	Plugin8Display1	Standard ES radar screen

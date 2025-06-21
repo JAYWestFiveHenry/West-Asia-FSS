@@ -3,7 +3,7 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
-ARTCC high boundary:VRMF_CTR Male Control:
+ARTCC boundary:VRMF_CTR Male Control:
 ARTCC low boundary:VRDA AFIS Area:
 ARTCC low boundary:VREI AFIS Area:
 ARTCC low boundary:VRMD_TWR Dharavandhoo Tower:
@@ -75,4 +75,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky Eurocat
-WINDOWAREA:-6.835843:57.817346:10.799808:89.791330
+WINDOWAREA:-7.785071:57.900611:9.850580:89.874596
