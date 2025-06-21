@@ -6,10 +6,6 @@ SECTORTITLE:SRMvACC.sct
 ARTCC low boundary:VRMM_APP Male Approach:
 ARTCC low boundary:VRMM_TWR Male Tower:
 ARTCC low boundary:VRMV_TWR Maamigili Tower:
-Airports:VRMM:name
-Airports:VRMM:symbol
-Airports:VRMV:name
-Airports:VRMV:symbol
 Geo:VRMF Landmark Coastline:
 Runways:VRMM 18-36:centerline
 Runways:VRMM 18-36:extended centerline 1
@@ -26,7 +22,6 @@ Runways:VRMM 18-36:extended centerline 2 left vectoring
 Runways:VRMM 18-36:extended centerline 2 right base
 Runways:VRMM 18-36:extended centerline 2 right ticks
 Runways:VRMM 18-36:extended centerline 2 right vectoring
-Runways:VRMM 18-36:name
 Runways:VRMV 09-27:centerline
 Runways:VRMV 09-27:extended centerline 1
 Runways:VRMV 09-27:extended centerline 1 left base
@@ -42,7 +37,6 @@ Runways:VRMV 09-27:extended centerline 2 left vectoring
 Runways:VRMV 09-27:extended centerline 2 right base
 Runways:VRMV 09-27:extended centerline 2 right ticks
 Runways:VRMV 09-27:extended centerline 2 right vectoring
-Runways:VRMV 09-27:name
 SHOWC:1
 SHOWSB:0
 BELOW:1000
@@ -56,4 +50,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky Eurocat
-WINDOWAREA:2.745073:70.803041:5.703845:76.167387
+WINDOWAREA:2.733648:70.906941:5.692420:76.271287
