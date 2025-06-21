@@ -8,6 +8,12 @@
                "suffix":"1L,1R,1S,2L,2R,2S"
             }
          ],
+         "SAGOR":[
+            {
+               "direction":"EVEN",
+               "airways":"SAGOR"
+            }
+         ],
          "ATETA": [
             {
                "direction": "EVEN",
