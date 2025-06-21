@@ -98,7 +98,8 @@
          "DOPDO": [
             {
                "direction": "ODD",
-               "airways":["DOPDO G465"]
+               "airways":["DOPDO G465","DOPDO"],
+               "destinations":["VC"]
             }
          ],
          "HOKEY": [
