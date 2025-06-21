@@ -71,10 +71,10 @@ Settings	SettingsfileTAXIOUT	\SRM\Settings\General.txt
 Settings	SettingsfileTAKEOFF	\SRM\Settings\General.txt
 Settings	SettingsfileADCS	\SRM\Settings\General.txt
 Settings	SettingsfileTAXIIN	\SRM\Settings\General.txt
-LastSession	realname	Gia Huy Tran
-LastSession	certificate	1442675
-LastSession	password	cz11Mrc9
-LastSession	scenario	\VCBI_ADC.txt
+LastSession	realname
+LastSession	certificate	
+LastSession	password	
+LastSession	scenario	
 RecentFiles	Recent2	\SRM\ASR\Colombo SMC.asr
 Plugins	Plugin4	\SRM\Plugins\ESEgypt.dll
 Plugins	Plugin5	\SRM\Plugins\RDFPlugin.dll
