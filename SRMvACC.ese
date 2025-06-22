@@ -2932,14 +2932,7 @@ FIR_COPX:*:*:NISOK:*:*:VCCF·VCCF ACC U·245·460:WIIF·WIIF_BC_CTR·245·600:*:
 FIR_COPX:*:*:RULSA:*:*:VRMF·VRMF_N U ACC·200·460:VABF·WA VABX ACC·245·460:*:*:RULSA
 FIR_COPX:*:*:ELKEL:*:*:VRMF·VRMF_S U ACC·200·460:VABF·WA VABX ACC·245·460:*:*:ELKEL
 FIR_COPX:*:*:LEVLU:*:*:VRMF·VRMF_S U ACC·200·460:VABF·WA VABX ACC·245·460:*:*:LEVLU
-
-
-
-
-
-
-
-
+FIR_COPX:*:*:POXOD:*:*:VRMF·VRMF_N U ACC·200·460:VOMF·ACC VOTV·145·255:*:*:POXOD
 
 ;======================================================== ~~  ~~ =========================================================;
 ;================================================== ~~ Radar-Section ~~ ==================================================;
