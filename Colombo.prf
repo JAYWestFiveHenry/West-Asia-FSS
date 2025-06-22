@@ -161,9 +161,9 @@ Settings	SettingsfileTAXIOUT	\SRM\Settings\General.txt
 Settings	SettingsfileTAKEOFF	\SRM\Settings\General.txt
 Settings	SettingsfileADCS	\SRM\Settings\General.txt
 Settings	SettingsfileTAXIIN	\SRM\Settings\General.txt
-LastSession	realname	
-LastSession	certificate	
-LastSession	password	
+LastSession	realname
+LastSession	certificate
+LastSession	password
 LastSession	scenario	\VCBI_ADC.txt
 RecentFiles	Recent2	\SRM\ASR\Colombo SMC.asr
 Plugins	Plugin4	\SRM\Plugins\DiscordEuroScope\DiscordEuroscope.dll

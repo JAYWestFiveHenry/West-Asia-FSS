@@ -69,9 +69,9 @@ LastSession	callsign	VRMM_APP
 LastSession	atis2	"Male Approach" 
 LastSession	atis3	Covering Male TMA up to FL200
 LastSession	atis4	More info -> www.4r-ipm.me/vaccsrm/
-LastSession	realname	
-LastSession	certificate	
-LastSession	password	
+LastSession	realname
+LastSession	certificate
+LastSession	password
 LastSession	server	AUTOMATIC
 Plugins	Plugin5	\SRM\Plugins\ESTimers.dll
 ASRFastKeys	1	\SRM\ASR\Male Approach.asr
