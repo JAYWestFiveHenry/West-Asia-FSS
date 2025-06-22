@@ -4022,10 +4022,10 @@
       "presets": [
         {
           "id": "0c9dd512-9c7b-4f7d-acbd-2999802c76f2",
-          "name": "36 | ILS",
+          "name": "36 | ILS X",
           "airportConditions": "DEP ARR RWY 36 EXPT ILS X APPR. ALL LDG TFC ON RWY 36 TO VACATE ASAP",
-          "notams": "READBACK ALL RWY HOLD SHORT INSTRUCTIONS",
-          "template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "notams": "READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
+          "template": "VELANA INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4038,10 +4038,10 @@
         },
         {
           "id": "0c9dd512-9c7b-4f7d-acbd-2999802c76f2",
-          "name": "18 | ILS",
+          "name": "18 | ILS X",
           "airportConditions": "DEP ARR RWY 18 EXPT ILS X APPR. ALL LDG TFC ON RWY 18 TO VACATE ASAP",
-          "notams": "READBACK ALL RWY HOLD SHORT INSTRUCTIONS",
-          "template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "notams": "READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
+          "template": "VELANA INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4053,9 +4053,31 @@
           }
         }
       ],
-      "contractions": [],
+      "contractions": [
+        {
+          "variableName": "VRMM",
+          "text": "VRMM",
+          "voice": "VELANA INTERNATIONAL"
+        },
+        {
+          "variableName": "ILS_X",
+          "text": "ILS X",
+          "voice": "EYE L S X-RAY"
+        }
+      ],
       "airportConditionDefinitions": [],
-      "notamDefinitions": []
+      "notamDefinitions": [
+        {
+          "text": "NEW TAXIWAYS AT VRMM NOW IN USE",
+          "ordinal": 1,
+          "enabled": true
+        },
+        {
+          "text": "ADVISE ATC ON EQUIPPED SCENERY FOR VRMM",
+          "ordinal": 2,
+          "enabled": false
+        }
+      ]
     },
     {
       "id": "a9efe3ed-2af5-429c-a211-139a39ea5ffe",
@@ -5971,8 +5993,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "A{altimeter} ({altimeter|text})",
-            "voice": "ALTIMETER {altimeter}"
+            "text": "Q{altimeter} ({altimeter|text})",
+            "voice": "QNH {altimeter}"
           }
         },
         "trend": {
@@ -6005,7 +6027,7 @@
           }
         },
         "closingStatement": {
-          "autoIncludeClosingStatement": true,
+          "autoIncludeClosingStatement": false,
           "template": {
             "text": "...ADVS YOU HAVE INFO {letter}",
             "voice": "ADVISE ON INITIAL CONTACT, YOU HAVE INFORMATION {letter|word}"
@@ -6088,7 +6110,13 @@
           }
         }
       ],
-      "contractions": [],
+      "contractions": [
+        {
+          "variableName": "BRAVO_CHARLIE",
+          "text": "BC",
+          "voice": "BRAVO CHARLIE"
+        }
+      ],
       "airportConditionDefinitions": [],
       "notamDefinitions": [
         {
