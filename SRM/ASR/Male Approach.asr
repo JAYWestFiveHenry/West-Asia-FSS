@@ -3,7 +3,7 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
-ARTCC low boundary:VRMM_APP Male Approach:
+ARTCC high boundary:VRMM_APP Male Approach:
 ARTCC low boundary:VRMM_TWR Male Tower:
 ARTCC low boundary:VRMV_TWR Maamigili Tower:
 Geo:VRMF Landmark Coastline:
@@ -50,4 +50,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky Eurocat
-WINDOWAREA:-7.651418:57.095430:9.984239:89.069426
+WINDOWAREA:2.499226:70.064190:6.197691:76.769623
