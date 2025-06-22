@@ -17,13 +17,12 @@
          "ATETA": [
             {
                "direction": "EVEN",
-               "airways": ["T4"],
-               "destinations":["VO"],
-               "engine": ["J"]
+               "airways": ["ATETA T4"],
+               "destinations":["VO"]
             },
             {
                "direction": "EVEN",
-               "airways": ["ATETA T4"]
+               "airways": ["ATETA"]
             }
          ],
          "BASUR": [

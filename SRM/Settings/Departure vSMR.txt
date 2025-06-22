@@ -16,7 +16,7 @@ m_Column:PDC:4:1:444:544:0:1:vSMR:vSMR::0:0.0
 m_Column:AC/WTC:7:1:70:7:7:1:TopSky plugin:::1:0.0
 m_Column:COMS:5:1:201:32:32:1:TopSky plugin:::0:0.0
 m_Column:DEST:5:1:79:99:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
-m_Column:DEP-SID:10:1:270:17:17:1:TopSky plugin:::1:0.0
+m_Column:DEP-SID:13:1:270:17:17:1:TopSky plugin:::1:0.0
 m_Column:RWY:4:1:10050:19:19:1:TopSky plugin:::1:0.0
 m_Column:CLB:5:1:43:109:109:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:CRZ:4:1:120:59:59:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
