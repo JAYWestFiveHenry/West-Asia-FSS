@@ -25,7 +25,6 @@ RANGE:7400:7447
 ADEP:VR
 NOTADES:VR
 IFR
-ADHOC
 PRIORITY:+3
 
 // International Arrivals VRMF
