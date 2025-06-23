@@ -84,9 +84,14 @@
          "PATLO": [
             {
                "direction": "ODD",
+               "airways":["PATLO R457"]
+            },
+            {
+               "direction": "ODD",
                "airways":["PATLO R457"],
                "destinations":["VO","VA"]
             }
+            
          ],
          "MUGBA": [
 		 	{
