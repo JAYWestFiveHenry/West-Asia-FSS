@@ -82,8 +82,25 @@
     ],
     "radio_callsigns": {
         "config": {
-            "load_from_ese": true,
+            "load_from_ese": false,
             "path_to_ese" : "C:\\Users\\ghtra\\Documents\\EuroScope\\SRMvACC Test Sector"
+        },
+        "custom_callsigns": {
+            "^VCCF_CTR$": "Colombo ACC",
+            "^VRMF_CTR$": "Male ACC",
+            "^VRMF_S_CTR$": "Male ACC South",
+            "^VCBI_APP$" : "Colombo Director",
+            "^VCRI_APP$" : "Mattlala Approach",
+            "^VCCA_APP$" : "Anuradhapura Approach",
+            "^VRMM_APP$" : "Male Approach",
+            "^VCBI_TWR$" : "Colombo Tower",
+            "^VCBI_GND$" : "Colombo Ground",
+            "^VCRI_TWR$" : "Mattala Tower",
+            "^VCCA_TWR$" : "Anuradhapura Tower",
+            "^VCCC_TWR$" : "Ratmalana Tower",
+            "^VCCK_TWR$" : "Koggala Tower",
+            "^VRMM_TWR$" : "Male Tower",
+            "^VRMM_GND$" : "Male Ground"
         }
     }
 }
