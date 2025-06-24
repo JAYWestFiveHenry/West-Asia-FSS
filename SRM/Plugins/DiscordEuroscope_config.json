@@ -54,8 +54,12 @@
                 "presence_large_image_text" : "{callsign}",
                 "buttons": [
                     {
-                        "label": "Callsign stats",
-                        "url" : "https://stats.vatsim.net/search/{callsign}"
+                        "label": "Welcome to SRMvACC",
+                        "url" : "https://4r-ipm.me/vaccsrm/index.html?i=1"
+                    },
+                    {
+                        "label": "Submit your Feedback",
+                        "url": "https://hq.vatwa.net/atc/feedback"
                     }
                 ]
             },
@@ -72,12 +76,8 @@
     },
     "buttons": [
         {
-            "label": "Feedback",
-            "url" : "mailto:info@vateg.net"
-        },
-        {
-            "label": "Download Plugin",
-            "url" : "https://github.com/Kirollos/DiscordEuroscope/"
+            "label": "Check our Coverage",
+            "url" : "https://vatsim-radar.com"
         }
     ],
     "radio_callsigns": {
