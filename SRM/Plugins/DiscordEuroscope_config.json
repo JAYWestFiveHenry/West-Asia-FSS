@@ -7,8 +7,8 @@
         "idle": {
             "presence_small_image_key": "",
             "presence_large_image_key" : "",
-            "state" : "Break Room",
-            "details" : "Still AFK and Sleeping",
+            "state" : "Still Sleeping",
+            "details" : "Break Room",
             "presence_small_image_text" : "",
             "presence_large_image_text" : ""
         },
@@ -23,8 +23,8 @@
         "sweatbox": {
             "presence_small_image_key": "",
             "presence_large_image_key" : "",
-            "state" : "Let's make someone sweatx",
-            "details" : "Sweatbox",
+            "state" : "Controller Skills Update in Progress",
+            "details" : "Let's make someone sweat",
             "presence_small_image_text" : "",
             "presence_large_image_text" : ""
         },
