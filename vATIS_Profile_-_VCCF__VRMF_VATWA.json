@@ -1973,7 +1973,7 @@
           "name": "22 | ILS Z",
           "airportConditions": "DEP ARR RWY 22 EXPT ILS Z APPR. ALL LDG TFC ON RWY 22 TO VACATE ASAP.",
           "notams": "",
-          "template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "template": "THIS IS BANDARANAIKE COLOMBO INTL ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -1989,7 +1989,7 @@
           "name": "04 | ILS Z",
           "airportConditions": "DEP ARR RWY 04 EXPT ILS Z APPR. ALL LDG TFC ON RWY 04 TO VACATE ASAP.",
           "notams": "",
-          "template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "template": "THIS IS BANDARANAIKE COLOMBO INTL ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -2005,7 +2005,7 @@
           "name": "22 | RNP",
           "airportConditions": "DEP ARR RWY 22 EXPT RNP APPR. ALL LDG TFC ON RWY 22 TO VACATE ASAP.",
           "notams": "",
-          "template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "template": "THIS IS BANDARANAIKE COLOMBO INTL ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -2021,7 +2021,7 @@
           "name": "04 | RNP",
           "airportConditions": "DEP ARR RWY 04 EXPT RNP APPR. ALL LDG TFC ON RWY 04 TO VACATE ASAP.",
           "notams": "",
-          "template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "template": "THIS IS BANDARANAIKE COLOMBO INTL ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4025,7 +4025,7 @@
           "name": "36 | ILS X",
           "airportConditions": "DEP ARR RWY 36 EXPT ILS X APPR. ALL LDG TFC ON RWY 36 TO VACATE ASAP",
           "notams": "READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
-          "template": "VELANA INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "template": "THIS IS MALE VELANA INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4041,7 +4041,7 @@
           "name": "18 | ILS X",
           "airportConditions": "DEP ARR RWY 18 EXPT ILS X APPR. ALL LDG TFC ON RWY 18 TO VACATE ASAP",
           "notams": "READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
-          "template": "VELANA INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "template": "THIS IS MALE VELANA INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4055,14 +4055,14 @@
       ],
       "contractions": [
         {
-          "variableName": "VRMM",
-          "text": "VRMM",
-          "voice": "VELANA INTERNATIONAL"
+          "variableName": "VELANA_INTERNATIONAL",
+          "text": "VELANA INTERNATIONAL",
+          "voice": "THSI IS VELANA INTERNATIONAL"
         },
         {
-          "variableName": "ILS_X",
-          "text": "ILS X",
-          "voice": "EYE L S X-RAY"
+          "variableName": "ILS_X_APPR",
+          "text": "ILS X APPR",
+          "voice": "EYE L S X-RAY APPROACH"
         }
       ],
       "airportConditionDefinitions": [],
@@ -6050,7 +6050,7 @@
           "name": "23 | ILS DME",
           "airportConditions": "DEP ARR RWY 23 EXPT ILS DME APPR. ALL LDG TFC ON RWY 23 TO BC ASAP.",
           "notams": "",
-          "template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "template": "THIS IS MATTALA RAJAPAKSA INTL ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -6066,7 +6066,7 @@
           "name": "05 | RNP ",
           "airportConditions": "DEP ARR RWY 05 EXPT RNP APPR. ALL LDG TFC ON RWY 05 TO BC ASAP.",
           "notams": "",
-          "template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "template": "THIS IS MATTALA RAJAPAKSA INTL ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -6079,10 +6079,10 @@
         },
         {
           "id": "0ca2ce5e-cb7c-4693-90d6-177506fbb4e5",
-          "name": "05 | VOR",
-          "airportConditions": "DEP ARR RWY 05 EXPT VOR APPR. ALL LDG TFC ON RWY 05 TO BC ASAP.",
+          "name": "05 | VORDME",
+          "airportConditions": "DEP ARR RWY 05 EXPT VOR DME APPR. ALL LDG TFC ON RWY 05 TO BC ASAP.",
           "notams": "",
-          "template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "template": "THIS IS MATTALA RAJAPAKSA INTL ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -6095,10 +6095,10 @@
         },
         {
           "id": "d575a1f8-3366-4983-86e8-60433a5de1b3",
-          "name": "23 | VOR",
-          "airportConditions": "DEP ARR RWY 23 EXPT VOR APPR. ALL LDG TFC ON RWY 23 TO BC ASAP.",
+          "name": "23 | VORDME",
+          "airportConditions": "DEP ARR RWY 23 EXPT VOR DME APPR. ALL LDG TFC ON RWY 23 TO BC ASAP.",
           "notams": "",
-          "template": "[FACILITY] ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "template": "THIS IS MATTALA RAJAPAKSA INTL ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -6113,7 +6113,7 @@
       "contractions": [
         {
           "variableName": "BRAVO_CHARLIE",
-          "text": "BC",
+          "text": "BRAVO CHARLIE",
           "voice": "BRAVO CHARLIE"
         }
       ],
