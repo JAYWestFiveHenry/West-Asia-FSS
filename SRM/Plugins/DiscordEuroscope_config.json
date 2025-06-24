@@ -87,20 +87,36 @@
         },
         "custom_callsigns": {
             "^VCCF_CTR$": "Colombo ACC",
+            "^VCCF_T_CTR$": "Colombo ACC (Trainee)",
             "^VRMF_CTR$": "Male ACC",
+            "^VRMF_T_CTR$": "Male ACC (Trainee)",
             "^VRMF_S_CTR$": "Male ACC South",
             "^VCBI_APP$" : "Colombo Director",
+            "^VCBI_T_APP" : "Colombo Director (Trainee)",
             "^VCRI_APP$" : "Mattlala Approach",
             "^VCCA_APP$" : "Anuradhapura Approach",
             "^VRMM_APP$" : "Male Approach",
+            "^VRMM_T_APP": "Male Approach (Trainee)",
             "^VCBI_TWR$" : "Colombo Tower",
+            "^VCBI_T_TWR" : "Colombo Tower (Trainee)",
             "^VCBI_GND$" : "Colombo Ground",
             "^VCRI_TWR$" : "Mattala Tower",
             "^VCCA_TWR$" : "Anuradhapura Tower",
             "^VCCC_TWR$" : "Ratmalana Tower",
             "^VCCK_TWR$" : "Koggala Tower",
+            "^VCCB_TWR$" : "Batticoloa Tower",
+            "^VCCG_TWR$" : "Gai Tower",
+            "^VCCT_TWR$" : "China-Bay Tower",
+            "^VCCH_TWR$" : "Mineriya Tower",
+            "^VCCJ_TWR$" : "Jaffna Tower",
+            "^VCCS_TWR$" : "Sigiriya Tower",
+            "^VCCW_TWR$" : "Wirawila Tower",
+            "^VCCN_TWR$" : "Katukurunda Tower",
             "^VRMM_TWR$" : "Male Tower",
-            "^VRMM_GND$" : "Male Ground"
+            "^VRMM_T_TWR" : "Male Tower (Trainee)",
+            "^VRMM_GND$" : "Male Ground",
+            "^VRMG_TWR$" : "Gan Tower",
+            "^VRMO_TWR$" : "Koodoo Tower"
         }
     }
 }
