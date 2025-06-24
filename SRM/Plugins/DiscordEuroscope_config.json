@@ -1,6 +1,6 @@
 {
     "discord_appid": "1386895894661824652",
-    "discord_presence_large_image_key" : "es",
+    "discord_presence_large_image_key" : "srm_logo",
     "discord_presence_small_image_key" : "ttrks",
     "sweatbox_bypass" : false,
     "states" : {
@@ -8,22 +8,22 @@
             "presence_small_image_key": "",
             "presence_large_image_key" : "",
             "state" : "",
-            "details" : "Idle",
+            "details" : "Break Room",
             "presence_small_image_text" : "",
-            "presence_large_image_text" : ""
+            "presence_large_image_text" : "Still AFK and Sleeping"
         },
         "playback": {
             "presence_small_image_key": "",
             "presence_large_image_key" : "",
-            "state" : "",
-            "details" : "Playback",
+            "state" : "Watching Some SUS Moments",
+            "details" : "Let's watch some SUS Moments",
             "presence_small_image_text" : "",
             "presence_large_image_text" : ""
         },
         "sweatbox": {
             "presence_small_image_key": "",
             "presence_large_image_key" : "",
-            "state" : "sweating someone",
+            "state" : "Mentoring someone",
             "details" : "Sweatbox",
             "presence_small_image_text" : "",
             "presence_large_image_text" : ""
@@ -48,9 +48,9 @@
             "if_controller": {
                 "presence_small_image_key": "",
                 "presence_large_image_key" : "",
-                "state" : "Controlling ({current_tracked} of {total_inrange})",
+                "state" : "Aircraft Tracked: {total_tracked}",
                 "details" : "{rcallsign} {frequency}MHz",
-                "presence_small_image_text" : "Total tracks: {total_tracked}",
+                "presence_small_image_text" : "",
                 "presence_large_image_text" : "{callsign}",
                 "buttons": [
                     {
