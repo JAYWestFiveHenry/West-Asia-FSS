@@ -1,7 +1,7 @@
 {
     "discord_appid": "1386895894661824652",
     "discord_presence_large_image_key" : "srm_logo",
-    "discord_presence_small_image_key" : "ttrks",
+    "discord_presence_small_image_key" : "",
     "sweatbox_bypass" : false,
     "states" : {
         "idle": {
