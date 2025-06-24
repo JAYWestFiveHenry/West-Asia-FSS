@@ -7,23 +7,23 @@
         "idle": {
             "presence_small_image_key": "",
             "presence_large_image_key" : "",
-            "state" : "",
-            "details" : "Break Room",
+            "state" : "Break Room",
+            "details" : "Still AFK and Sleeping",
             "presence_small_image_text" : "",
-            "presence_large_image_text" : "Still AFK and Sleeping"
+            "presence_large_image_text" : ""
         },
         "playback": {
             "presence_small_image_key": "",
             "presence_large_image_key" : "",
             "state" : "Watching Some SUS Moments",
-            "details" : "Let's watch some SUS Moments",
+            "details" : "Timelapse Session",
             "presence_small_image_text" : "",
             "presence_large_image_text" : ""
         },
         "sweatbox": {
             "presence_small_image_key": "",
             "presence_large_image_key" : "",
-            "state" : "Mentoring someone",
+            "state" : "Let's make someone sweatx",
             "details" : "Sweatbox",
             "presence_small_image_text" : "",
             "presence_large_image_text" : ""
