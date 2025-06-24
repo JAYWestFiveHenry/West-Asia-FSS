@@ -17,7 +17,6 @@ ARTCC low boundary:VCCN_TWR Katukurunda Tower:
 ARTCC low boundary:VCCT_TWR China-bay Tower:
 ARTCC low boundary:VCCV_TWR Vavunya Tower:
 ARTCC low boundary:VCRI_TWR Mattala Tower:
-Geo:GEO:
 Geo:VCCF Landmark Coastline:
 Geo:VRMF Landmark Coastline:
 Runways:VCBI 04-22:centerline
@@ -93,4 +92,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky Eurocat
-WINDOWAREA:5.549464:77.384569:8.310347:82.390136
+WINDOWAREA:5.540089:77.456907:8.300972:82.462474

@@ -49,8 +49,8 @@ Sounds	Sound17	\SRM\Sounds\pointout.wav
 Sounds	Sound18	\SRM\Sounds\startup.wav
 Plugins	Plugin0	\SRM\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1	\SRM\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
-Plugins	Plugin2	\SRM\Plugins\DiscordEuroScope\DiscordEuroscope.dll
-Plugins	Plugin3	\SRM\Plugins\ESEgypt.dll
+Plugins	Plugin2	\SRM\Plugins\ESEgypt.dll
+Plugins	Plugin3	\SRM\Plugins\VCH.dll
 LastSession	atis_freq4	118000
 LastSession	callsign	VRMM_APP
 LastSession	server	AUTOMATIC
@@ -71,16 +71,16 @@ Settings	SettingsfileTAKEOFF	\SRM\Settings\General.txt
 Settings	SettingsfileADCS	\SRM\Settings\General.txt
 Settings	SettingsfileTAXIIN	\SRM\Settings\General.txt
 RecentFiles	Recent2	\SRM\ASR\SRMvACC Display.asr
-Plugins	Plugin4	\SRM\Plugins\VCH.dll
-Plugins	Plugin5	\SRM\Plugins\vSMR\vSMR.dll
-Plugins	Plugin6	\SRM\Plugins\ESTimers.dll
+Plugins	Plugin4	\SRM\Plugins\vSMR\vSMR.dll
+Plugins	Plugin5	\SRM\Plugins\ESTimers.dll
+Plugins	Plugin6	\SRM\Plugins\VFPC\VFPC.dll
+Plugins	Plugin7	\SRM\Plugins\DiscordEuroScope\DiscordEuroscope.dll
 RecentFiles	Recent3	\SRM\ASR\Male Approach.asr
-Plugins	Plugin6Display0	Standard ES radar screen
-Plugins	Plugin7	\SRM\Plugins\VFPC\VFPC.dll
 ASRFastKeys	1	\SRM\ASR\SRMvACC Display.asr
 ASRFastKeys	2	\SRM\ASR\Colombo SMC.asr
 ASRFastKeys	3	\SRM\ASR\Male GMC.asr
-Plugins	Plugin5Display0	SMR radar display
-Plugins	Plugin6Display1	SMR radar display
+Plugins	Plugin5Display0	Standard ES radar screen
 RecentFiles	Recent4	\SRM\ASR\Male GMC.asr
 RecentFiles	Recent5	\SRM\ASR\Colombo SMC.asr
+Plugins	Plugin4Display0	SMR radar display
+Plugins	Plugin5Display1	SMR radar display
