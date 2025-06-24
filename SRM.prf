@@ -56,7 +56,7 @@ LastSession	callsign	VRMM_APP
 LastSession	server	AUTOMATIC
 LastSession	atis2	"Male Approach" 
 LastSession	atis4	More info -> www.4r-ipm.me/vaccsrm/
-RecentFiles	Recent1	\SRM\ASR\VCBI+VCRI CTAs.asr
+RecentFiles	Recent1	\SRM\ASR\SRMvACC Display.asr
 LastSession	atis_freq3	118000
 LastSession	SimAuto	0
 LastSession	atis3	Covering Male TMA up to FL200
@@ -70,11 +70,11 @@ Settings	SettingsfileTAXIOUT	\SRM\Settings\General.txt
 Settings	SettingsfileTAKEOFF	\SRM\Settings\General.txt
 Settings	SettingsfileADCS	\SRM\Settings\General.txt
 Settings	SettingsfileTAXIIN	\SRM\Settings\General.txt
-RecentFiles	Recent2	\SRM\ASR\Male Approach.asr
+RecentFiles	Recent2	\SRM\ASR\VCBI+VCRI CTAs.asr
 Plugins	Plugin4	\SRM\Plugins\VCH.dll
 Plugins	Plugin5	\SRM\Plugins\vSMR\vSMR.dll
 Plugins	Plugin6	\SRM\Plugins\ESTimers.dll
-RecentFiles	Recent3	\SRM\ASR\SRMvACC Display.asr
+RecentFiles	Recent3	\SRM\ASR\Male Approach.asr
 Plugins	Plugin6Display0	Standard ES radar screen
 Plugins	Plugin7	\SRM\Plugins\VFPC\VFPC.dll
 ASRFastKeys	1	\SRM\ASR\SRMvACC Display.asr
