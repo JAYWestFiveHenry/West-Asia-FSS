@@ -1,5 +1,5 @@
 Settings	alias	\SRM\Alias\alias.txt
-Settings	sector	\SRMvACC.sct
+Settings	sector	\SRMvACC Test Sector\SRMvACC.sct
 Settings	SettingsfileSYMBOLOGY	\SRM\Settings\Symbology.txt
 Settings	SettingsfileVOICE	\SRM\Settings\SRM VoiceChannels.txt
 Settings	SettingsfilePROFILE	\SRM\Settings\SRM Profiles.txt
@@ -48,18 +48,18 @@ Sounds	Sound16	\SRM\Sounds\handoff_refused.wav
 Sounds	Sound17	\SRM\Sounds\pointout.wav
 Sounds	Sound18	\SRM\Sounds\startup.wav
 Plugins	Plugin0	\SRM\Plugins\TopSky\TopSky.dll
-Plugins	Plugin1	\SRM\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
-Plugins	Plugin2	\SRM\Plugins\ESEgypt.dll
-Plugins	Plugin3	\SRM\Plugins\VCH.dll
+Plugins	Plugin1	\SRM\Plugins\DiscordEuroscope.dll
+Plugins	Plugin2	\SRM\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
+Plugins	Plugin3	\SRM\Plugins\ESEgypt.dll
 LastSession	atis_freq4	118000
-LastSession	callsign	VRMM_APP
+LastSession	callsign	VCBI_APP
 LastSession	server	AUTOMATIC
-LastSession	atis2	"Male Approach" 
+LastSession	atis2	"Colombo Director" 
 LastSession	atis4	More info -> www.4r-ipm.me/vaccsrm/
 RecentFiles	Recent1	\SRM\ASR\VCBI+VCRI CTAs.asr
 LastSession	atis_freq3	118000
 LastSession	SimAuto	0
-LastSession	atis3	Covering Male TMA up to FL200
+LastSession	atis3	Covering Colombo CTA ONLY up to FL150
 Plugins	Plugin0Display0	SMR radar display
 Plugins	Plugin0Display1	Ground Radar display
 Plugins	Plugin0Display2	Standard ES radar screen
@@ -71,15 +71,19 @@ Settings	SettingsfileTAKEOFF	\SRM\Settings\General.txt
 Settings	SettingsfileADCS	\SRM\Settings\General.txt
 Settings	SettingsfileTAXIIN	\SRM\Settings\General.txt
 RecentFiles	Recent2	\SRM\ASR\SRMvACC Display.asr
-Plugins	Plugin4	\SRM\Plugins\vSMR\vSMR.dll
-Plugins	Plugin5	\SRM\Plugins\ESTimers.dll
-Plugins	Plugin6	\SRM\Plugins\VFPC\VFPC.dll
+Plugins	Plugin4	\SRM\Plugins\VCH.dll
+Plugins	Plugin5	\SRM\Plugins\vSMR\vSMR.dll
+Plugins	Plugin6	\SRM\Plugins\ESTimers.dll
 RecentFiles	Recent3	\SRM\ASR\Male Approach.asr
 ASRFastKeys	1	\SRM\ASR\SRMvACC Display.asr
 ASRFastKeys	2	\SRM\ASR\Colombo SMC.asr
 ASRFastKeys	3	\SRM\ASR\Male GMC.asr
-Plugins	Plugin5Display0	Standard ES radar screen
+Plugins	Plugin5Display0	SMR radar display
 RecentFiles	Recent4	\SRM\ASR\Male GMC.asr
 RecentFiles	Recent5	\SRM\ASR\Colombo SMC.asr
-Plugins	Plugin4Display0	SMR radar display
-Plugins	Plugin5Display1	SMR radar display
+Plugins	Plugin6Display0	Standard ES radar screen
+Plugins	Plugin6Display1	SMR radar display
+Plugins	Plugin7	\SRM\Plugins\VFPC\VFPC.dll
+LastSession	realname
+LastSession	certificate
+LastSession	password

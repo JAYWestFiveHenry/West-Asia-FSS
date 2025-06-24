@@ -4,7 +4,7 @@ m_X:1802
 m_Y:426
 m_LineNumber:10
 m_Resizable:1
-m_OrderingColumn:-2
+m_OrderingColumn:2
 m_HeaderOnly:0
 m_Column:CALLSIGN:10:0:9:8:0:1::::0:0.0
 m_Column:STAND:6:1:19:29:0:1::::1:0.0
