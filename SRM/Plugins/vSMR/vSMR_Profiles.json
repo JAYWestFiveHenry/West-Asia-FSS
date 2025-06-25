@@ -56,8 +56,8 @@
         },
         "departure": {
             "definition": [
-                ["callsign", "dest"],
-                ["sctype", "deprwy","groundstatus"]
+                ["callsign", "deprwy"],
+                ["actype","groundstatus"]
             ],
             "background_color": {
                 "r": 33,
