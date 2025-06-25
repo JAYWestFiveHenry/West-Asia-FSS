@@ -1,5 +1,5 @@
 m_PlaySounds:1
-m_AssumeSlowAcAsStandby:1
+m_AssumeSlowAcAsStandby:0
 m_ShowAirspaceLines:1
 m_ShowRouteFixName:1
 m_ShowRouteETA:0
@@ -114,7 +114,7 @@ m_STCA_PlaySoundOnCFL:0
 m_STCA_PlaySoundOnTrackedOnly:1
 m_AutoCorrelateDisabledSQs:1000,1200,2000,2200,7000,7700,7600,7500
 m_DontAutoCorrelateDuplicated:1
-m_AcceptPilotSquawkForCorrelation:0
+m_AcceptPilotSquawkForCorrelation:1
 m_MTCA_Floor:10000
 m_MTCA_AltitudeDifference:900
 m_MTCA_Distance:10.0
