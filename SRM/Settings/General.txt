@@ -65,7 +65,7 @@ m_KeepScratchPadAfterDirect:1
 m_HiliteASELAircraft:1
 m_EnableVoiceRecognition:0
 m_VoiceRecognitionStyle:2
-m_SModeTransponders:HLEGWQS
+m_SModeTransponders:IEFGRWQ
 m_CorrelationMode:0
 m_CorrelationDistance:0
 m_SimulateRadars:0
