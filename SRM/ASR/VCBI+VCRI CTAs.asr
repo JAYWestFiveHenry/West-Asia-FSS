@@ -7,6 +7,7 @@ ARTCC boundary:VCCF_CTR Colombo Control:
 ARTCC high boundary:VCBI_APP Colombo Director:
 ARTCC high boundary:VCCA_APP Anuradhapura Approach:
 ARTCC high boundary:VCRI_APP Mattala Approach:
+ARTCC low boundary:VCBI_TWR Colombo Tower:
 ARTCC low boundary:VCCA_TWR Anuradhapura Tower:
 ARTCC low boundary:VCCB_TWR Batticaloa Tower:
 ARTCC low boundary:VCCC_TWR Ratmalana Tower:
@@ -90,4 +91,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky Eurocat
-WINDOWAREA:5.235464:76.812811:8.686568:83.080054
+WINDOWAREA:5.491183:77.443049:8.252067:82.456844
