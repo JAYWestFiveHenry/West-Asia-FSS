@@ -3,17 +3,15 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
-ARTCC high boundary:Colombo TMA/UTA:
+ARTCC boundary:VCCF_CTR Colombo Control:
 ARTCC high boundary:VCBI_APP Colombo Director:
 ARTCC high boundary:VCCA_APP Anuradhapura Approach:
 ARTCC high boundary:VCRI_APP Mattala Approach:
-ARTCC low boundary:VCBI TWR Colombo Tower:
 ARTCC low boundary:VCCA_TWR Anuradhapura Tower:
 ARTCC low boundary:VCCB_TWR Batticaloa Tower:
 ARTCC low boundary:VCCC_TWR Ratmalana Tower:
 ARTCC low boundary:VCCH_TWR Minneriya Tower:
 ARTCC low boundary:VCCK_TWR Koggala Tower:
-ARTCC low boundary:VCCN_TWR Katukurunda Tower:
 ARTCC low boundary:VCCT_TWR China-bay Tower:
 ARTCC low boundary:VCCV_TWR Vavunya Tower:
 ARTCC low boundary:VCRI_TWR Mattala Tower:
@@ -92,4 +90,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky Eurocat
-WINDOWAREA:4.583190:75.697854:9.975540:85.474352
+WINDOWAREA:5.235464:76.812811:8.686568:83.080054
