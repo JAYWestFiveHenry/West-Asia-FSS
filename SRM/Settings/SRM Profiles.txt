@@ -59,7 +59,7 @@ PROFILE:VCBI_APP:150:5
 ATIS2:"Colombo Director" 
 ATIS3:Covering Colombo CTA ONLY up to FL150
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
-PROFILE:XX_OBS:150:0
+PROFILE:XX_OBS:300:0
 ATIS2:SRMvACC Observer 
 ATIS3:
 ATIS4:More info -> www.4r-ipm.me/vaccsrm/
