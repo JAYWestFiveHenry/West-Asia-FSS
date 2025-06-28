@@ -4,7 +4,6 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
 ARTCC boundary:VCCF_CTR Colombo Control:
-ARTCC boundary:VCCF_OC_Sector:
 ARTCC high boundary:VCBI_APP Colombo Director:
 ARTCC high boundary:VCCA_APP Anuradhapura Approach:
 ARTCC high boundary:VCRI_APP Mattala Approach:
@@ -92,4 +91,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TopSky Eurocat
-WINDOWAREA:-1.563176:69.187957:11.601746:93.095601
+WINDOWAREA:5.070217:78.626986:7.831101:83.640782
