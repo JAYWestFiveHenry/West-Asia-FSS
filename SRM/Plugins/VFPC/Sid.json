@@ -24,9 +24,9 @@
          "BASUR": [
             {
                "direction": "EVEN",
-			      "airways": ["BASUR P570"],
-               
-               "direction":"EVEN",
+			      "airways": ["BASUR P570"]
+            },
+            {  "direction":"EVEN",
                "airways":["BASUR"],
                "destinations":["VOTV","VO"]
             }
