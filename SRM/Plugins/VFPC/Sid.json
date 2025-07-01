@@ -19,22 +19,22 @@
                "direction": "EVEN",
                "airways": ["ATETA T4"],
                "destinations":["VO"]
-            },
-            {
-               "direction": "EVEN",
-               "airways": ["ATETA"]
             }
          ],
          "BASUR": [
             {
                "direction": "EVEN",
-			      "airways": ["BASUR P570","BASUR"]
+			      "airways": ["BASUR P570"],
+               
+               "direction":"EVEN",
+               "airways":["BASUR"],
+               "destinations":["VOTV","VO"]
             }
          ],
          "DEMON": [
 		      {
                "direction": "EVEN",
-			      "airways":["R461"]
+			      "airways":["DEMON R461"]
             }
          ],
          "DORTA": [
@@ -52,7 +52,8 @@
          "LALUM": [
             {
                "direction": "EVEN",
-               "airways":["TELIG M512"]
+               "airways":["TELIG M512"],
+               "destinations":["VR"]
             },
             {
                "direction": "EVEN",
