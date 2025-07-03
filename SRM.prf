@@ -1,5 +1,5 @@
 Settings	alias	\SRM\Alias\alias.txt
-Settings	sector	\SRMvACC.sct
+Settings	sector	\SRM-SRM-Beta_20250703115333-241301-0005.sct
 Settings	SettingsfileSYMBOLOGY	\SRM\Settings\Symbology.txt
 Settings	SettingsfileVOICE	\SRM\Settings\SRM VoiceChannels.txt
 Settings	SettingsfilePROFILE	\SRM\Settings\SRM Profiles.txt
@@ -59,7 +59,6 @@ LastSession	atis4	More info -> www.4r-ipm.me/vaccsrm/
 RecentFiles	Recent1	\SRM\ASR\SRMvACC Display.asr
 LastSession	atis_freq3	118000
 LastSession	SimAuto	0
-LastSession	atis3
 Plugins	Plugin0Display0	SMR radar display
 Plugins	Plugin0Display1	Ground Radar display
 Plugins	Plugin0Display2	Standard ES radar screen

@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
-SECTORTITLE:SRMvACC.sct
+SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRM-SRM-Beta_20250703115333-241301-0005.sct
+SECTORTITLE:SRM-SRM-Beta_20250703115333-241301-0005.sct
 ARTCC boundary:VCBI_TMA Colombo TMA:
 ARTCC boundary:VCCF Delagated VOMF - VCCF:
 ARTCC boundary:VCCF_CTR Colombo Control:
@@ -109,4 +109,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:0.127919:66.153380:12.570510:88.749262
+WINDOWAREA:-9.105114:59.640783:13.863387:101.351835
