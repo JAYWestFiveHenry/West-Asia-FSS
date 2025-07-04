@@ -1,5 +1,5 @@
 Settings	alias	\SRM\Alias\alias.txt
-Settings	sector	\SRM-SRM-Beta_20250703115333-241301-0005.sct
+Settings	sector	\SRMvACC.sct
 Settings	SettingsfileSYMBOLOGY	\SRM\Settings\Symbology.txt
 Settings	SettingsfileVOICE	\SRM\Settings\SRM VoiceChannels.txt
 Settings	SettingsfilePROFILE	\SRM\Settings\SRM Profiles.txt
