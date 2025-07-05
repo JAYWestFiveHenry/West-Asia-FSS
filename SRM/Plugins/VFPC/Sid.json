@@ -59,6 +59,10 @@
                "direction": "EVEN",
                "airways":["LALUM"],
                "destinations": ["VR"]
+            },            
+            {
+               "direction": "EVEN",
+               "airways":["TELIG M512"]
             }
          ],
          "OLSAR": [
