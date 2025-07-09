@@ -2,7 +2,7 @@
     "name": "SRM Default Config",
     "font": {
         "font_name": "EuroScope",
-        "weight": "Regular",
+        "weight": "Bold",
         "sizes": {
             "one": 11,
             "two": 12,
@@ -56,25 +56,25 @@
         },
         "departure": {
             "definition": [
-                ["callsign", "deprwy"],
-                ["actype","groundstatus"]
+                ["callsign", "ssid"],
+                ["actype","deprwy", "groundstatus"]
             ],
             "background_color": {
-                "r": 33,
-                "g": 115,
-                "b": 196,
-                "a": 125
+                "r": 23,
+                "g": 96,
+                "b": 130,
+                "a": 252
             },
             "background_color_on_runway": {
                 "r": 40,
-                "g": 50,
-                "b": 200,
+                "g": 253,
+                "b": 252,
                 "a": 125
             },
             "nosid_color": {
-                "r": 104,
-                "g": 50,
-                "b": 168,
+                "r": 0,
+                "g": 0,
+                "b": 0,
                 "a": 125
             },
             "text_color": {
@@ -86,12 +86,12 @@
         "arrival": {
             "definition": [
                 ["callsign", "srvrwy"],
-                ["gate", "actype"]
+                ["origin","gate"]
             ],
             "background_color": {
-                "r": 170,
-                "g": 50,
-                "b": 50,
+                "r": 245,
+                "g": 82,
+                "b": 49,
                 "a": 125
             },
             "background_color_on_runway": {

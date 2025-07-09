@@ -4,7 +4,7 @@ m_X:0
 m_Y:80
 m_LineNumber:10
 m_Resizable:1
-m_OrderingColumn:-10
+m_OrderingColumn:10
 m_HeaderOnly:0
 m_Column:FR:3:1:63:0:0:1::::1:0.0
 m_Column:CALLSIGN:10:1:22:6:8:1:TopSky plugin:TopSky plugin::0:0.0
