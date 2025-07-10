@@ -57,7 +57,7 @@
         "departure": {
             "definition": [
                 ["callsign", "ssid"],
-                ["actype","deprwy", "groundstatus"]
+                ["actype","wake","deprwy","groundstatus"]
             ],
             "background_color": {
                 "r": 23,
@@ -86,7 +86,7 @@
         "arrival": {
             "definition": [
                 ["callsign", "srvrwy"],
-                ["origin","gate"]
+                ["origin","wake","gate"]
             ],
             "background_color": {
                 "r": 245,
