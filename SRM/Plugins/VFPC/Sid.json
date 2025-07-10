@@ -145,7 +145,12 @@
          "ATISA": [
             {
                "direction":"ODD",
-               "airways":["ATISA Z852"]
+               "airways":["ATISA Z852"],
+               "destinations":["VR"]
+            },
+            {
+               "direction":"EVEN",
+               "airways":["ATISA R329"]
             }
          ],
          "IGRAM": [
