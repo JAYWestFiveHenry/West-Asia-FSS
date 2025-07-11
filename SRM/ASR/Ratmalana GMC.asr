@@ -3,22 +3,13 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
-Free Text:VCRI GroundLayout\05:freetext
-Free Text:VCRI GroundLayout\23:freetext
-Free Text:VCRI GroundLayout\A:freetext
-Free Text:VCRI GroundLayout\A1:freetext
-Free Text:VCRI GroundLayout\A2:freetext
-Free Text:VCRI GroundLayout\A3:freetext
-Free Text:VCRI GroundLayout\A4:freetext
-Free Text:VCRI GroundLayout\A5:freetext
-Free Text:VCRI GroundLayout\A6:freetext
-Free Text:VCRI GroundLayout\A7:freetext
-Free Text:VCRI GroundLayout\A8:freetext
-Free Text:VCRI GroundLayout\B:freetext
-Free Text:VCRI GroundLayout\L:freetext
-Free Text:VCRI GroundLayout\R:freetext
+Free Text:VCCC GroundLayout\04:freetext
+Free Text:VCCC GroundLayout\22:freetext
+Free Text:VCCC GroundLayout\EAST:freetext
+Free Text:VCCC GroundLayout\WEST:freetext
 Geo:GEO:
-Regions:VCRI GroundLayout:polygon
+Geo:VCCC Groundlayout:
+Regions:VCCC GroundLayout:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -32,11 +23,11 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:53.00000
 TAGFAMILY:TopSky Eurocat
-WINDOWAREA:6.273745:81.098153:6.299308:81.144575
+WINDOWAREA:6.814005:79.870685:6.830366:79.900397
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:vSMR:ActiveProfile:Default
 PLUGIN:vSMR:Afterglow:1
-PLUGIN:vSMR:Airport:VCRI
+PLUGIN:vSMR:Airport:VCCC
 PLUGIN:vSMR:AppTrailsDots:4
 PLUGIN:vSMR:FontSize:1
 PLUGIN:vSMR:GndTrailsDots:4
