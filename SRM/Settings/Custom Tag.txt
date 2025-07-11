@@ -24,7 +24,7 @@ TAGITEM:5067863::0:0:0:0:ESEgypt:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:40::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:70::0:1:0:0:TopSky plugin:0:1:::1
-TAGITEM:150::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:150::0:1:0:0:TopSky plugin:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:55::0:1:0:0:TopSky plugin:0:1:::1
 TAGITEM:48::0:1:0:0:TopSky plugin:0:1:::1
