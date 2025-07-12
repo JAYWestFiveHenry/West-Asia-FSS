@@ -19,6 +19,15 @@
                "direction": "EVEN",
                "airways": ["ATETA T4"],
                "destinations":["VO"]
+            },
+            {
+               "direction": "EVEN",
+               "airways": ["ATETA TTR"],
+               "destinations":["VOTR"]
+            },
+            {
+               "direction": "EVEN",
+               "airways": ["ATETA T4"]
             }
          ],
          "BASUR": [
