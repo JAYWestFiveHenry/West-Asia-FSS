@@ -199,8 +199,9 @@ System_UseAcceptedCoordColor=1
 System_UseReportedGS=1
 
 //TRACKS SETTINGS
-Track_HistoryDots=5
+Track_HistoryDots=6
 Track_PredictionLine=1
+Track_PSR_Filter_GS=30
 
 //RUNWAY APP LINES
 RwyAppLines_Length=15
@@ -227,7 +228,7 @@ WXR_Echo_dBZ_Lo=12
 
 //LABEL SETTINGS
 Label_ACF_Use=1
-Label_SI_ShowFreq=1
+Label_SI_ShowFreq=0
 Label_UseTransferInColor=1
 Label_Alt_Digits=3
 Label_AFL_ForceNautical=1
@@ -237,20 +238,19 @@ Label_AHDG_ShowExtra=0
 Label_AHDG_ShowDct=2
 Label_AHDG_Point_Label=2
 Label_AHDG_HideDctIfCOPX=0
-Label_RTE_Origin=VT
 Label_Alt_Digits=2
 Label_GS_Digits=3
 Label_ADES_MaxChars=4
 Label_N_Default=0
 Label_WTC_Highlight_WTC=JH
 Label_DAPs_Prefix=@
-Track_PSR_Filter_GS=30
 Label_OPTEXT2_MaxChars_List=10
 Label_CFL_DefaultValue=0
 Label_ASSR_AcceptPilotSquawk=0
 Label_UseTransferInColor=0
 Label_CompCsCaps=0
 Label_COP_MaxChars=5
+Label_FCOPX_Default=0110
 
 //AREAS SETTINGS
 Areas_PreActiveTime=1800

@@ -1,5 +1,9 @@
 Setup_AutoSignIn=1
 
+Window_DCL_AhdgTrack_Default=1
+Window_DCL_DFREQ_Auto=0
+Window_DCL_SetASSR=0
+Window_DCL_SetCFL=0
 Window_PDC_SetASSR=1
 Window_PDC_SetCFL=1
 Window_LostList_Auto=0
