@@ -1,5 +1,7 @@
 Setup_AutoSignIn=1
 
+Window_PDC_SetASSR=1
+Window_PDC_SetCFL=1
 Window_LostList_Auto=0
 Window_WxMsgs_MetarRefreshInterval=900
 Window_WxMsgs_HighlightNew=1
