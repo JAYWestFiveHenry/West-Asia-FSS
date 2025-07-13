@@ -20,7 +20,7 @@ m_Column:DEP-SID:9:1:270:17:17:1:TopSky plugin:::1:0.0
 m_Column:RWY:4:1:10050:19:19:1:TopSky plugin:::1:0.0
 m_Column:CLB:5:1:43:109:109:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:CRZ:4:1:120:59:59:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
-m_Column:ASQK:5:1:10042:62:62:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:ASQK:5:1:60:62:62:1::TopSky plugin:TopSky plugin:1:0.0
 m_Column:C:2:1:10130:155:122:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
 m_Column:CHK:4:1:1:100:106:1:VFPC:VFPC:HKvACC VFPC:0:0.0
 m_Column:STS:5:1:59:46:0:1::::1:0.0

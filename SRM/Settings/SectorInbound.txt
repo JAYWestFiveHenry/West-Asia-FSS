@@ -14,7 +14,7 @@ m_Column:CALLSIGN:10:1:22:6:8:1:TopSky plugin:TopSky plugin::0:0.0
 m_Column:COMS:5:1:58:32:32:1:TopSky plugin:::9:0.0
 m_Column:AC/WTC:7:1:70:0:0:1:TopSky plugin:::1:0.0
 m_Column:TSQK:4:1:106:0:0:1:TopSky plugin:::0:0.0
-m_Column:ASQK:5:1:10041:62:31:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:ASQK:5:1:60:62:31:1::TopSky plugin::1:0.0
 m_Column:DEP:5:1:395:7:1001:1:TopSky plugin::TopSky plugin:1:0.0
 m_Column:DEST:5:1:79:7:99:1:TopSky plugin::TopSky plugin:1:0.0
 m_Column:ETA:5:1:10033:0:0:1:TopSky plugin:::1:0.0
