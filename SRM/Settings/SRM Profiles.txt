@@ -5,7 +5,7 @@ ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VCBI_GND:20:3
 ATIS2:"Colombo Ground" 
-ATIS3:More info -> www.4r-ipm.me/vaccsrm/
+ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VCRI_APP:150:5
 ATIS2:"Mattala Approach" | Covering Mattala CTA ONLY up to FL130
