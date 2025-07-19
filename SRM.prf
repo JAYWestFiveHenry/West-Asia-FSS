@@ -82,6 +82,4 @@ RecentFiles	Recent5	\SRM\ASR\Jaffna GMC.asr
 Plugins	Plugin6Display0	Standard ES radar screen
 Plugins	Plugin6Display1	SMR radar display
 Plugins	Plugin7	\SRM\Plugins\VFPC\VFPC.dll
-LastSession	realname
-LastSession	certificate
-LastSession	password
+LastSession	atis_freq4	118000
