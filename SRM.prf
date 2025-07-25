@@ -25,7 +25,7 @@ LastSession	connecttype	0
 LastSession	facility	0
 LastSession	rating	0
 LastSession	tovatsim	1
-LastSession	range	150
+LastSession	range	300
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 Sounds	Sound0	\SRM\Sounds\handoff_request.wav
@@ -54,7 +54,6 @@ Plugins	Plugin3	\SRM\Plugins\ESEgypt.dll
 LastSession	callsign	XX_OBS
 LastSession	server	AUTOMATIC
 LastSession	atis2	SRMvACC Observer 
-LastSession atis3   I'm Newbie ATC Controller Would like to Learn
 LastSession	atis4	Welcome to SRMvACC -> visit www.4r-ipm.me/vaccsrm/
 LastSession	atis_freq3	118000
 LastSession	SimAuto	0
@@ -84,3 +83,7 @@ Plugins	Plugin6Display0	Standard ES radar screen
 Plugins	Plugin6Display1	SMR radar display
 Plugins	Plugin7	\SRM\Plugins\VFPC\VFPC.dll
 LastSession	atis_freq4	118000
+LastSession	realname	
+LastSession	certificate 
+LastSession	password	
+LastSession	atis3	I'm Newbie ATC Controller Would like to Learn
