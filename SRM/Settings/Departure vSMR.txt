@@ -1,6 +1,6 @@
 DEP
 m_Visible:1
-m_X:698
+m_X:708
 m_Y:45
 m_LineNumber:10
 m_Resizable:1
@@ -9,7 +9,7 @@ m_HeaderOnly:0
 m_Column:FR:3:1:63:0:0:1::::1:0.0
 m_Column:SEQ:4:1:57:0:0:1::::0:0.0
 m_Column:RQST:5:1:540:548:548:1:VCH:VCH:VCH:9:0.0
-m_Column:TIME:4:1:544:0:0:1:VCH:::9:0.0
+m_Column:TIME:4:1:544:0:0:0:VCH:::9:0.0
 m_Column:DEP:5:1:395:1001:1001:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:CALLSIGN:10:1:22:6:100:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
 m_Column:PDC:4:1:444:544:0:1:vSMR:vSMR::0:0.0
