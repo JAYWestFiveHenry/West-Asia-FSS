@@ -196,6 +196,11 @@
             {
                "direction":"EVEN",
                "airways":"PILIK Y991"
+            },
+            {
+               "direction":"EVEN",
+               "airways":["PILIK DCT"],
+               "destinations":["VR"]
             }
          ],
          "KAGUM":[
