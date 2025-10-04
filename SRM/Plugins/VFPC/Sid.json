@@ -46,19 +46,19 @@
 			      "airways":["DEMON R461"]
             }
          ],
-         "DORTA": [
+         "DORT": [
             {
                "direction": "ODD",
                "airways":["ESPAP P762"]
             }
          ],
-         "DUDAL": [
+         "DUDA": [
             {
                "direction": "ODD",
                "airways":["VEVET P570"]
             }
          ],
-         "LALUM": [
+         "LALU": [
             {
                "direction": "EVEN",
                "airways":["TELIG M512"],
@@ -74,7 +74,7 @@
                "airways":["TELIG M512"]
             }
          ],
-         "OLSAR": [
+         "OLSA": [
             {
                "direction": "ODD",
                "airways": ["BIDAN L645"]
