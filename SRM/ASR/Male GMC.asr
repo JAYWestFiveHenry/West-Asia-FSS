@@ -75,7 +75,7 @@ Free Text:VRMM Water Aerodrome\SR:freetext
 Free Text:VRMM Water Aerodrome\W:freetext
 Geo:GEO:
 Geo:VRMM Groundlayout:
-Geo:VRMM Groundlayout Water Aerodrome:
+Geo:VRMM Groundlayout Water Aerodrome N004.10.50.815:
 Regions:VRMM GroundLayout:polygon
 SHOWC:1
 SHOWSB:0
@@ -90,7 +90,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:91.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:4.178100:73.507335:4.198118:73.543688
+WINDOWAREA:4.181210:73.506956:4.206233:73.552397
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:vSMR:ActiveProfile:Default
 PLUGIN:vSMR:Afterglow:1
