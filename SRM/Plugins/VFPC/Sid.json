@@ -216,5 +216,50 @@
             }
          ]
       }
+   },
+   {
+      "icao":"VCRI",
+      "sids":{
+         "AVKID":[
+            {
+               "direction":"ODD",
+               "airways":["AVKID Q110"]
+            }
+         ],
+         "PEBSA":[
+            {
+               "direction":"ODD",
+               "airways":["PEBSA Z610"]
+            }
+         ],
+         "GUKRO":[
+            {
+               "direction":"EVEN",
+               "airways":["GUKRO T310"]
+            },
+            {
+               "direction":"EVEN",
+               "airways":["GURKO DCT"],
+               "destinations":["VCBI"]
+            }
+         ],
+         "KIMOP":[
+            {
+               "direction":"EVEN",
+               "airways":["KIMOP L897"]
+            },
+            {
+               "direction":"EVEN",
+               "airways":["KIMOP DCT"],
+               "destinations":["VCBI"]
+            }
+         ],
+         "HEDAM":[
+            {
+               "direction":"EVEN",
+               "airways":["SAGOR"]
+            }
+         ]
+      }
    }
 ]
