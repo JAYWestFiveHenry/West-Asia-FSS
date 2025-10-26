@@ -2043,13 +2043,8 @@
       ],
       "notamDefinitions": [
         {
-          "text": "ALL LDG TFC ON RWY 22 TO VACATE ASAP.",
+          "text": "ILS INOP DUE TO WIP",
           "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "ALL LDG TFC ON RWY 04 TO VACATE ASAP.",
-          "ordinal": 2,
           "enabled": false
         }
       ]
@@ -4024,8 +4019,8 @@
           "id": "0c9dd512-9c7b-4f7d-acbd-2999802c76f2",
           "name": "36 | ILS X",
           "airportConditions": "DEP ARR RWY 36 EXPT ILS X APPR. ALL LDG TFC ON RWY 36 TO VACATE ASAP",
-          "notams": "READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
-          "template": "THIS IS MALE VELANA INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "notams": "",
+          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4040,8 +4035,72 @@
           "id": "0c9dd512-9c7b-4f7d-acbd-2999802c76f2",
           "name": "18 | ILS X",
           "airportConditions": "DEP ARR RWY 18 EXPT ILS X APPR. ALL LDG TFC ON RWY 18 TO VACATE ASAP",
-          "notams": "READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
-          "template": "THIS IS MALE VELANA INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "notams": "",
+          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "externalGenerator": {
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
+          }
+        },
+        {
+          "id": "a1a1c54a-2048-40c1-aa17-9a8b9031dcaa",
+          "name": "36 | ILS W",
+          "airportConditions": "DEP ARR RWY 36 EXPT ILS W APPR. ALL LDG TFC ON RWY 36 TO VACATE ASAP",
+          "notams": "",
+          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "externalGenerator": {
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
+          }
+        },
+        {
+          "id": "d016b8eb-5012-44cd-a737-081da7f5233b",
+          "name": "18 | ILS W",
+          "airportConditions": "DEP ARR RWY 18 EXPT ILS W APPR. ALL LDG TFC ON RWY 18 TO VACATE ASAP",
+          "notams": "",
+          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "externalGenerator": {
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
+          }
+        },
+        {
+          "id": "3ac3cdb9-4a7b-4b18-83cf-d2cc66d8b0ee",
+          "name": "36 | VOR X",
+          "airportConditions": "DEP ARR RWY 36 EXPT VOR X APPR. ALL LDG TFC ON RWY 36 TO VACATE ASAP",
+          "notams": "",
+          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "externalGenerator": {
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
+          }
+        },
+        {
+          "id": "11eab995-26d5-4ce4-92e5-9b3db31ecc37",
+          "name": "18 | VOR X",
+          "airportConditions": "DEP ARR RWY 18 EXPT VOR X APPR. ALL LDG TFC ON RWY 36 TO VACATE ASAP",
+          "notams": "",
+          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4068,14 +4127,24 @@
       "airportConditionDefinitions": [],
       "notamDefinitions": [
         {
-          "text": "NEW TAXIWAYS AT VRMM NOW IN USE",
+          "text": "ADVISE ATC IF YOUR SCENERY IS OUTDATED FOR MALE AIRPORT",
           "ordinal": 1,
           "enabled": true
         },
         {
-          "text": "ADVISE ATC ON EQUIPPED SCENERY FOR VRMM",
+          "text": "OLD ALLOCATION FOR RWY 18/36 IS REPLACED BY TWY C.",
           "ordinal": 2,
-          "enabled": false
+          "enabled": true
+        },
+        {
+          "text": "READBACK ALL HOLD SHORT INSTRUCTIONS",
+          "ordinal": 3,
+          "enabled": true
+        },
+        {
+          "text": "RNAV STARS IN USE FOR VRMM ARRIVALS",
+          "ordinal": 4,
+          "enabled": true
         }
       ]
     },
@@ -6079,10 +6148,10 @@
         },
         {
           "id": "0ca2ce5e-cb7c-4693-90d6-177506fbb4e5",
-          "name": "05 | VORDME",
+          "name": "05 | VOR-DME",
           "airportConditions": "DEP ARR RWY 05 EXPT VOR DME APPR. ALL LDG TFC ON RWY 05 TO BC ASAP.",
           "notams": "",
-          "template": "THIS IS MATTALA RAJAPAKSA INTL ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
+          "template": "",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -6095,7 +6164,7 @@
         },
         {
           "id": "d575a1f8-3366-4983-86e8-60433a5de1b3",
-          "name": "23 | VORDME",
+          "name": "23 | VOR-DME",
           "airportConditions": "DEP ARR RWY 23 EXPT VOR DME APPR. ALL LDG TFC ON RWY 23 TO BC ASAP.",
           "notams": "",
           "template": "THIS IS MATTALA RAJAPAKSA INTL ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME]. AIRFIELD INFORMATION [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE].",
