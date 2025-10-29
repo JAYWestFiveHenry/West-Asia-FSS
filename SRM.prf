@@ -49,8 +49,8 @@ Sounds	Sound17	\SRM\Sounds\pointout.wav
 Sounds	Sound18	\SRM\Sounds\startup.wav
 Plugins	Plugin0	\SRM\Plugins\RDFPlugin.dll
 Plugins	Plugin1	\SRM\Plugins\TopSky\TopSky.dll
-Plugins	Plugin2	\SRM\Plugins\DiscordEuroscope.dll
-Plugins	Plugin3	\SRM\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
+Plugins	Plugin2	\SRM\Plugins\GRplugin\GRplugin.dll
+Plugins	Plugin3	\SRM\Plugins\DiscordEuroscope.dll
 LastSession	callsign	XX_OBS
 LastSession	server	AUTOMATIC
 LastSession	atis2	SRMvACC Observer 
@@ -66,25 +66,28 @@ Settings	SettingsfileTAXIOUT	\SRM\Settings\General.txt
 Settings	SettingsfileTAKEOFF	\SRM\Settings\General.txt
 Settings	SettingsfileADCS	\SRM\Settings\General.txt
 Settings	SettingsfileTAXIIN	\SRM\Settings\General.txt
-Plugins	Plugin4	\SRM\Plugins\ESEgypt.dll
-Plugins	Plugin5	\SRM\Plugins\VCH.dll
-Plugins	Plugin6	\SRM\Plugins\vSMR\vSMR.dll
+Plugins	Plugin4	\SRM\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
+Plugins	Plugin5	\SRM\Plugins\ESEgypt.dll
+Plugins	Plugin6	\SRM\Plugins\VCH.dll
 ASRFastKeys	1	\SRM\ASR\SRMvACC Display.asr
 ASRFastKeys	2	\SRM\ASR\Colombo SMC.asr
 ASRFastKeys	3	\SRM\ASR\Male GMC.asr
-RecentFiles	Recent1	\SRM\ASR\SRMvACC Display.asr
-RecentFiles	Recent3	\SRM\ASR\Mattala GMC.asr
-RecentFiles	Recent2	\SRM\ASR\Ratmalana GMC.asr
-RecentFiles	Recent4	\SRM\ASR\Colombo SMC.asr
+RecentFiles	Recent1	\SRM\ASR\Colombo SMC.asr
+RecentFiles	Recent3	\SRM\ASR\Ratmalana GMC.asr
+RecentFiles	Recent2	\SRM\ASR\SRMvACC Display.asr
+RecentFiles	Recent4	\SRM\ASR\Mattala GMC.asr
 RecentFiles	Recent5	\SRM\ASR\Male GMC.asr
-Plugins	Plugin6Display0	SMR radar display
-Plugins	Plugin7	\SRM\Plugins\ESTimers.dll
+Plugins	Plugin7	\SRM\Plugins\vSMR\vSMR.dll
 LastSession	atis_freq4	118000
 LastSession	atis3	I'm Newbie ATC Controller Would like to Learn
 Plugins	Plugin1Display0	SMR radar display
 Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin1Display2	Standard ES radar screen
-Plugins	Plugin7Display0	Standard ES radar screen
-Plugins	Plugin7Display1	SMR radar display
-Plugins	Plugin8	\SRM\Plugins\VFPC\VFPC.dll
+Plugins	Plugin7Display0	SMR radar display
+Plugins	Plugin8	\SRM\Plugins\ESTimers.dll
 RecentFiles	Recent6	\SRM\ASR\Jaffna GMC.asr
+Plugins	Plugin0Display2	Ground Radar display
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin8Display0	Standard ES radar screen
+Plugins	Plugin8Display1	SMR radar display
+Plugins	Plugin9	\SRM\Plugins\VFPC\VFPC.dll
