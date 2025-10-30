@@ -1,8 +1,58 @@
-Equip_ProMode=0
+//GENERAL SETTINGS
+Equip_ProMode=1
+Equip_ModeS=0
+Equip_ModeS=WZLCISG
+
+//STATUS SETTINGS
+System_State_OnFreq=ON FREQ
+System_State_StartUp=START UP
+System_State_Push=PUSH BACK
+System_State_Taxi_In=TAXI IN
+System_State_Taxi_Out=TAXI OUT
+System_State_LineUp=LINE UP
+System_State_Depa=TAKE OFF
+System_State_DeIce=DE ICE
+System_State_Parked=ON BLOCKS
+
+//SYSTEM SETTINGS
+System_GUI_Scale_GlobalMenu=1.0 
+System_GUI_Scale_Lists=1.0 
+System_GUI_Scale_Screen=1.0 
+System_GUI_Scale_Tracks=1.0 
+System_GUI_Scale_Windows=1.0
+System_TagColor=0
+System_UseReportedGS=1
+System_GS_Samples=5
+System_GS_DeleteMinMax=0
+System_GlobalMenu_Font=EuroScope
+System_GlobalMenu_FontSize=13
+System_Lists_FontSize=13 
+System_Windows_FontSize=13 
+System_RMCA_RWY_Closure=50
+System_RMCA_RWY_Closure_Info=20
+System_RMCA_RWY_Closure_LVP=40
+System_RMCA_RWY_Closure_LVP_Info=20
+System_RMCA_APP_Time=20
+System_RMCA_APP_Time_Info=35
+System_RMCA_APP_Time_LVP=30
+System_RMCA_APP_Time_LVP_Info=50
+System_RMCA_NoLineUpState=0
+System_AutoAssignDist=100   
+System_GroundMode_AltFilter_AAL=5000
+System_TowerMode_AltFilter_High=10000
+System_TowerMode_AltFilter_Low=380
+
+//RAW VIDEO
 RawVideo=1
+RawVideo_Brightness=50
+RawVideo_Afterglow=70
+RawVideo_MaxHistory=0
+
+//TRACK SETTINGS
 Track_Heading_Line=0
 Track_HistoryDots_GND=3
 
+//COLOR SETTINGS
 Color_Arrival=253,236,166
 Color_Departure=166,253,190
 Color_Background=0,15,26
@@ -12,11 +62,17 @@ Color_RunwayExtension=0,0,0
 Color_SelectedLabelFill_App=0,0,0
 Color_SelectedLabelFill_Gnd=0,0,0
 Color_RunwayExtension=72,73,75
-Window_APP_Scale=12
-Window_APP_AltFilter=6000
-Window_APP_Extensions=10
-Window_APP=1,1475,42,440,320
+Color_APP_RunwayExtension=70,70,70
+Color_APP_Background=0,0,0
+Color_APP_Runway=74,74,74
 
+//WINDOW SEETINGS
+Window_APP=1,0,560,248,338
+Window_APP_Rotation=346.0
+Window_APP_Extensions=25
+Window_APP_Scale=15.7
+
+//GND-TWR LABELS SETTINGS
 Maps_FontSize=10
 GroundLabel_Font=EuroScope
 GroundLabel_FontSize=11
@@ -28,79 +84,13 @@ AppLabel_Font=EuroScope
 AppLabel_FontSize=11
 AppLabel_Transparency_Bg=85
 
-Label=GND:ARR:0:ALRT,0,0:COMM,0,1 
-Label=GND:ARR:1:ATYP,0,0:WTC,0,1,0
-Label=GND:ARR:2:CALLSIGN,0,0:STAND,0,1 
-Label=GND:ARR:3:RMK,0,1 
-
-Label=GND:DEP:0:ALRT,0,0:ASSR_E,0,1:COMM,0,1 
-Label=GND:DEP:1:ATYP,0,0:WTC,0,1,0
-Label=GND:DEP:2:CALLSIGN,0,0:DRWY,0,1,1 
-Label=GND:DEP:3:RMK,0,1 
-
-Label=TWR:ARR:0:ALRT,0,0:COMM,0,1 
-Label=TWR:ARR:1:CALLSIGN,0,0:ARWY,0,1 
-Label=TWR:ARR:2:AFL+VS,0,1,20:GS,0,1
-Label=TWR:ARR:3:ATYP,0,0:RMK,0,1 
-
-Label=TWR:DEP:0:ALRT,0,0:COMM,0,1 
-Label=TWR:DEP:2:AFL+VS,0,1,20:GS,0,1
-Label=TWR:DEP:1:CALLSIGN,0,0:ATYP,0,1
-Label=TWR:DEP:3:RMK,0,1 
-
-Label_AFL+VS=0,0,1
-Label_ARWY=0,0,0
-Label_ATYP=0,0,0
-Label_DEP=0,0,0
-Label_DRWY=0,1,0
-Label_RMK=0,1,1
-Label_STAND=0,1,0
-Label_GS=0,0,1
-
-RawVideo_Brightness=100
-RawVideo_Afterglow=70
-RawVideo_MaxHistory=0
-
-Equip_ModeS=WZLCISG
-
-System_State_OnFreq=SBY
-System_State_DeIce=HPO
-System_State_StartUp=S/U
-System_State_Push=P/S
-System_State_Taxi=TAXI
-System_State_LineUp=L/U
-System_State_Depa=T/O
-
-System_RMCA_RWY_Closure=50
-System_RMCA_RWY_Closure_Info=20
-System_RMCA_RWY_Closure_LVP=40
-System_RMCA_RWY_Closure_LVP_Info=20
-System_RMCA_APP_Time=20
-System_RMCA_APP_Time_Info=35
-System_RMCA_APP_Time_LVP=30
-System_RMCA_APP_Time_LVP_Info=50
-System_RMCA_NoLineUpState=0
-System_AutoAssignDist=100
-
-System_GroundMode_AltFilter_AAL=5000
-System_TowerMode_AltFilter_High=10000
-System_TowerMode_AltFilter_Low=380
-
-List_Arrival=1,10,400
-List_Arrival_MaxTime=25
-List_Arrival_Items=10
+//LIST SEETINGS
+List_Alerts=1,1637,600
+List_Alerts_Items=5
+List_Arrival=1,0,370
 List_Arrival_TYPE=1
-List_Arrival_STAND=1
-List_Arrival_ETA=0
-List_Alerts=1,1625,500
-
+List_Arrival_Items=5
+List_Arrival_RWY=1
+List_Stand=1,1670,807
 List_Stand_Items=10
-
-List_Departure_TYPE=1
-List_Departure_Items=40
-List_Departure_RWY=1
-List_Departure_TYPE=1
-List_Departure_STAND=1
-List_Departure_EOBT=1
-List_Departure_Items=30
 

@@ -1,23 +1,8 @@
-DisplayTypeName:SMR radar display
+DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
-Free Text:VCRI GroundLayout\05:freetext
-Free Text:VCRI GroundLayout\23:freetext
-Free Text:VCRI GroundLayout\A:freetext
-Free Text:VCRI GroundLayout\A1:freetext
-Free Text:VCRI GroundLayout\A2:freetext
-Free Text:VCRI GroundLayout\A3:freetext
-Free Text:VCRI GroundLayout\A4:freetext
-Free Text:VCRI GroundLayout\A5:freetext
-Free Text:VCRI GroundLayout\A6:freetext
-Free Text:VCRI GroundLayout\A7:freetext
-Free Text:VCRI GroundLayout\A8:freetext
-Free Text:VCRI GroundLayout\B:freetext
-Free Text:VCRI GroundLayout\L:freetext
-Free Text:VCRI GroundLayout\R:freetext
-Geo:GEO:
 Regions:VCRI GroundLayout:polygon
 SHOWC:1
 SHOWSB:0
@@ -30,34 +15,11 @@ HISTORY_DOTS:0
 SIMULATION_MODE:4
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:53.00000
-TAGFAMILY:TopSky Eurocat
+DisplayRotation:45.00000
+TAGFAMILY:Matias (built in)
 WINDOWAREA:6.273515:81.094483:6.305469:81.152512
+PLUGIN:Ground Radar plugin:AirportElevation:157
+PLUGIN:Ground Radar plugin:AirportRadius:5
+PLUGIN:Ground Radar plugin:GroundMode:VCRI
+PLUGIN:Ground Radar plugin:TowerMode:VCRI
 PLUGIN:TopSky plugin:NoDraw:1
-PLUGIN:vSMR:ActiveProfile:Default
-PLUGIN:vSMR:Afterglow:1
-PLUGIN:vSMR:Airport:VCRI
-PLUGIN:vSMR:AppTrailsDots:4
-PLUGIN:vSMR:FontSize:1
-PLUGIN:vSMR:GndTrailsDots:4
-PLUGIN:vSMR:PredictedLine:0
-PLUGIN:vSMR:SRW1BottomRightX:600
-PLUGIN:vSMR:SRW1BottomRightY:500
-PLUGIN:vSMR:SRW1Display:0
-PLUGIN:vSMR:SRW1Filter:5500
-PLUGIN:vSMR:SRW1OffsetX:0
-PLUGIN:vSMR:SRW1OffsetY:0
-PLUGIN:vSMR:SRW1Rotation:0
-PLUGIN:vSMR:SRW1Scale:15
-PLUGIN:vSMR:SRW1TopLeftX:200
-PLUGIN:vSMR:SRW1TopLeftY:200
-PLUGIN:vSMR:SRW2BottomRightX:600
-PLUGIN:vSMR:SRW2BottomRightY:500
-PLUGIN:vSMR:SRW2Display:0
-PLUGIN:vSMR:SRW2Filter:5500
-PLUGIN:vSMR:SRW2OffsetX:0
-PLUGIN:vSMR:SRW2OffsetY:0
-PLUGIN:vSMR:SRW2Rotation:0
-PLUGIN:vSMR:SRW2Scale:15
-PLUGIN:vSMR:SRW2TopLeftX:200
-PLUGIN:vSMR:SRW2TopLeftY:200
