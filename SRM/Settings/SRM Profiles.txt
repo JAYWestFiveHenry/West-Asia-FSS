@@ -52,7 +52,7 @@ ATIS2:"Anuradhapura Tower"
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VCCA_APP:150:5
-ATIS2:"Anuradhapura Approach" | Covering Anuradhapura CTA ONLY up to 9500ft
+ATIS2:"Anuradhapura Approach" | Covering Anuradhapura CTA up to 9500ft
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VCBI_APP:150:5
@@ -124,7 +124,7 @@ ATIS2:"Gan Ground"
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VRMM_APP:150:5
-ATIS2:"Male Approach" | Covering Male TMA ONLY Up to FL285
+ATIS2:"Male Approach" | Covering Male TMA Up to FL285
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VRMF_S_CTR:600:6
