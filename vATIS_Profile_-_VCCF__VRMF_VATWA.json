@@ -1,6 +1,8 @@
 {
   "name": "VCCF & VRMF VATWA",
   "id": "083da655-323c-491a-be21-f53f88e573b6",
+  "updateUrl": "https://example.com/vatis/profiles/vATIS-Profile.json",
+  "updateSerial": 2025110401,
   "stations": [
     {
       "id": "f85b4324-2268-48fe-9e54-408b4de93f3c",
