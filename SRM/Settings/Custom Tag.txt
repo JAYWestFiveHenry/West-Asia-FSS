@@ -9,9 +9,11 @@ TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:15::1:1:0:0:TopSky plugin:0:1:::1
 TAGITEM:5067861::0:0:0:0:ESEgypt:0:1:::1
 TAGITEM:201::0:1:0:0:TopSky plugin:0:1:::1
-TAGTYPE:1:5:1
+TAGTYPE:1:7:1
 TAGITEM:261::0:1:0:0:TopSky plugin:0:1:::1
 TAGITEM:23::0:1:0:0:TopSky plugin:7:1:::1
+TAGITEM:152::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:151::0:1:0:0:TopSky plugin:0:1:::1
 TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
 TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1

@@ -273,7 +273,7 @@ Vector_MinSep_Label_Time=1
 MSAW=1
 
 //APW
-APW=0
+APW=1
 APW_UseCFL=1
 APW_VFR=1
 APW_WarningTime=120
@@ -314,7 +314,7 @@ SAP_Risks_Window=1
 SAP_Risks_Label=1
 
 //STCA
-STCA=0
+STCA=1
 STCA_VFR=1
 STCA_UseCFL=1
 STCA_Sep_Lat_SepLevel=12500
