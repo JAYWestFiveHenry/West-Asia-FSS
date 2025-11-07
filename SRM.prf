@@ -22,10 +22,10 @@ Settings	aircraft	\SRM\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\SRM\NavData\icao.txt
 Settings	airways	\SRM\NavData\airway.txt
 LastSession	connecttype	0
-LastSession	facility	0
-LastSession	rating	0
+LastSession	facility	5
+LastSession	rating	3
 LastSession	tovatsim	1
-LastSession	range	300
+LastSession	range	150
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 Sounds	Sound0	\SRM\Sounds\handoff_request.wav
@@ -51,10 +51,10 @@ Plugins	Plugin0	\SRM\Plugins\RDFPlugin.dll
 Plugins	Plugin1	\SRM\Plugins\TopSky\TopSky.dll
 Plugins	Plugin2	\SRM\Plugins\GRplugin\GRplugin.dll
 Plugins	Plugin3	\SRM\Plugins\DiscordEuroscope.dll
-LastSession	callsign	XX_OBS
+LastSession	callsign	VRMM_APP
 LastSession	server	AUTOMATIC
-LastSession	atis2	SRMvACC Observer 
-LastSession	atis4	Welcome to SRMvACC -> visit www.4r-ipm.me/vaccsrm/
+LastSession	atis2	"Male Approach" | Covering Male TMA Up to FL285
+LastSession	atis4	ATC Feedback -> hq.vatwa.net/atc/feedback
 LastSession	atis_freq3	118000
 LastSession	SimAuto	0
 Plugins	Plugin0Display0	Standard ES radar screen
@@ -73,13 +73,13 @@ ASRFastKeys	1	\SRM\ASR\SRMvACC Display.asr
 ASRFastKeys	2	\SRM\ASR\Colombo SMC.asr
 ASRFastKeys	3	\SRM\ASR\Male GMC.asr
 RecentFiles	Recent1	\SRM\ASR\SRMvACC Display.asr
-RecentFiles	Recent3	\SRM\ASR\Ratmalana GMC.asr
-RecentFiles	Recent2	\SRM\ASR\Colombo SMC.asr
-RecentFiles	Recent4	\SRM\ASR\Mattala GMC.asr
-RecentFiles	Recent5	\SRM\ASR\Male GMC.asr
+RecentFiles	Recent3	\SRM\ASR\Colombo SMC.asr
+RecentFiles	Recent2	\SRM\ASR\Male GMC.asr
+RecentFiles	Recent4	\SRM\ASR\Ratmalana GMC.asr
+RecentFiles	Recent5	\SRM\ASR\Mattala GMC.asr
 Plugins	Plugin7	\SRM\Plugins\vSMR\vSMR.dll
 LastSession	atis_freq4	118000
-LastSession	atis3	I'm Newbie ATC Controller Would like to Learn
+LastSession	atis3	Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 Plugins	Plugin1Display0	SMR radar display
 Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin1Display2	Standard ES radar screen
@@ -91,3 +91,6 @@ Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin8Display0	Standard ES radar screen
 Plugins	Plugin8Display1	SMR radar display
 Plugins	Plugin9	\SRM\Plugins\VFPC\VFPC.dll
+LastSession	realname	Gia Huy Tran
+LastSession	certificate	1442675
+LastSession	password	cz11Mrc9
