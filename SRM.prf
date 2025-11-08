@@ -22,8 +22,8 @@ Settings	aircraft	\SRM\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\SRM\NavData\icao.txt
 Settings	airways	\SRM\NavData\airway.txt
 LastSession	connecttype	0
-LastSession	facility	5
-LastSession	rating	3
+LastSession	facility	0
+LastSession	rating	0
 LastSession	tovatsim	1
 LastSession	range	150
 LastSession	proxyserver	localhost
@@ -51,10 +51,10 @@ Plugins	Plugin0	\SRM\Plugins\RDFPlugin.dll
 Plugins	Plugin1	\SRM\Plugins\TopSky\TopSky.dll
 Plugins	Plugin2	\SRM\Plugins\GRplugin\GRplugin.dll
 Plugins	Plugin3	\SRM\Plugins\DiscordEuroscope.dll
-LastSession	callsign	VRMM_APP
+LastSession	callsign	XX_OBS
 LastSession	server	AUTOMATIC
-LastSession	atis2	"Male Approach" | Covering Male TMA Up to FL285
-LastSession	atis4	ATC Feedback -> hq.vatwa.net/atc/feedback
+LastSession	atis2	I'm Newbie ATC Controller Would like to Learn
+LastSession	atis4	Welcome to SRMvACC -> visit www.4r-ipm.me/vaccsrm/
 LastSession	atis_freq3	118000
 LastSession	SimAuto	0
 Plugins	Plugin0Display0	Standard ES radar screen
@@ -91,6 +91,6 @@ Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin8Display0	Standard ES radar screen
 Plugins	Plugin8Display1	SMR radar display
 Plugins	Plugin9	\SRM\Plugins\VFPC\VFPC.dll
-LastSession	realname	Gia Huy Tran
-LastSession	certificate	1442675
-LastSession	password	cz11Mrc9
+LastSession	realname	Your VATSIM Name
+LastSession	certificate	Your VATSIM CID
+LastSession	password	
