@@ -154,7 +154,7 @@
          "ATISA": [
             {
                "direction":"ODD",
-               "airways":["ATISA Z852"],
+               "airways":["ATISA Z652"],
                "destinations":["VR"]
             },
             {
