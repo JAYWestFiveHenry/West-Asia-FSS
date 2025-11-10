@@ -187,7 +187,7 @@ System_UseReportedGS=1
 
 //TRACKS SETTINGS
 Track_HistoryDots=6
-Track_PredictionLine=1
+Track_PredictionLine=0
 Track_PSR_Filter_GS=30
 
 //RUNWAY APP LINES
