@@ -7,7 +7,6 @@ ARTCC boundary:VCBI_TMA Colombo TMA:
 ARTCC boundary:VCCF Delagated VOMF - VCCF:
 ARTCC boundary:VCCF_CTR Colombo Control:
 ARTCC boundary:VRMF_CTR Male Control:
-ARTCC boundary:VRMF_S_CTR Male Control:
 ARTCC high boundary:VCBI_APP Colombo Director:
 ARTCC high boundary:VCCA_APP Anuradhapura Approach:
 ARTCC high boundary:VCCJ_TWR Jaffna Tower (Procedural):
@@ -141,4 +140,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:SRM TopSky
-WINDOWAREA:2.860715:71.324601:5.326962:75.803332
+WINDOWAREA:3.453510:72.521094:4.463685:74.355582
