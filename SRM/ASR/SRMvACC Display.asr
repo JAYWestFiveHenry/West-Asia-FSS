@@ -4,35 +4,36 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
 ARTCC boundary:VCBI_TMA Colombo TMA:
+ARTCC boundary:VCCF Colombo ACC:
 ARTCC boundary:VCCF Delagated VOMF - VCCF:
-ARTCC boundary:VCCF_CTR Colombo Control:
-ARTCC boundary:VRMF_CTR Male Control:
-ARTCC high boundary:VCBI_APP Colombo Director:
-ARTCC high boundary:VCCA_APP Anuradhapura Approach:
-ARTCC high boundary:VCCJ_TWR Jaffna Tower (Procedural):
-ARTCC high boundary:VCRI_APP Mattala Approach:
-ARTCC high boundary:VRMM_APP Male Approach:
-ARTCC low boundary:VCBI_TWR Colombo Tower:
-ARTCC low boundary:VCCA_TWR Anuradhapura Tower:
-ARTCC low boundary:VCCB_TWR Batticaloa Tower:
-ARTCC low boundary:VCCC_TWR Ratmalana Tower:
-ARTCC low boundary:VCCH_TWR Minneriya Tower:
-ARTCC low boundary:VCCK_TWR Koggala Tower:
-ARTCC low boundary:VCCT_TWR China-bay Tower:
-ARTCC low boundary:VCCV_TWR Vavunya Tower:
-ARTCC low boundary:VCRI_TWR Mattala Tower:
-ARTCC low boundary:VRDA AFIS Area:
-ARTCC low boundary:VREI AFIS Area:
+ARTCC boundary:VRMF-N_ACC Male North + BB:
+ARTCC boundary:VRMF-S_ACC Male South:
+ARTCC high boundary:VCBI_APP Colombo CTA:
+ARTCC high boundary:VCCA_APP Anuradhapura CTA:
+ARTCC high boundary:VCCJ_TWR Jaffna CTR (Procedural):
+ARTCC high boundary:VCRI_APP Mattala CTA:
+ARTCC high boundary:VRMM_APP Male TMA:
+ARTCC low boundary:VCBI_TWR Colombo CTR:
+ARTCC low boundary:VCCA_TWR Anuradhapura CTR:
+ARTCC low boundary:VCCB_TWR Batticaloa CTR:
+ARTCC low boundary:VCCC_TWR Ratmalana CTR:
+ARTCC low boundary:VCCH_TWR Minneriya CTR:
+ARTCC low boundary:VCCK_TWR Koggala CTR:
+ARTCC low boundary:VCCT_TWR China-bay CTR:
+ARTCC low boundary:VCCV_TWR Vavunya CTR:
+ARTCC low boundary:VCRI_TWR Mattala CTR:
+ARTCC low boundary:VRDA_TWR Maafaru CTR:
+ARTCC low boundary:VREI_AFIS Ifuru AFIS:
 ARTCC low boundary:VRMD_TWR Dharavandhoo Tower:
-ARTCC low boundary:VRMG_TWR Gan Tower:
-ARTCC low boundary:VRMH_TWR Hanimaadhoo Tower:
-ARTCC low boundary:VRMK_TWR Kadhdhoo Tower:
-ARTCC low boundary:VRMM_TWR Male Tower:
-ARTCC low boundary:VRMO_TWR Kooddoo Tower:
-ARTCC low boundary:VRMR_TWR Fuvahmulah Tower:
-ARTCC low boundary:VRMT_TWR Kaadedhdhoo Tower:
+ARTCC low boundary:VRMG_TWR Gan CTR:
+ARTCC low boundary:VRMH_TWR Hanimaadhoo CTR:
+ARTCC low boundary:VRMK_TWR Kadhdhoo CTR:
+ARTCC low boundary:VRMM_TWR Male CTR:
+ARTCC low boundary:VRMO_TWR Kooddoo CTR:
+ARTCC low boundary:VRMR_TWR Fuvahmulah CTR:
+ARTCC low boundary:VRMT_TWR Kaadedhdhoo CTR:
 ARTCC low boundary:VRMU AFIS Area:
-ARTCC low boundary:VRMV_TWR Maamigili Tower:
+ARTCC low boundary:VRMV_TWR Maamigili CTR:
 Geo:GEO:
 Geo:VCCF Landmark Coastline:
 Geo:VRMF Landmark Coastline:
@@ -140,4 +141,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:SRM TopSky
-WINDOWAREA:3.453510:72.521094:4.463685:74.355582
+WINDOWAREA:-9.231638:59.059298:13.737082:100.770747
