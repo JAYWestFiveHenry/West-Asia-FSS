@@ -24,7 +24,7 @@ ATIS2:"Ratmalana Tower"
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VCCJ_TWR:50:4
-ATIS2:"Jaffna Tower" | Procedural Tower Service up to 10000ft
+ATIS2:"Jaffna Tower" | Procedural Tower up to 10000ft
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VCCV_TWR:50:4
@@ -116,11 +116,19 @@ ATIS2:"Fuvahmulah Tower"
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VRMG_TWR:50:4
-ATIS2:"Gan Tower" 
+ATIS2:"Gan Control" | Procedural Tower up to 6000ft
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
-PROFILE:VRMG_GND:20:3
-ATIS2:"Gan Ground" 
+PROFILE:VREI_I_TWR:50:4
+ATIS2:"Ifuru Infomation" | AFIS Service Only, No Clearance Provided
+ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
+ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
+PROFILE:VRGD_I_TWR:50:4
+ATIS2:"Madivaru Infomation" | AFIS Service Only, No Clearance Provided
+ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
+ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
+PROFILE:VRNT_I_TWR:50:4
+ATIS2:"Thimarafushi Infomation" | AFIS Service Only, No Clearance Provided
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VRMM_APP:150:5
