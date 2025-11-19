@@ -3,12 +3,15 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
+Free Text:VRMM GroundLayout\1:freetext
+Free Text:VRMM GroundLayout\1L:freetext
+Free Text:VRMM GroundLayout\1R:freetext
 Free Text:VRMM GroundLayout\2:freetext
-Free Text:VRMM GroundLayout\2L :freetext
+Free Text:VRMM GroundLayout\2L:freetext
 Free Text:VRMM GroundLayout\2R:freetext
 Free Text:VRMM GroundLayout\3:freetext
 Free Text:VRMM GroundLayout\3L:freetext
-Free Text:VRMM GroundLayout\3R :freetext
+Free Text:VRMM GroundLayout\3R:freetext
 Free Text:VRMM GroundLayout\4:freetext
 Free Text:VRMM GroundLayout\4L:freetext
 Free Text:VRMM GroundLayout\4R:freetext
@@ -16,22 +19,28 @@ Free Text:VRMM GroundLayout\5:freetext
 Free Text:VRMM GroundLayout\5L:freetext
 Free Text:VRMM GroundLayout\5R:freetext
 Free Text:VRMM GroundLayout\6:freetext
-Free Text:VRMM GroundLayout\6L :freetext
-Free Text:VRMM GroundLayout\6R :freetext
+Free Text:VRMM GroundLayout\6L:freetext
+Free Text:VRMM GroundLayout\6R:freetext
 Free Text:VRMM GroundLayout\7:freetext
-Free Text:VRMM GroundLayout\8 :freetext
+Free Text:VRMM GroundLayout\7L:freetext
+Free Text:VRMM GroundLayout\7R:freetext
+Free Text:VRMM GroundLayout\8:freetext
+Free Text:VRMM GroundLayout\8L:freetext
+Free Text:VRMM GroundLayout\8R:freetext
 Free Text:VRMM GroundLayout\9:freetext
-Free Text:VRMM GroundLayout\A1 :freetext
+Free Text:VRMM GroundLayout\9L:freetext
+Free Text:VRMM GroundLayout\9R:freetext
+Free Text:VRMM GroundLayout\A1:freetext
 Free Text:VRMM GroundLayout\A10:freetext
 Free Text:VRMM GroundLayout\A11:freetext
 Free Text:VRMM GroundLayout\A12:freetext
 Free Text:VRMM GroundLayout\A2:freetext
-Free Text:VRMM GroundLayout\A3 :freetext
+Free Text:VRMM GroundLayout\A3:freetext
 Free Text:VRMM GroundLayout\A4:freetext
 Free Text:VRMM GroundLayout\A5:freetext
 Free Text:VRMM GroundLayout\A6:freetext
 Free Text:VRMM GroundLayout\A7:freetext
-Free Text:VRMM GroundLayout\A8 :freetext
+Free Text:VRMM GroundLayout\A8:freetext
 Free Text:VRMM GroundLayout\A9:freetext
 Free Text:VRMM GroundLayout\B3:freetext
 Free Text:VRMM GroundLayout\B4:freetext
@@ -62,20 +71,19 @@ Free Text:VRMM GroundLayout\F4:freetext
 Free Text:VRMM GroundLayout\F4L:freetext
 Free Text:VRMM GroundLayout\F4R:freetext
 Free Text:VRMM GroundLayout\G:freetext
-Free Text:VRMM GroundLayout\Island Aviation Services Hangar:freetext
-Free Text:VRMM GroundLayout\Main Apron:freetext
 Free Text:VRMM GroundLayout\North Apron:freetext
-Free Text:VRMM Water Aerodrome\E:freetext
+Free Text:VRMM GroundLayout\North GA Apron:freetext
+Free Text:VRMM GroundLayout\South GA Apron:freetext
+Free Text:VRMM GroundLayout\TL A:freetext
+Free Text:VRMM GroundLayout\TL F:freetext
 Free Text:VRMM Water Aerodrome\NC:freetext
 Free Text:VRMM Water Aerodrome\NL:freetext
 Free Text:VRMM Water Aerodrome\NR:freetext
 Free Text:VRMM Water Aerodrome\SC:freetext
 Free Text:VRMM Water Aerodrome\SL:freetext
 Free Text:VRMM Water Aerodrome\SR:freetext
-Free Text:VRMM Water Aerodrome\W:freetext
 Geo:GEO:
 Geo:VRMM Groundlayout:
-Geo:VRMM Groundlayout Water Aerodrome N004.10.50.815:
 Regions:VRMM GroundLayout:polygon
 SHOWC:1
 SHOWSB:0
@@ -90,7 +98,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:91.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:4.183271:73.508057:4.208311:73.553529
+WINDOWAREA:4.183685:73.511442:4.203717:73.547821
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:vSMR:ActiveProfile:Default
 PLUGIN:vSMR:Afterglow:1
