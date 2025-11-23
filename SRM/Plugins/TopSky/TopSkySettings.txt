@@ -11,7 +11,7 @@
 Setup_COOPANS=1
 
 //Equipment
-Equip_Use_SUR_AltitudeReporting=1
+Equip_Use_SUR_AltitudeReporting=0
 Equip_Use_SUR_Mode_S=0
 Equip_Use_SUR_Mode_S_EHS=0
 Equip_Use_SUR_Mode_S_FLTID=0

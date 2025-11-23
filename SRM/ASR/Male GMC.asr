@@ -1,87 +1,8 @@
-DisplayTypeName:SMR radar display
+DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
-Free Text:VRMM GroundLayout\1:freetext
-Free Text:VRMM GroundLayout\1L:freetext
-Free Text:VRMM GroundLayout\1R:freetext
-Free Text:VRMM GroundLayout\2:freetext
-Free Text:VRMM GroundLayout\2L:freetext
-Free Text:VRMM GroundLayout\2R:freetext
-Free Text:VRMM GroundLayout\3:freetext
-Free Text:VRMM GroundLayout\3L:freetext
-Free Text:VRMM GroundLayout\3R:freetext
-Free Text:VRMM GroundLayout\4:freetext
-Free Text:VRMM GroundLayout\4L:freetext
-Free Text:VRMM GroundLayout\4R:freetext
-Free Text:VRMM GroundLayout\5:freetext
-Free Text:VRMM GroundLayout\5L:freetext
-Free Text:VRMM GroundLayout\5R:freetext
-Free Text:VRMM GroundLayout\6:freetext
-Free Text:VRMM GroundLayout\6L:freetext
-Free Text:VRMM GroundLayout\6R:freetext
-Free Text:VRMM GroundLayout\7:freetext
-Free Text:VRMM GroundLayout\7L:freetext
-Free Text:VRMM GroundLayout\7R:freetext
-Free Text:VRMM GroundLayout\8:freetext
-Free Text:VRMM GroundLayout\8L:freetext
-Free Text:VRMM GroundLayout\8R:freetext
-Free Text:VRMM GroundLayout\9:freetext
-Free Text:VRMM GroundLayout\9L:freetext
-Free Text:VRMM GroundLayout\9R:freetext
-Free Text:VRMM GroundLayout\A1:freetext
-Free Text:VRMM GroundLayout\A10:freetext
-Free Text:VRMM GroundLayout\A11:freetext
-Free Text:VRMM GroundLayout\A12:freetext
-Free Text:VRMM GroundLayout\A2:freetext
-Free Text:VRMM GroundLayout\A3:freetext
-Free Text:VRMM GroundLayout\A4:freetext
-Free Text:VRMM GroundLayout\A5:freetext
-Free Text:VRMM GroundLayout\A6:freetext
-Free Text:VRMM GroundLayout\A7:freetext
-Free Text:VRMM GroundLayout\A8:freetext
-Free Text:VRMM GroundLayout\A9:freetext
-Free Text:VRMM GroundLayout\B3:freetext
-Free Text:VRMM GroundLayout\B4:freetext
-Free Text:VRMM GroundLayout\B5:freetext
-Free Text:VRMM GroundLayout\B6:freetext
-Free Text:VRMM GroundLayout\B7:freetext
-Free Text:VRMM GroundLayout\B8:freetext
-Free Text:VRMM GroundLayout\B9:freetext
-Free Text:VRMM GroundLayout\C:freetext
-Free Text:VRMM GroundLayout\D1:freetext
-Free Text:VRMM GroundLayout\D2:freetext
-Free Text:VRMM GroundLayout\D3:freetext
-Free Text:VRMM GroundLayout\D4:freetext
-Free Text:VRMM GroundLayout\D5:freetext
-Free Text:VRMM GroundLayout\D6:freetext
-Free Text:VRMM GroundLayout\D7:freetext
-Free Text:VRMM GroundLayout\E:freetext
-Free Text:VRMM GroundLayout\F:freetext
-Free Text:VRMM GroundLayout\F1L:freetext
-Free Text:VRMM GroundLayout\F1R:freetext
-Free Text:VRMM GroundLayout\F2:freetext
-Free Text:VRMM GroundLayout\F2L:freetext
-Free Text:VRMM GroundLayout\F2R:freetext
-Free Text:VRMM GroundLayout\F3:freetext
-Free Text:VRMM GroundLayout\F3L:freetext
-Free Text:VRMM GroundLayout\F3R:freetext
-Free Text:VRMM GroundLayout\F4:freetext
-Free Text:VRMM GroundLayout\F4L:freetext
-Free Text:VRMM GroundLayout\F4R:freetext
-Free Text:VRMM GroundLayout\G:freetext
-Free Text:VRMM GroundLayout\North Apron:freetext
-Free Text:VRMM GroundLayout\North GA Apron:freetext
-Free Text:VRMM GroundLayout\South GA Apron:freetext
-Free Text:VRMM GroundLayout\TL A:freetext
-Free Text:VRMM GroundLayout\TL F:freetext
-Free Text:VRMM Water Aerodrome\NC:freetext
-Free Text:VRMM Water Aerodrome\NL:freetext
-Free Text:VRMM Water Aerodrome\NR:freetext
-Free Text:VRMM Water Aerodrome\SC:freetext
-Free Text:VRMM Water Aerodrome\SL:freetext
-Free Text:VRMM Water Aerodrome\SR:freetext
 Geo:GEO:
 Geo:VRMM Groundlayout:
 Regions:VRMM GroundLayout:polygon
@@ -100,30 +21,7 @@ DisplayRotation:91.00000
 TAGFAMILY:Matias (built in)
 WINDOWAREA:4.182781:73.511704:4.202814:73.548083
 PLUGIN:TopSky plugin:NoDraw:1
-PLUGIN:vSMR:ActiveProfile:Default
-PLUGIN:vSMR:Afterglow:1
-PLUGIN:vSMR:Airport:VRMM
-PLUGIN:vSMR:AppTrailsDots:4
-PLUGIN:vSMR:FontSize:1
-PLUGIN:vSMR:GndTrailsDots:4
-PLUGIN:vSMR:PredictedLine:0
-PLUGIN:vSMR:SRW1BottomRightX:600
-PLUGIN:vSMR:SRW1BottomRightY:500
-PLUGIN:vSMR:SRW1Display:0
-PLUGIN:vSMR:SRW1Filter:5500
-PLUGIN:vSMR:SRW1OffsetX:0
-PLUGIN:vSMR:SRW1OffsetY:0
-PLUGIN:vSMR:SRW1Rotation:0
-PLUGIN:vSMR:SRW1Scale:15
-PLUGIN:vSMR:SRW1TopLeftX:200
-PLUGIN:vSMR:SRW1TopLeftY:200
-PLUGIN:vSMR:SRW2BottomRightX:600
-PLUGIN:vSMR:SRW2BottomRightY:500
-PLUGIN:vSMR:SRW2Display:0
-PLUGIN:vSMR:SRW2Filter:5500
-PLUGIN:vSMR:SRW2OffsetX:0
-PLUGIN:vSMR:SRW2OffsetY:0
-PLUGIN:vSMR:SRW2Rotation:0
-PLUGIN:vSMR:SRW2Scale:15
-PLUGIN:vSMR:SRW2TopLeftX:200
-PLUGIN:vSMR:SRW2TopLeftY:200
+PLUGIN:Ground Radar plugin:AirportElevation:8
+PLUGIN:Ground Radar plugin:AirportRadius:5
+PLUGIN:Ground Radar plugin:GroundMode:VRMM
+PLUGIN:Ground Radar plugin:TowerMode:VRMM
