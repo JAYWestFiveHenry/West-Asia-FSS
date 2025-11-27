@@ -139,8 +139,4 @@ PROFILE:VRNT_I_TWR:50:4
 ATIS2:"Thimarafushi Infomation" | AFIS Service Only, No Clearance Provided
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
-PROFILE:ACCSRM4:300:0
-ATIS2:ACCSRM4 - SRM Director Maldives
-ATIS3:Welcome to SRMvACC -> visit www.4r-ipm.me/vaccsrm/
-ATIS4:
 END
