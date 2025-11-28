@@ -3,9 +3,6 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
-Geo:GEO:
-Geo:VCCC Groundlayout:
-Regions:VCCC GroundLayout:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -19,8 +16,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:53.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:6.816102:79.874386:6.829191:79.898156
-PLUGIN:TopSky plugin:NoDraw:1
+WINDOWAREA:6.815435:79.873976:6.828525:79.897746
 PLUGIN:Ground Radar plugin:AirportElevation:157
 PLUGIN:Ground Radar plugin:AirportRadius:5
 PLUGIN:Ground Radar plugin:GroundMode:VCCC

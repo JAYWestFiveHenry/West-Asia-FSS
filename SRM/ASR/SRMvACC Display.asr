@@ -4,8 +4,8 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
 ARTCC boundary:VCBI_TMA Colombo TMA:
-ARTCC boundary:VCCF Colombo ACC:
 ARTCC boundary:VCCF Delagated VOMF - VCCF:
+ARTCC boundary:VCCF_OC Colombo OC:
 ARTCC boundary:VRMF-N_ACC Male North + BB:
 ARTCC boundary:VRMF-S_ACC Male South:
 ARTCC high boundary:VCBI_APP Colombo CTA:
@@ -141,4 +141,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:SRM TopSky
-WINDOWAREA:-5.121606:67.793125:13.253387:101.162315
+WINDOWAREA:-0.485940:66.282249:14.214055:92.977601
