@@ -3606,12 +3606,14 @@ N004.11.11.245:E073.31.58.825:VRMM GroundLayout:F2R
 N004.11.12.666:E073.31.58.799:VRMM GroundLayout:F2L
 N004.11.15.518:E073.31.58.762:VRMM GroundLayout:F1L
 N004.11.14.082:E073.31.58.787:VRMM GroundLayout:F1R
-N004.11.10.667:E073.31.58.583:VRMM GroundLayout:TL F
-N004.10.47.476:E073.31.43.219:VRMM GroundLayout:TL A
-N004.10.59.340:E073.31.43.019:VRMM GroundLayout:TL A
-N004.11.08.742:E073.31.42.872:VRMM GroundLayout:TL A
-N004.11.17.068:E073.31.42.746:VRMM GroundLayout:TL A
-N004.11.23.274:E073.31.42.640:VRMM GroundLayout:TL A
+N004.11.44.037:E073.31.37.255:VRMM GroundLayout:Island Aviation Hangar
+N004.11.52.185:E073.31.37.371:VRMM GroundLayout:Cargo Terminal
+N004.11.07.692:E073.31.35.932:VRMM GroundLayout:New Passenger Terminal
+N004.11.10.512:E073.32.02.463:VRMM GroundLayout:East Apron
+N004.11.22.428:E073.31.38.185:VRMM GroundLayout:VIP Terminal
+N004.11.24.297:E073.31.38.425:VRMM GroundLayout:Domestic Terminal
+N004.11.17.136:E073.31.37.064:VRMM GroundLayout:International Terminal
+N004.10.51.662:E073.31.38.410:VRMM GroundLayout:Main Apron
 ;============================================ ~~ VRMF/VRMM/Water Aerodrome ~~ ============================================;
 N004.11.42.320:E073.32.02.321:VRMM Water Aerodrome:NL
 N004.12.13.302:E073.32.02.052:VRMM Water Aerodrome:SR
@@ -3619,6 +3621,8 @@ N004.12.08.505:E073.32.14.977:VRMM Water Aerodrome:SC
 N004.11.38.842:E073.32.14.716:VRMM Water Aerodrome:NC
 N004.11.30.155:E073.32.14.702:VRMM Water Aerodrome:NR
 N004.11.56.524:E073.32.26.034:VRMM Water Aerodrome:SL
+N004.11.27.425:E073.32.04.504:VRMM Water Aerodrome:Noovilu Seaplane Terminal
+N004.11.18.793:E073.32.09.223:VRMM Water Aerodrome:Maldivian Airlines Seaplane Terminal
 ;============================================= ~~ VRMF/VRMO/GroundLayout ~~ ==============================================;
 N000.44.01.406:E073.26.01.574:VRMO GroundLayout:A
 N000.43.58.935:E073.26.01.660:VRMO GroundLayout:B
