@@ -76,8 +76,8 @@
     },
     "buttons": [
         {
-            "label": "Check our Coverage",
-            "url" : "https://vatsim-radar.com"
+            "label": "",
+            "url" : ""
         }
     ],
     "radio_callsigns": {
