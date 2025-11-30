@@ -8,7 +8,7 @@ AG:VCCA_APP Anuradhapura Approach:126.700
 AG:VCCA_TWR Anuradhapura Tower:120.500
 AG:VCCB_TWR Batticaloa Tower:123.700
 AG:VCCC_TWR Ratmalana Tower:119.100
-AG:VCCF_CTR Colombo Radar:124.900
+AG:VCCF_CTR Colombo Control:124.900
 AG:VCCG_TWR Amparai Tower:123.675
 AG:VCCH_TWR Minneriya Tower:123.525
 AG:VCCJ_TWR Jaffna Tower:118.800
