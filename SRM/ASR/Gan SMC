@@ -1,0 +1,28 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
+SECTORTITLE:SRMvACC.sct
+Fixes:VRMG:name
+Fixes:VRMG:symbol
+Geo:GEO:
+Geo:VRMG Groundlayout:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:35.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-0.705911:73.124888:-0.675185:73.180710
+PLUGIN:Ground Radar plugin:AirportElevation:7
+PLUGIN:Ground Radar plugin:AirportRadius:7
+PLUGIN:Ground Radar plugin:GroundMode:VRMG
+PLUGIN:Ground Radar plugin:TowerMode:VRMG
+PLUGIN:TopSky plugin:NoDraw:1
