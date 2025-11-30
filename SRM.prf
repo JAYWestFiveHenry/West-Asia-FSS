@@ -22,10 +22,10 @@ Settings	aircraft	\SRM\ICAO\ICAO_Aircraft.txt
 Settings	airportcoords	\SRM\NavData\icao.txt
 Settings	airways	\SRM\NavData\airway.txt
 LastSession	connecttype	0
-LastSession	facility	0
-LastSession	rating	0
+LastSession	facility	5
+LastSession	rating	3
 LastSession	tovatsim	1
-LastSession	range	300
+LastSession	range	150
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 Sounds	Sound0	\SRM\Sounds\handoff_request.wav
@@ -51,9 +51,9 @@ Plugins	Plugin0	\SRM\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1	\SRM\Plugins\GRplugin\GRplugin.dll
 Plugins	Plugin2	\SRM\Plugins\vSMR\vSMR.dll
 Plugins	Plugin3	\SRM\Plugins\RDFPlugin.dll
-LastSession	callsign	XX_OBS
+LastSession	callsign	VRMM_APP
 LastSession	server	AUTOMATIC
-LastSession	atis2	I'm Newbie ATC Controller Would like to Learn
+LastSession	atis2	"Male Approach" | Covering Male TMA Up to FL285
 LastSession	SimAuto	0
 Plugins	Plugin0Display0	SMR radar display
 Plugins	Plugin0Display1	Ground Radar display
@@ -71,9 +71,9 @@ ASRFastKeys	1	\SRM\ASR\SRMvACC Display.asr
 ASRFastKeys	2	\SRM\ASR\Colombo SMC.asr
 ASRFastKeys	3	\SRM\ASR\Male GMC.asr
 RecentFiles	Recent1	\SRM\ASR\SRMvACC Display.asr
-RecentFiles	Recent2	\SRM\ASR\Gan SMC.asr
-RecentFiles	Recent3	\SRM\ASR\Ratmalana GMC.asr
-RecentFiles	Recent4	\SRM\ASR\Colombo SMC.asr
+RecentFiles	Recent2	\SRM\ASR\Male GMC.asr
+RecentFiles	Recent3	\SRM\ASR\Colombo SMC.asr
+RecentFiles	Recent4	\SRM\ASR\Gan SMC.asr
 Plugins	Plugin7	\SRM\Plugins\ESEgypt.dll
 LastSession	atis_freq4	118000
 Plugins	Plugin1Display0	Ground Radar display
@@ -82,18 +82,20 @@ RecentFiles	Recent7	\SRM\ASR\Jaffna GMC.asr
 Plugins	Plugin0Display2	Standard ES radar screen
 Plugins	Plugin2Display0	SMR radar display
 Plugins	Plugin9	\SRM\Plugins\ESTimers.dll
-LastSession	realname	Your Registered Name
-LastSession	certificate	Your CID
+LastSession	realname	Gia Huy Tran
+LastSession	certificate	1442675
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin3Display0	Standard ES radar screen
 Plugins	Plugin3Display1	SMR radar display
 Plugins	Plugin3Display2	Ground Radar display
 Plugins	Plugin9Display0	Standard ES radar screen
 Plugins	Plugin9Display1	SMR radar display
-LastSession	atis3	Welcome of SRMvACC -> www.4r-ipm.me/vaccsrm/
+LastSession	atis3	Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 Plugins	Plugin10	\SRM\Plugins\Sync.dll
 Plugins	Plugin10Display0	Standard ES radar screen
 Plugins	Plugin10Display1	Ground Radar display
 Plugins	Plugin10Display2	SMR radar display
-RecentFiles	Recent5	\SRM\ASR\Mattala GMC.asr
-RecentFiles	Recent6	\SRM\ASR\Male GMC.asr
+RecentFiles	Recent5	\SRM\ASR\Ratmalana GMC.asr
+RecentFiles	Recent6	\SRM\ASR\Mattala GMC.asr
+LastSession	password	cz11Mrc9
+LastSession	atis4	ATC Feedback -> hq.vatwa.net/atc/feedback

@@ -56,7 +56,7 @@ System_CMAC_NoContact_Distance_Info=10.0
 
 //WINDOW APP
 Window_APP=1,0,560,248,338
-Window_APP_Rotation=346.0
+Window_APP_Rotation=000.0
 Window_APP_Extensions=25
 Window_APP_Scale=15.7
 
@@ -115,7 +115,7 @@ System_CMAC_NoContact_Distance_Info=10.0
 
 //WINDOW APP
 Window_APP=1,0,560,248,338
-Window_APP_Rotation=346.0
+Window_APP_Rotation=000.0
 Window_APP_Extensions=25
 Window_APP_Scale=15.7
 
@@ -174,7 +174,7 @@ System_CMAC_NoContact_Distance_Info=10.0
 
 //WINDOW APP
 Window_APP=1,0,560,248,338
-Window_APP_Rotation=346.0
+Window_APP_Rotation=000.0
 Window_APP_Extensions=25
 Window_APP_Scale=15.7
 
@@ -233,7 +233,7 @@ System_CMAC_NoContact_Distance_Info=10.0
 
 //WINDOW APP
 Window_APP=1,0,560,248,338
-Window_APP_Rotation=346.0
+Window_APP_Rotation=000.0
 Window_APP_Extensions=20
 Window_APP_Scale=15.7
 
