@@ -62,6 +62,7 @@ Color_WBackground3=42,44,44
 Color_Background=159,155,154
 Color_WForeground=136,171,163
 Color_WTitleBar=42,44,44
+Color_WTitleText=136,171,163
 Color_WSlider_Bg=42,44,44
 Color_RawVideo=255,255,0
 Color_Unknown=233,234,235
