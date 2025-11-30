@@ -55,7 +55,14 @@ Track_HistoryDots_GND=3
 //COLOR SETTINGS
 Color_Arrival=253,236,166
 Color_Departure=166,253,190
-Color_Background=0,15,26
+Color_WBorder=42,44,44
+Color_WBackground=42,44,44
+Color_WBackground2=42,44,44
+Color_WBackground3=42,44,44
+Color_Background=159,155,154
+Color_WForeground=136,171,163
+Color_WTitleBar=42,44,44
+Color_WSlider_Bg=42,44,44
 Color_RawVideo=255,255,0
 Color_Unknown=233,234,235
 Color_RunwayExtension=0,0,0
