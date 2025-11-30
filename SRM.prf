@@ -53,7 +53,7 @@ Plugins	Plugin2	\SRM\Plugins\vSMR\vSMR.dll
 Plugins	Plugin3	\SRM\Plugins\RDFPlugin.dll
 LastSession	callsign	XX_OBS
 LastSession	server	AUTOMATIC
-LastSession	atis2:  I'm Newbie ATC Controller Would like to Learn
+LastSession	atis2:
 LastSession	SimAuto	0
 Plugins	Plugin0Display0	SMR radar display
 Plugins	Plugin0Display1	Ground Radar display
