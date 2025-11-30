@@ -71,15 +71,14 @@ ASRFastKeys	1	\SRM\ASR\SRMvACC Display.asr
 ASRFastKeys	2	\SRM\ASR\Colombo SMC.asr
 ASRFastKeys	3	\SRM\ASR\Male GMC.asr
 RecentFiles	Recent1	\SRM\ASR\SRMvACC Display.asr
+RecentFiles	Recent2	\SRM\ASR\Gan SMC.asr
 RecentFiles	Recent3	\SRM\ASR\Ratmalana GMC.asr
-RecentFiles	Recent2	\SRM\ASR\Gan SMC
 RecentFiles	Recent4	\SRM\ASR\Colombo SMC.asr
-RecentFiles	Recent5	\SRM\ASR\Jaffna GMC.asr
 Plugins	Plugin7	\SRM\Plugins\ESEgypt.dll
 LastSession	atis_freq4	118000
 Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin8	\SRM\Plugins\VCH.dll
-RecentFiles	Recent6	\SRM\ASR\Mattala GMC.asr
+RecentFiles	Recent7	\SRM\ASR\Jaffna GMC.asr
 Plugins	Plugin0Display2	Standard ES radar screen
 Plugins	Plugin2Display0	SMR radar display
 Plugins	Plugin9	\SRM\Plugins\ESTimers.dll
@@ -96,4 +95,5 @@ Plugins	Plugin10	\SRM\Plugins\Sync.dll
 Plugins	Plugin10Display0	Standard ES radar screen
 Plugins	Plugin10Display1	Ground Radar display
 Plugins	Plugin10Display2	SMR radar display
-RecentFiles	Recent7	\SRM\ASR\Male GMC.asr
+RecentFiles	Recent5	\SRM\ASR\Mattala GMC.asr
+RecentFiles	Recent6	\SRM\ASR\Male GMC.asr
