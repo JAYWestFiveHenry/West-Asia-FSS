@@ -1,2 +1,3 @@
-fsd.connect.vatsim.net AUTOMATIC
+178.128.193.227 AUTOMATIC
 sweatbox.vatsim.net SweatBox
+sweatbox-2.vatsim.net SweatBox-2

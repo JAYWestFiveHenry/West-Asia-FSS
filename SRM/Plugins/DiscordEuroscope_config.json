@@ -54,11 +54,11 @@
                 "presence_large_image_text" : "{callsign}",
                 "buttons": [
                     {
-                        "label": "Airport Infomation on our Website",
+                        "label": "Airport Infomation",
                         "url" : "https://4r-ipm.me/vaccsrm/index.html?i=1"
                     },
                     {
-                        "label": "Submit your Controller Feedback",
+                        "label": "Submit Controller Feedback",
                         "url": "https://hq.vatwa.net/atc/feedback"
                     }
                 ]
