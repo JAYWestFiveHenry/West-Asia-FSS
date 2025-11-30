@@ -126,7 +126,7 @@
             "^VCCG_TWR$" : "Gai Tower",
             "^VCCT_TWR$" : "China-Bay Tower",
             "^VCCH_TWR$" : "Mineriya Tower",
-            "^VCCJ_TWR$" : "Jaffna Tower",
+            "^VCCJ_TWR$" : "Jaffna Tower (Procedural)",
             "^VCCS_TWR$" : "Sigiriya Tower",
             "^VCCW_TWR$" : "Wirawila Tower",
             "^VCCN_TWR$" : "Katukurunda Tower",
@@ -138,12 +138,8 @@
             "^VRMM_GND$" : "Male Ground",
             "^VRMG_TWR$" : "Gan Control",
             "^VRMO_TWR$" : "Koodoo Tower",
-            "^ACCSRM1$" : "SRMvACC Director",
-            "^ACCSRM2$" : "SRMvACC Membership & Events Director",
-            "^ACCSRM3$" : "SRMvACC Operations Director (Sri Lanka)",
-            "^ACCSRM4$" : "SRMvACC Operations Director (Maldives)",
-            "^ACCSRM5$" : "SRMvACC Deputy Events Director",
-            "^ACCSRM6$" : "SRMvACC Tech & Web Master"
+            "^VREI_I_TWR": "Ifuru Infomation",
+            "^VRGD_I_TWR": "Madivaru Infomation"
         }
     }
 }
