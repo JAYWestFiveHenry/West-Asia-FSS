@@ -70,9 +70,9 @@ Plugins	Plugin6	\SRM\Plugins\DiscordEuroscope.dll
 ASRFastKeys	1	\SRM\ASR\SRMvACC Display.asr
 ASRFastKeys	2	\SRM\ASR\Colombo SMC.asr
 ASRFastKeys	3	\SRM\ASR\Male GMC.asr
-RecentFiles	Recent1	\SRM\ASR\Gan SMC
+RecentFiles	Recent1	\SRM\ASR\SRMvACC Display.asr
 RecentFiles	Recent3	\SRM\ASR\Ratmalana GMC.asr
-RecentFiles	Recent2	\SRM\ASR\SRMvACC Display.asr
+RecentFiles	Recent2	\SRM\ASR\Gan SMC
 RecentFiles	Recent4	\SRM\ASR\Colombo SMC.asr
 RecentFiles	Recent5	\SRM\ASR\Jaffna GMC.asr
 Plugins	Plugin7	\SRM\Plugins\ESEgypt.dll

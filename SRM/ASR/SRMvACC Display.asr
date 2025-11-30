@@ -4,8 +4,7 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
 ARTCC boundary:VCBI_TMA Colombo TMA:
-ARTCC boundary:VCCF Delagated VOMF - VCCF:
-ARTCC boundary:VCCF_OC Colombo OC:
+ARTCC boundary:VCCF Colombo ACC:
 ARTCC boundary:VRMF-N_ACC Male North + BB:
 ARTCC boundary:VRMF-S_ACC Male South:
 ARTCC high boundary:VCBI_APP Colombo CTA:
@@ -24,7 +23,6 @@ ARTCC low boundary:VCCV_TWR Vavunya CTR:
 ARTCC low boundary:VCRI_TWR Mattala CTR:
 ARTCC low boundary:VRDA_TWR Maafaru CTR:
 ARTCC low boundary:VREI_AFIS Ifuru AFIS:
-ARTCC low boundary:VRMD_TWR Dharavandhoo Tower:
 ARTCC low boundary:VRMG_TWR Gan CTR:
 ARTCC low boundary:VRMH_TWR Hanimaadhoo CTR:
 ARTCC low boundary:VRMK_TWR Kadhdhoo CTR:
@@ -141,4 +139,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:SRM TopSky
-WINDOWAREA:2.644217:70.790359:5.727031:76.391156
+WINDOWAREA:-9.069540:59.418627:13.899214:101.147818
