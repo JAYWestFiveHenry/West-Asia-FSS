@@ -54,11 +54,11 @@
                 "presence_large_image_text" : "{callsign}",
                 "buttons": [
                     {
-                        "label": "Welcome to SRMvACC",
+                        "label": "Airport Infomation on our Website",
                         "url" : "https://4r-ipm.me/vaccsrm/index.html?i=1"
                     },
                     {
-                        "label": "Submit your Feedback",
+                        "label": "Submit your Controller Feedback",
                         "url": "https://hq.vatwa.net/atc/feedback"
                     }
                 ]
@@ -136,8 +136,14 @@
             "^VRMM_X_TWR$" : "Male Tower (Examiner)",
             "^VRMM_M_TWR$" : "Male Tower (Mentor)",
             "^VRMM_GND$" : "Male Ground",
-            "^VRMG_TWR$" : "Gan Tower",
-            "^VRMO_TWR$" : "Koodoo Tower"
+            "^VRMG_TWR$" : "Gan Control",
+            "^VRMO_TWR$" : "Koodoo Tower",
+            "^ACCSRM1$" : "SRMvACC Director",
+            "^ACCSRM2$" : "SRMvACC Membership & Events Director",
+            "^ACCSRM3$" : "SRMvACC Operations Director (Sri Lanka)",
+            "^ACCSRM4$" : "SRMvACC Operations Director (Maldives)",
+            "^ACCSRM5$" : "SRMvACC Deputy Events Director",
+            "^ACCSRM6$" : "SRMvACC Tech & Web Master"
         }
     }
 }
