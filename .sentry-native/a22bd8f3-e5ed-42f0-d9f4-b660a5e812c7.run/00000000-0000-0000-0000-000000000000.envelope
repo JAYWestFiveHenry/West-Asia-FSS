@@ -1,0 +1,3 @@
+{"dsn":"https://5d1300eb9729b6239248e2704fd5f7c0@o4506599172014080.ingest.sentry.io/4506599177846784"}
+{"type":"session","length":207}
+{"init":true,"sid":"1384c5b7-39a8-49ea-e1f4-23649e8bfe44","status":"exited","errors":0,"started":"2025-12-03T01:58:56.404Z","duration":90.7,"attrs":{"release":"euroscope@3.2.9.0","environment":"production"}}
