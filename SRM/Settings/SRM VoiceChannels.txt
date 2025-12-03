@@ -38,4 +38,8 @@ AG:VRMR_TWR Fuvahmulah Tower:118.150
 AG:VRMT_TWR Kaadedhdhoo Tower:119.400
 AG:VRMV_TWR Maamigili Tower:118.900
 AG:VRMM_APP Male Approach:119.700
+AG:VCCF_OC_CTR Colombo Control (OC):126.000
+AG:VREI_I_TWR Ifuru Infomation:118.350
+AG:VRGD_I_TWR Madivaru Infomation:118.950
+AG:VRNT_I_TWR Thimarafushi Infomation:118.400
 END
