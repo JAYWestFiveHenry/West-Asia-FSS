@@ -32,11 +32,11 @@ m_ConnectDEPtoSEL:0
 m_ConnectSILtoTOP:0
 m_ScreenNumber:0
 m_ScreenPosition:0
-m_ScreenMaximized:0
+m_ScreenMaximized:1
 m_ShowTitleSelectedAc:1
 m_PlanesListX:1119
 m_PlanesListY:24
-m_MetarListX:1569
+m_MetarListX:1583
 m_MetarListY:45
 m_VoiceListX:-1000
 m_VoiceListY:-1000
@@ -56,5 +56,3 @@ m_ShowTsVccsMiniControl:0
 ScenarioEditorX:31
 ScenarioEditorY:198
 m_ShowSTARControllers:1
-MessageLinesNumber:4
-BackgroundGrphicsInThread:1
