@@ -246,7 +246,6 @@ Runways:VRMG 10-28:extended centerline 2 left vectoring
 Runways:VRMG 10-28:extended centerline 2 right base
 Runways:VRMG 10-28:extended centerline 2 right ticks
 Runways:VRMG 10-28:extended centerline 2 right vectoring
-Runways:VRMG 10-28:name
 Runways:VRMH 03-21:centerline
 Runways:VRMH 03-21:extended centerline 1
 Runways:VRMH 03-21:extended centerline 1 left base
@@ -395,4 +394,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:SRM TopSky
-WINDOWAREA:-8.543191:56.624744:9.839634:90.022306
+WINDOWAREA:-8.065661:56.771467:10.317164:90.169029
