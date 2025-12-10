@@ -8,6 +8,11 @@
                "suffix":"1L,1R,1S,2L,2R,2S"
             }
          ],
+         "VECTORS":[
+            {
+               "direction":"ANY"
+            }
+         ],
          "SAGOR":[
             {
                "direction":"EVEN",
@@ -106,6 +111,11 @@
                "destinations":["VO","VA"]
             }
             
+         ],
+         "VECTORS":[
+            {
+               "direction":"ANY"
+            }
          ],
          "MUGBA": [
 		 	{
