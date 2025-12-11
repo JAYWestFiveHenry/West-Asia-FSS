@@ -252,7 +252,7 @@ Areas_NOTAM_Activation=1
 
 //AIW
 AIW=1
-AIW_Type=1
+AIW_Type=0
 AIW_FlightRules=1
 AIW_PredictionTime=1
 AIW_Inhibit_ActiveAreas=1
