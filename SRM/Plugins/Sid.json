@@ -133,8 +133,7 @@
          "HOKEY": [
             {
                "direction":"ODD",
-               "airways":["HOKEY M512 TELIG","HOKEY"],
-               "destinations":["VC"]
+               "airways":["HOKEY M512 TELIG","HOKEY"]
             }
          ],
          "ATSON": [
