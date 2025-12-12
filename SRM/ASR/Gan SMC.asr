@@ -20,7 +20,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:352.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-0.710000:73.119663:-0.671574:73.189474
+WINDOWAREA:-0.710803:73.118852:-0.672377:73.188663
 PLUGIN:Ground Radar plugin:AirportElevation:7
 PLUGIN:Ground Radar plugin:AirportRadius:7
 PLUGIN:Ground Radar plugin:GroundMode:VRMG
