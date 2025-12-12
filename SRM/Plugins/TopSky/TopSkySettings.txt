@@ -214,7 +214,6 @@ WXR_Echo_dBZ_Med=15
 WXR_Echo_dBZ_Lo=12
 
 //LABEL SETTINGS
-Label_ACF_Use=1
 Label_SI_ShowFreq=0
 Label_UseTransferInColor=1
 Label_Alt_Digits=3

@@ -24,6 +24,7 @@ ARTCC low boundary:VCCV_TWR Vavunya CTR:
 ARTCC low boundary:VCRI_TWR Mattala CTR:
 ARTCC low boundary:VRDA_TWR Maafaru CTR:
 ARTCC low boundary:VREI_AFIS Ifuru AFIS:
+ARTCC low boundary:VRMD_TWR Dharavandhoo CTR:
 ARTCC low boundary:VRMG_TWR Gan CTR:
 ARTCC low boundary:VRMH_TWR Hanimaadhoo CTR:
 ARTCC low boundary:VRMK_TWR Kadhdhoo CTR:
@@ -394,4 +395,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:SRM TopSky
-WINDOWAREA:-7.850537:57.418485:10.532320:90.816106
+WINDOWAREA:-8.079325:57.427265:10.311324:90.824886
