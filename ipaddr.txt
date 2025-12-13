@@ -1,3 +1,2 @@
-167.99.248.14 AUTOMATIC
+fsd.connect.vatsim.net AUTOMATIC
 sweatbox.vatsim.net SweatBox
-sweatbox-2.vatsim.net SweatBox-2
