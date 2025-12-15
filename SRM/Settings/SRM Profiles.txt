@@ -3,6 +3,10 @@ PROFILE:VCBI_TWR:50:4
 ATIS2:"Colombo Tower"
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
+PROFILE:VCBI_T_TWR:50:4
+ATIS2:"Colombo Tower"
+ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
+ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VCBI_GND:20:3
 ATIS2:"Colombo Ground" 
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
@@ -59,6 +63,10 @@ PROFILE:VCBI_APP:150:5
 ATIS2:"Colombo Director" | Covering Colombo CTA ONLY up to FL150
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
+PROFILE:VCBI_T_APP:150:5
+ATIS2:"Colombo Director" | Covering Colombo CTA ONLY up to FL150
+ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
+ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:XX_OBS:300:0
 ATIS2:I'm Newbie ATC Controller Would like to Learn
 ATIS3:Welcome to SRMvACC -> www.4r-ipm.me/vaccsrm/
@@ -76,6 +84,10 @@ ATIS2:"Male Control" | [CPDLC ONLY - VRMF]
 ATIS3:Male FIR Airports Info -> 4r-ipm.me/vaccsrm/maldives.html
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VRMM_APP:150:5
+ATIS2:"Male Approach" | Covering Male TMA Up to FL285
+ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
+ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
+PROFILE:VRMM_T_APP:150:5
 ATIS2:"Male Approach" | Covering Male TMA Up to FL285
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
