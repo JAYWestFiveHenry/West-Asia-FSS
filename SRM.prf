@@ -51,7 +51,7 @@ Plugins	Plugin0	\SRM\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1	\SRM\Plugins\GRplugin\GRplugin.dll
 Plugins	Plugin2	\SRM\Plugins\vSMR\vSMR.dll
 Plugins	Plugin3	\SRM\Plugins\RDFPlugin.dll
-LastSession	callsign	VRMF_T_CTR
+LastSession	callsign	XX_OBS
 LastSession	server	AUTOMATIC
 LastSession	SimAuto	0
 Plugins	Plugin0Display0	SMR radar display
@@ -81,14 +81,14 @@ RecentFiles	Recent7	\SRM\ASR\Ratmalana GMC.asr
 Plugins	Plugin0Display2	Standard ES radar screen
 Plugins	Plugin2Display0	SMR radar display
 Plugins	Plugin9	\SRM\Plugins\VFPC.dll
-LastSession	realname	Gia Huy Tran
-LastSession	certificate	1442675
+LastSession	realname	Your Registered Name
+LastSession	certificate	Your VATSIM CID
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin3Display0	Standard ES radar screen
 Plugins	Plugin3Display1	SMR radar display
 Plugins	Plugin3Display2	Ground Radar display
-LastSession	atis2	"Male Control" | [CPDLC - VRMF]
-LastSession	atis3	Male FIR Airports Info -> 4r-ipm.me/vaccsrm/maldives.html
+LastSession	atis2	I'm Newbie ATC Controller Would like to Learn
+LastSession	atis3	Welcome to SRMvACC -> www.4r-ipm.me/vaccsrm/
 RecentFiles	Recent5	\SRM\ASR\Colombo SMC.asr
 RecentFiles	Recent6	\SRM\ASR\Gan SMC.asr
 RecentFiles	Recent8	\SRM\ASR\Mattala GMC.asr
@@ -97,6 +97,6 @@ Plugins	Plugin7Display1	SMR radar display
 Plugins	Plugin8Display0	Standard ES radar screen
 Plugins	Plugin8Display1	Ground Radar display
 Plugins	Plugin8Display2	SMR radar display
-LastSession	password	cz11Mrc9
-LastSession	atis4	ATC Feedback -> hq.vatwa.net/atc/feedback
+LastSession	password	
+LastSession	atis4	
 RecentFiles	Recent9	\SRM\ASR\Jaffna GMC.asr
