@@ -4,8 +4,6 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
 Geo:GEO:
-Geo:VRMM Groundlayout:
-Regions:VRMM GroundLayout:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
