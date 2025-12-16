@@ -58,4 +58,3 @@ ScenarioEditorY:198
 m_ShowSTARControllers:1
 MessageLinesNumber:4
 BackgroundGrphicsInThread:1
-m_ShowRouteOnDirectPopup:0
