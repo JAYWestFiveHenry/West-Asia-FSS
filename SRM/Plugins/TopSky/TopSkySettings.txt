@@ -175,7 +175,7 @@ System_UseStarAllocationColor=2
 System_UseRwyLockedColor=0
 System_Uncontrolled_State_None=1
 System_TransferConfirmation=1
-System_Trf_Release=0
+System_Trf_Release=1
 System_RawVideo=0
 System_MetarSourceVATSIM=1
 System_UseTSAborderHighlightColor=1
@@ -251,8 +251,8 @@ Areas_NOTAM_Activation=1
 
 //AIW
 AIW=1
-AIW_Type=0
-AIW_FlightRules=1
+AIW_Type=1
+AIW_FlightRules=0
 AIW_PredictionTime=1
 AIW_Inhibit_ActiveAreas=1
 AIW_Floor=3500
@@ -268,6 +268,8 @@ Vector_MinSep_Label_Time=1
 
 //MSAW
 MSAW=1
+MSAW_AppInhibit=2
+MSAW_Filter=2
 
 //APW
 APW=1
