@@ -344,7 +344,7 @@ Shortcut_RadarMenu_Combo=0x00
 //CPDLC SETTINGS
 CPDLC_Server=http://www.hoppie.nl/
 CPDLC_MiniServer=localhost
-CPDLC_MinLevel=245
+CPDLC_MinLevel=145
 CPDLC_Page=acars/system/connect.html
 CPDLC_Send_FSM_RCD=1
 CPDLC_Transfer=1

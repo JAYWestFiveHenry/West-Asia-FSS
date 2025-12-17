@@ -2,14 +2,12 @@ TAGS
 TAGFAMILY:SRM TopSky
 TAGTYPE:0:6:2
 TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
-TAGITEM:23::0:1:0:0:TopSky plugin:5:1:::1
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:106::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:23::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:15::1:1:0:0:TopSky plugin:0:1:::1
-TAGITEM:3::0:0:0:0::0:1:::1
+TAGITEM:106::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:58::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::1:1:0:0:TopSky plugin:0:1:::1
 TAGTYPE:1:4:1
 TAGITEM:261::0:1:0:0:TopSky plugin:0:1:::1
 TAGITEM:23::0:1:0:0:TopSky plugin:7:1:::1
