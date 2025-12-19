@@ -51,7 +51,7 @@ Plugins	Plugin0	\SRM\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1	\SRM\Plugins\GRplugin\GRplugin.dll
 Plugins	Plugin2	\SRM\Plugins\vSMR\vSMR.dll
 Plugins	Plugin3	\SRM\Plugins\RDFPlugin.dll
-LastSession	callsign	VRMF_T_CTR
+LastSession	callsign	XX_OBS
 LastSession	server	AUTOMATIC
 LastSession	SimAuto	0
 Plugins	Plugin0Display0	SMR radar display
