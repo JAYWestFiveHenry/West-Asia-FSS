@@ -197,6 +197,10 @@
             {
                "direction":"EVEN",
                "airways":["ELBET L894"]
+            },
+            {
+               "direction":"EVEN",
+               "airways":["ELBET DCT"]
             }
          ],
          "LELEM":[
