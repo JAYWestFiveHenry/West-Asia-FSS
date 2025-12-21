@@ -136,6 +136,8 @@
             "^VRMM_X_TWR$" : "Male Tower (Examiner)",
             "^VRMM_M_TWR$" : "Male Tower (Mentor)",
             "^VRMM_GND$" : "Male Ground",
+            "^VRMM_I_GND$" : "Male Ground (Instructor)",
+            "^VRMM_M_GND$" : "Male Ground (Mentor)",
             "^VRMG_TWR$" : "Gan Control",
             "^VRMO_TWR$" : "Koodoo Tower",
             "^VREI_I_TWR": "Ifuru Infomation",
