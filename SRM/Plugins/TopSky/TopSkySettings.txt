@@ -96,6 +96,7 @@ Color_Potential=41,40,216
 Color_Potential_FL=40,41,216
 Color_QDM=190,225,250
 Color_Heading_Vector=170,231,197
+Color_Sid_Star_Allocation=52,235,222
 
 //COLOR MAP SETTINGS
 Color_Map_Info=0,127,156
