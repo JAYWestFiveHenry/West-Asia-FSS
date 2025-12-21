@@ -8,13 +8,13 @@ m_ShowSimulatedData:0
 m_TransitionAltitude:12000
 m_AllowConcernedACTagDown:1
 m_CenterlineDme:0.0
-m_CenterlineLength:15.0
+m_CenterlineLength:13.0
 m_CenterlineTickDme:1.0
 m_CenterlineTickInterval:5.0
 m_CenterlineTickLength:0.2
 m_CenterlineMarkerLength:1.0
 m_CenterlineMarkerInterval:10.0
-m_CenterlineVectorDme:15.0
+m_CenterlineVectorDme:13.0
 m_CenterlineVectorLength:3.0
 m_CenterlineVectorAngle:30.0
 m_CenterlineVectorBase:2.0
