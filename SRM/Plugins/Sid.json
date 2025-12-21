@@ -187,6 +187,10 @@
             {
                "direction":"EVEN",
                "airways":["ESKOL G465"]
+            },
+                        {
+               "direction":"EVEN",
+               "airways":["ESKOL DCT"]
             }
          ],
          "ELBET":[
