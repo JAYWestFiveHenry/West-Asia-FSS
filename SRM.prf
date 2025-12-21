@@ -23,7 +23,7 @@ Settings	airportcoords	\SRM\NavData\icao.txt
 Settings	airways	\SRM\NavData\airway.txt
 LastSession	connecttype	0
 LastSession	facility	6
-LastSession	rating	3
+LastSession	rating	0
 LastSession	tovatsim	1
 LastSession	range	600
 LastSession	proxyserver	localhost
