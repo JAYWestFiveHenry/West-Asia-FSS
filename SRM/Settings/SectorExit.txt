@@ -1,7 +1,7 @@
 SEL
 m_Visible:1
 m_X:0
-m_Y:90
+m_Y:103
 m_LineNumber:10
 m_Resizable:1
 m_OrderingColumn:10
@@ -16,10 +16,10 @@ m_Column:DEP:5:1:10007:0:0:1:TopSky plugin:::1:0.0
 m_Column:DEST:5:1:79:7:7:1:TopSky plugin:::1:0.0
 m_Column:DEP-SID:9:1:270:17:17:1:TopSky plugin:::1:0.0
 m_Column:ARR-STARxAPP:15:1:271:18:18:1:TopSky plugin:::1:0.0
-m_Column:RWY:4:1:163:19:64:1:TopSky plugin::TopSky plugin:1:0.0
+m_Column:RWY:4:1:172:19:64:1:TopSky plugin::TopSky plugin:1:0.0
 m_Column:COPX:6:1:10005:45:22:1:TopSky plugin:TopSky plugin::1:0.0
 m_Column:ETX:5:1:10092:0:0:1:TopSky plugin:::0:0.0
 m_Column:XFL:4:1:53:105:24:1:TopSky plugin:TopSky plugin::1:0.0
-m_Column:CRZ:4:1:120:59:84:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
+m_Column:CRZ:4:1:244:59:84:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
 m_Column:ATC:4:1:225:20:0:1:TopSky plugin:::0:0.0
 END
