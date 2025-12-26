@@ -12,7 +12,7 @@
 ;                                                                                                                         ;
 ;=========================================================================================================================;
 ;                                                                                                                         ;
-;  ALL RIGHTS RESERVED © AeroNav Association. NAV-DATA © NAVIGRAPH.                                                       ;
+;  ALL RIGHTS RESERVED ï¿½ AeroNav Association. NAV-DATA ï¿½ NAVIGRAPH.                                                       ;
 ;  FILES MUST NOT BE DISTRIBUTED OUTSIDE OF AERONAV SERVICES!                                                             ;
 ;                                                                                                                         ;
 ;=========================================================================================================================;
@@ -24,12 +24,13 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2511/1  ++  File-Publisher: Sri Lanka & Maldives vACC - SRM                                                      ;
+;  AIRAC 2513/1  ++  File-Publisher: Sri Lanka & Maldives vACC - SRM                                                      ;
 ;=========================================================================================================================;
 ;*** 1. Initial Contact ***
 .cwr .msg $aircraft Hello. $radioname is providing top-down service for $dep. Please contact me on $freq when you are ready.
-.ci .msg $aircraft NO MOVEMENT without permission, please! $radioname is providing top-down service for $dep. HOLD POSITION and contact me IMMEDIATELY on $freq!
-.v Are you able receive voice?
+.ci .msg $aircraft NO MOVEMENT without ATC permission please! $radioname is providing top-down service for $dep. HOLD POSITION and contact me IMMEDIATELY on $freq!
+.v Confirm are you able receive voice? Be advised as per VATSIM CoC Sections A14 (c) and (d). Pilots MUST at least be capable voice receive at bare minimum. Other reasons like Audio Issues, Language compabillities etc... Unfortunate you have to fly offline. Unless you have hearing disability, usage a lower level of voice capability or any of recoginzed disability must be explained and approved by a Network Supervisor.
+.icaocs .msg $aircraft Hello, we mainly use ICAO Callsign on VATSIM. Please change into $1 and re-file your FPL accordingly.
 
 ;*** 2. Runway Management ***
 .cr Via $1, cross runway $2
@@ -44,18 +45,18 @@
 .rrfd Report ready for departure
 .to Runway $deprwy($dep), Cleared For Takeoff, Surface Winds $wind($dep).
 .tof Via $1, Runway $deprwy($dep), Cleared For Takeoff, Surface Winds $wind($dep).
-.ca Continue Approach Runway $arrrwy($arr), Surface Winds $wind($arr).
-.land Runway $deprwy($dep), Cleared to Land, Surface Winds $wind($arr).
+.ca Continue Approach Runway $arrrwy, Wind checks $wind($arr).
+.land Runway $arrrwy($arr), Cleared to Land, Surface Winds $wind($arr).
 .wind Surface Wind Checks $wind($1)
 .ga Go around, acknowledge
-.noto Stop immediately, I say again $callsign stop immediately. $1
+.noto Stop immediately, I say again $callsign stop immediately. Acknowledge.
 .to3 Fly heading $1, wind $wind rwy $deprwy, cleared for takeoff.
-.tocalm Wind calm, rwy $deprwy cleared for takeoff
-.tocalm2 Wind calm, rwy $deprwy at $1 cleared for takeoff
-.vac Continue approach, expect to vacate at $1
+.tocalm Wind calm, rwy $deprwy cleared for takeoff.
+.tocalm2 Wind calm, rwy $deprwy at $1 cleared for takeoff.
+.vac Continue approach, expect to vacate at $1.
 
 ;*** 3. Handoff ***
-.ho Contact $radioname($1) ($atccallsign($1)) $freq($1)
+.ho Contact $radioname($1) ($atccallsign($1)) $freq($1). Safe flight to $arr Bye Bye!
 .cso Contact $radioname($1) $freq($1) ($atccallsign($1)) callsign only
 .rh Report your heading to $radioname($1) ($atccallsign($1)) $freq($1)
 .rs Report your speed to $radioname($1) ($atccallsign($1)) $freq($1)
@@ -69,31 +70,33 @@
 .boff /$radioname is closing in $1 minutes.
 
 ;*** 5. Radar ***
-.rdr Identified, $alt, continue as filed.
-.radar Identified, $alt, continue climb $calt.
+.rdr Identified, $calt, continue as filed.
+.radar Identified, $calt, continue climb $alt.
 .clun Identified, Climb Unrestricted $alt.
-.starrnp $radioname, Radar identified, $alt, Cleared into $arr, via the $star Arrival, RNP Approach Runway $arrrwy. Report ready for descend.
-.star Cleared into $arr, via the $star Arrival, expect ILS $1 Approach Runway $arrrwy. Report ready for descend.
+.starrnp Cleared into $arr, via the $star Arrival, Expect RNP Approach Runway $arrrwy. Report ready for descend.
+.star Cleared into $arr, via the $star Arrival, Expect ILS $1 Approach Runway $arrrwy. Report ready for descend.
 .sirpa Squawk Ident, report your passing altitude
-.sira Squawk Ident, report your passing altitude
 .rpa Report your passing altitude
 .sqwk Confirm Squawk $squawk
 .sqkc Squawk Mode Charlie
 .si Squawk Ident
-.rclat Report your cleared level and Aircraft type
+.rcl Report your cleared level.
+.viails Via $1 Transition, Cleared ILS $2 Runway $arrrwy, Report When Established.
+.viaca Via $1 Transition, Cleared $2 Runway $arrrwy. Report On Final.
+.arcapp Follow DME ARC, Cleared $1 Runway $arrrwy. Report on Final.
 
 ;*** 6. Climb/Descend ***
-.des Descend to $calt.
-.cl Climb to $calt.
-.desqnh Descend to altitude $calt, $1 QNH $altim($arr)
+.des Descend to $alt.
+.cl Climb to $alt.
+.desqnh Descend to altitude $alt, $1 QNH $altim($arr)
 
 ;*** 7. Speed ***
-.ias Report your Indcated speed.
+.ias Report your Indicated speed.
 .rias Reduce speed $1 kts.
 .rias2 Reduce speed $1 kts or less.
 .rmin Reduce speed to your minimum clean.
 .rfinal Reduce to final approach speed.
-.ident Squawk ident please if you read me.
+.ianm Speed $1 kts until $2nm Final.
 
 ;*** 8. Emergency ***
 .emergency Your emergency has been acknowledged. How much fuel and how many passengers do you have on board.
@@ -102,11 +105,12 @@
 .tell We have an emergency aircraft, you may expect some delay and holding.
 
 ;*** 9. Clearance and Taxi ***
-.clr Cleared to Destination $arr, $sid Departure, Runway $deprwy. Initial Climb $calt, Squawk $asquawk.
-.clmod Cleared to Destination $arr, $sid Departure, Runway $deprwy, $1 Flight Plan Route, Initial Climb $calt, Squawk $asquawk. 
+.clr Cleared to Destination $arr, $sid Departure, Runway $deprwy. Initial Climb $alt, Squawk $asquawk.
+.clmod Cleared to Destination $arr, $sid Departure, Runway $deprwy, $1 Flight Plan Route, Initial Climb $alt, Squawk $asquawk. 
 .rc1 Readback is correct, report when ready for push and start.
 .rc2 Readback is correct, push and start at your own discretion, report when ready for taxi. QNH $altim($dep).
 .ps QNH $altim($dep). Push and Start Approved.
+.psface QNH $altim($dep). Push and Start Approved. Face $1.
 .taxi Taxi to holding point $1, runway $deprwy, via $2.
 .taxi1 Taxi to holding point runway $deprwy. QNH $alt($dep).
 .taxifollow Taxi to holding point $1, runway $deprwy, follow company traffic $2. QNH $alt($dep).
