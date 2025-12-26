@@ -176,6 +176,11 @@
                "direction":"EVEN",
                "airways":["IGRAM Z749",
                "IGRAM Q511"]
+            },
+            {
+               "direction":"EVEN",
+               "airways":["IGRAM DCT"],
+               "destinations":["VR"]
             }
          ],
          "MISAQ":[
@@ -207,6 +212,11 @@
             {
                "direction":"EVEN",
                "airways":["LELEM L894"]
+            },
+            {
+               "direction":"EVEN",
+               "airways":["LELEM DCT"],
+               "destinations":["VR"]
             }
          ],
          "PILIK":[
