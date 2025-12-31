@@ -1,8 +1,5 @@
 PROFILE
 PROFILE:VCBI_TWR:50:4
-ATIS2:"Colombo Tower"
-ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
-ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
 ATIS2:"Colombo Ground" 
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:ATC Feedback -> hq.vatwa.net/atc/feedback
