@@ -4,13 +4,10 @@ AG:VCCA_TWR Anuradhapura Tower:120.500
 AG:VCCB_TWR Batticaloa Tower:123.700
 AG:VCCC_TWR Ratmalana Tower:119.100
 AG:VCCF_CTR Colombo Control:124.900
-AG:VCCF_T_CTR Colombo Control:124.900
 AG:VCBI_APP Colombo Director:132.400
-AG:VCBI_T_APP Colombo Director:132.400
 AG:VCBI_DEL Colombo Delivery:123.800
 AG:VCBI_GND Colombo Ground:121.900
 AG:VCBI_TWR Colombo Tower:118.700
-AG:VCBI_T_TWR Colombo Tower:118.700
 AG:VCCG_TWR Amparai Tower:123.675
 AG:VCCH_TWR Minneriya Tower:123.525
 AG:VCCJ_TWR Jaffna Tower:118.800
@@ -33,9 +30,7 @@ AG:VRMH_TWR Hanimaadhoo Tower:118.500
 AG:VRMK_TWR Kadhdhoo Tower:119.600
 AG:VRMM_GND Male Ground:121.600
 AG:VRMM_TWR Male Tower:118.100
-AG:VRMM_T_TWR Male Tower:118.100
 AG:VRMM_APP Male Approach:119.700
-AG:VRMM_T_APP Male Approach:119.700
 AG:VRMO_TWR Kooddoo Tower:118.300
 AG:VRMR_TWR Fuvahmulah Tower:118.150
 AG:VRMT_TWR Kaadedhdhoo Tower:119.400
@@ -44,4 +39,5 @@ AG:VCCF_OC_CTR Colombo Control (OC):126.000
 AG:VREI_I_TWR Ifuru Infomation:118.350
 AG:VRGD_I_TWR Madivaru Infomation:118.950
 AG:VRNT_I_TWR Thimarafushi Infomation:118.400
+AG:VRMU_I_TWR Dhaalu Infomation:118.550
 END
