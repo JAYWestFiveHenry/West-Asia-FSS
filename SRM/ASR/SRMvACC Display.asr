@@ -34,6 +34,7 @@ ARTCC low boundary:VRMR_TWR Fuvahmulah CTR:
 ARTCC low boundary:VRMT_TWR Kaadedhdhoo CTR:
 ARTCC low boundary:VRMU AFIS Area:
 ARTCC low boundary:VRMV_TWR Maamigili CTR:
+ARTCC low boundary:VRNT AFIS Area:
 Geo:GEO:
 Geo:VCCF Landmark Coastline:
 Geo:VRMF Landmark Coastline:
@@ -395,4 +396,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:SRM TopSky 2
-WINDOWAREA:-5.584292:60.388045:9.128251:87.117511
+WINDOWAREA:-7.963271:56.797265:10.427409:90.209098
