@@ -140,8 +140,11 @@
             "^VRMM_M_GND$" : "Male Ground (Mentor)",
             "^VRMG_TWR$" : "Gan Control",
             "^VRMO_TWR$" : "Koodoo Tower",
+            "^VRDA_TWR": "Maafaru Tower",
             "^VREI_I_TWR": "Ifuru Infomation",
-            "^VRGD_I_TWR": "Madivaru Infomation"
+            "^VRGD_I_TWR": "Madivaru Infomation",
+            "^VRMU_I_TWR": "Dhaalu Infomation",
+            "^VRNT_I_TWR": "Thiramafushi Infomation"
         }
     }
 }
