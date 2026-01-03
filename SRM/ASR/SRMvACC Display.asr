@@ -6,8 +6,7 @@ SECTORTITLE:SRMvACC.sct
 ARTCC boundary:VCCF Colombo TMA ACC:
 ARTCC boundary:VCCF Delagated ACC:
 ARTCC boundary:VCCF_OC Colombo OC:
-ARTCC boundary:VRMF-N_ACC Male North + BB:
-ARTCC boundary:VRMF-S_ACC Male South:
+ARTCC boundary:VRMF_ACC Male ACC:
 ARTCC high boundary:VCBI_APP Colombo CTA:
 ARTCC high boundary:VCCA_APP Anuradhapura CTA:
 ARTCC high boundary:VCCJ_TWR Jaffna CTR (Procedural):
@@ -396,4 +395,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:SRM TopSky 2
-WINDOWAREA:-8.511019:56.024144:9.879662:89.435980
+WINDOWAREA:-8.025986:56.076169:10.364696:89.488007
