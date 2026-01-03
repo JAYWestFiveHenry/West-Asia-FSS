@@ -24,35 +24,35 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2512/1  ++  File-Publisher: Sri Lanka & Maldives vACC - SRM                                                      ;
+;  AIRAC 2513/1  ++  File-Publisher: Sri Lanka & Maldives vACC - SRM                                                      ;
 ;=========================================================================================================================;
 
 ;======================================================== ~~  ~~ =========================================================;
 ;================================================ ~~ Positions-Section ~~ ================================================;
 [POSITIONS]
-VCBI_APP:Colombo Director:132.400:BIA::VCBI:APP:::2070:2077
+VCBI_APP:Colombo Director:132.400:BIA::VCBI:APP:::0000:0000
 VCBI_ATIS:Bandaranaike International Airport Information:127.200:BII::VCBI:ATIS:::0000:0000
-VCBI_GND:Colombo Ground:121.900:BIG::VCBI:GND:::7401:7477
-VCBI_TWR:Colombo Tower:118.700:BIT::VCBI:TWR:::2070:2077
-VCCA_APP:Anuradhapura Approach:126.700:CAA::VCCA:APP:::2070:2077
-VCCA_TWR:Anuradhapura Tower:120.500:CAT::VCCA:TWR:::2070:2077
-VCCB_TWR:Batticaloa Tower:123.700:CBT::VCCB:TWR:::2070:2077
-VCCC_TWR:Ratmalana Tower:119.100:CCT::VCCC:TWR:::2070:2077
-VCCF_CTR:Colombo Control:124.900:CFC::VCCF:CTR:::4001:4077:N007.10.49.000:E079.53.07.000:N005.16.40.000:E088.27.39.000:S002.00.00.000:E087.51.00.000:N000.15.48.000:E080.44.39.000
+VCBI_GND:Colombo Ground:121.900:BIG::VCBI:GND:::0000:0000
+VCBI_TWR:Colombo Tower:118.700:BIT::VCBI:TWR:::0000:0000
+VCCA_APP:Anuradhapura Approach:126.700:CAA::VCCA:APP:::0000:0000
+VCCA_TWR:Anuradhapura Tower:120.500:CAT::VCCA:TWR:::0000:0000
+VCCB_TWR:Batticaloa Tower:123.700:CBT::VCCB:TWR:::0000:0000
+VCCC_TWR:Ratmalana Tower:119.100:CCT::VCCC:TWR:::0000:0000
+VCCF_CTR:Colombo Control:124.900:CFC::VCCF:CTR:::0000:0000:N007.10.49.000:E079.53.07.000:N005.16.40.000:E088.27.39.000:S002.00.00.000:E087.51.00.000:N000.15.48.000:E080.44.39.000
 VCCF_OC_CTR:Colombo Control:126.000:CFO:OC:VCCF:CTR:::0000:0000
-VCCG_TWR:Amparai Tower:123.675:CGT::VCCG:TWR:::2070:2077
-VCCH_TWR:Minneriya Tower:123.525:CHT::VCCH:TWR:::2070:2077
-VCCJ_TWR:Jaffna Tower:118.800:CJT::VCCJ:TWR:::2070:2077
-VCCK_TWR:Koggala Tower:131.900:CKT::VCCK:TWR:::2070:2077
-VCCN_TWR:Katukurunda Tower:118.400:CNT::VCCN:TWR:::2070:2077
-VCCS_TWR:Sigiriya Tower:118.900:CST::VCCS:TWR:::2070:2077
-VCCT_TWR:China-bay Tower:126.200:CTT::VCCT:TWR:::2070:2077
-VCCV_TWR:Vavunya Tower:118.100:CVT::VCCV:TWR:::2070:2077
-VCCW_TWR:Wirawila Tower:118.100:CWT::VCCW:TWR:::2070:2077
-VCRI_APP:Mattala Approach:124.350:RIA::VCRI:APP:::2070:2077
+VCCG_TWR:Amparai Tower:123.675:CGT::VCCG:TWR:::0000:0000
+VCCH_TWR:Minneriya Tower:123.525:CHT::VCCH:TWR:::0000:0000
+VCCJ_TWR:Jaffna Tower:118.800:CJT::VCCJ:TWR:::0000:0000
+VCCK_TWR:Koggala Tower:131.900:CKT::VCCK:TWR:::0000:0000
+VCCN_TWR:Katukurunda Tower:118.400:CNT::VCCN:TWR:::0000:0000
+VCCS_TWR:Sigiriya Tower:118.900:CST::VCCS:TWR:::0000:0000
+VCCT_TWR:China-bay Tower:126.200:CTT::VCCT:TWR:::0000:0000
+VCCV_TWR:Vavunya Tower:118.100:CVT::VCCV:TWR:::0000:0000
+VCCW_TWR:Wirawila Tower:118.100:CWT::VCCW:TWR:::0000:0000
+VCRI_APP:Mattala Approach:124.350:RIA::VCRI:APP:::0000:0000
 VCRI_ATIS:Mattala Airport Information:127.500:RII::VCRI:ATIS:::0000:0000
-VCRI_GND:Mattala Ground:121.700:RIG::VCRI:GND:::2070:2077
-VCRI_TWR:Mattala Tower:119.850:RIT::VCRI:TWR:::2070:2077
+VCRI_GND:Mattala Ground:121.700:RIG::VCRI:GND:::0000:0000
+VCRI_TWR:Mattala Tower:119.850:RIT::VCRI:TWR:::0000:0000
 VRDA_TWR:Maafaru Tower:118.600:DAT::VRDA:TWR:::0000:0000
 VREI_I_TWR:Ifuru Infomation:118.350:EIIT:I:VREI:TWR:::0000:0000
 VRGD_I_TWR:Madivaru Infomation:118.950:GDIT:I:VRGD:TWR:::0000:0000
