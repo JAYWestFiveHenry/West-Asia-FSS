@@ -1,8 +1,8 @@
 {
   "name": "VCCF & VRMF VATWA",
   "id": "8147e6e6-7e78-48f0-81fd-6e3273613379",
-  "updateUrl": "https://example.com/vatis/profiles/vATIS-Profile.json",
-  "updateSerial": 2024121601,
+  "updateUrl": "https://raw.githubusercontent.com/JAYWestFiveHenry/SRMvACC-Sector-FIle-Beta/refs/heads/SRMvACC/SRM/ATIS%20Profile/vATIS%20Profile%20-%20VCCF%20%26%20VRMF%20VATWA%20(Auto%20Update).json",
+  "updateSerial": 2026010601,
   "stations": [
     {
       "id": "f85b4324-2268-48fe-9e54-408b4de93f3c",
