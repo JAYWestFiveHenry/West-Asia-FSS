@@ -3722,6 +3722,12 @@ FIR_COPX:*:*:KASVO:*:*:VCCF·VCCF OC ·255·460:VRMF·VRMF_S U ACC·285·460:*:*
 FIR_COPX:*:*:KASVO:*:*:VRMF·VRMF_N U ACC·285·460:VCCF·VCCF OC ·255·460:*:*:KASVO
 FIR_COPX:*:*:TELIG:*:*:VRMF·VRMF_N U ACC·285·460:VCCF·VCBI TMA ACC·145·460:*:*:TELIG
 FIR_COPX:*:*:SEBLO:*:*:VCCF·VCBI UC1·005·040:VRMF·VRMF_N U ACC·285·460:*:*:SEBLO
+FIR_COPX:*:*:ESLAV:*:*:VABF·WA VABX ACC·245·460:VRMF·VRMF_N U ACC·285·460:*:*:ESLAV
+FIR_COPX:*:*:OMLEV:*:*:VABF·WA VABX ACC·245·460:VRMF·VRMF_N U ACC·285·460:*:*:OMLEV
+FIR_COPX:*:*:IPNEB:*:*:VABF·WA VABX ACC·245·460:VRMF·VRMF_N U ACC·285·460:*:*:IPNEB
+FIR_COPX:*:*:P1:*:*:VABF·WA VABX ACC·245·460:VRMF·VRMF_N U ACC·285·460:*:*:P1
+FIR_COPX:*:*:OVPUK:*:*:VABF·WA VABX ACC·245·460:VRMF·VRMF_N U ACC·285·460:*:*:OVPUK
+FIR_COPX:*:*:MANAP:*:*:VABF·WA VABX ACC·245·460:VRMF·VRMF_N U ACC·285·460:*:*:MANAP
 ;================================================== ~~ Radar-Section ~~ ==================================================;
 [RADAR]
 ;======================================================== ~~  ~~ =========================================================;
