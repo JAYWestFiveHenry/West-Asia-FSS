@@ -3,7 +3,7 @@
 //System_GUI_Scale_GlobalMenu=1.4
 //System_GUI_Scale_Menus=1.4
 //System_GUI_Scale_Screen=1.4
-//System_GUI_Scale_Tracks=1.5
+//System_GUI_Scale_Tracks=1.4
 //System_GUI_Scale_Windows=1.4
 //END SCALING
 
@@ -21,13 +21,6 @@ Equip_RNAV=ZLYCIVSG
 Equip_RVSM=WZL
 Equip_NonRNAV=WXTUDBAMNP
 Equip_NonRVSM=WXTUDBAMNP
-
-//RDF SETTINGS
-RDF_Mode=-1
-RDF_Accuracy=0.0
-RDF_Accuracy_Degrees=0.0
-RDF_Floor=-500
-RDF_MinRadius=25
 
 //AIRSPACE SETTINGS
 Airspace_P_Flag=VRMF,VCCF
@@ -185,7 +178,7 @@ System_UseAcceptedCoordColor=1
 System_UseReportedGS=0
 
 //TRACKS SETTINGS
-Track_HistoryDots=7
+Track_HistoryDots=6
 Track_PredictionLine=0
 Track_PSR_Filter_GS=30
 
@@ -229,15 +222,14 @@ Label_ADES_MaxChars=4
 Label_N_Default=0
 Label_Rev_Highlight_Delta_ETN=0
 Label_WTC_Highlight_WTC=JH
-Label_DAPs_Prefix=@
 Label_OPTEXT2_MaxChars_List=10
 Label_CFL_DefaultValue=0
 Label_ASSR_AcceptPilotSquawk=0
-Label_UseTransferInColor=0
 Label_CompCsCaps=1
 Label_COP_MaxChars=5
 Label_FCOPX_Default=0110
 Label_Field18_Flag_Items=STS/,newbie,NEWBIE,Newbie,beginner
+Label_RTE_Origin=VC,VR
 
 //AREAS SETTINGS
 Areas_PreActiveTime=1800
