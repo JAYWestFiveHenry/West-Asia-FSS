@@ -10,14 +10,12 @@
 //MAIN SETTINGS
 Setup_COOPANS=1
 Setup_AutoSignIn=1
+Setup_Informed=ADEP:VC* VR* ADES:VC* VR*
 
 //Equipment
-Equip_Use_SUR_AltitudeReporting=0
-Equip_Use_SUR_Mode_S=0
-Equip_Use_SUR_Mode_S_EHS=0
-Equip_Use_SUR_Mode_S_FLTID=0
 Equip_UseCodes=3
 Equip_Use_NAV_PBN=1
+Equip_PRNAV=ZLYCIVSG
 Equip_RNAV=ZLYCIVSG
 Equip_RVSM=WZL
 Equip_NonRNAV=WXTUDBAMNP
@@ -40,7 +38,7 @@ Color_Proposition_In=255,130,180
 Color_Proposition_Out=0,130,180
 Color_Proposition=255,130,180
 Color_Assumed=0,255,0
-Color_Redundant=96,255,227
+Color_Redundant=180,180,180
 Color_Informed=175,125,175
 Color_Informed_2=255,195,75
 Color_Informed_3=147,124,108
@@ -90,7 +88,7 @@ Color_Potential_FL=40,41,216
 Color_QDM=190,225,250
 Color_Heading_Vector=170,231,197
 Color_Sid_Star_Allocation=52,235,222
-Color_Rwy_Locked=52,235,222
+Color_Rwy_Locked=0,255,0
 
 //COLOR MAP SETTINGS
 Color_Map_Info=0,127,156
@@ -156,15 +154,14 @@ System_GUI_Font_Fixed_1=EuroScope
 System_GUI_Font_Fixed_1_Size=10
 System_TrueColorMode=1
 System_ASP_IasMach=27500
-Setup_Informed=ADEP:VCBI VCRI VRMM VRMG ADES:VCBI VCRI VRMM VRMG
 System_MetarSourceVATSIM=1
 System_TaxiTime=15
 System_RepHdg_Correction=2
 System_ProxySounds=0
 System_UseMouseWheel=1
 System_UseAcceptedCoordColor=1
-System_UseSidAllocationColor=1
-System_UseStarAllocationColor=1
+System_UseSidAllocationColor=2
+System_UseStarAllocationColor=2
 System_Uncontrolled_State_None=1
 System_TransferConfirmation=1
 System_Trf_Release=1
