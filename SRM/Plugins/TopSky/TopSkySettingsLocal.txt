@@ -1,5 +1,4 @@
-Setup_AutoSignIn=1
-
+//WINDOWS SETTINGS
 Window_DCL_AhdgTrack_Default=1
 Window_DCL_DFREQ_Auto=1
 Window_DCL_SetASSR=1
@@ -41,6 +40,7 @@ List_Holding_States=23457
 
 [_CTR]
 System_FPASD=1
+System_FPASD_MinState=1
 
 [VRMF_CTR]
 STCA_Coarse_Sep_Lat_U=7.5

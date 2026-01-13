@@ -7,7 +7,7 @@ m_Resizable:1
 m_OrderingColumn:-6
 m_HeaderOnly:0
 m_Column:FR:3:1:63:0:0:1::::1:0.0
-m_Column:ETN:5:1:10106:0:0:1:TopSky plugin:::0:0.0
+m_Column:ETN:5:1:10034:0:0:1:TopSky plugin:::0:0.0
 m_Column:ENTRY:6:1:10004:45:21:1:TopSky plugin:TopSky plugin::1:0.0
 m_Column:ETN:5:1:10034:0:0:0:TopSky plugin:::0:0.0
 m_Column:EFL:4:1:65:68:23:1:TopSky plugin:TopSky plugin::0:0.0

@@ -9,6 +9,7 @@
 
 //MAIN SETTINGS
 Setup_COOPANS=1
+Setup_AutoSignIn=1
 
 //Equipment
 Equip_Use_SUR_AltitudeReporting=0
@@ -23,13 +24,12 @@ Equip_NonRNAV=WXTUDBAMNP
 Equip_NonRVSM=WXTUDBAMNP
 
 //AIRSPACE SETTINGS
-Airspace_P_Flag=VRMF,VCCF
-Airspace_NOTAM_Add=VRMF,VCCF
+Airspace_P_Flag=VRMM,VCBI
 Airspace_No_DUPE_Codes=1000,7000,2000,2200,1200,1234,7500
 Airspace_ASSR_Type=2
 Airspace_ASSR_AutoAssign_Type=2
-Airspace_SIGMET_Areas=VRMF,VCCF
-Airspace_NOTAM_Add=VCCF,VRMF,VOMF,FMMM,YMMM,FIMM,WIIF
+Airspace_SIGMET_Areas=VCCF,VRMF,VOMF,YMMM,FIMM,WIIF,VABF
+Airspace_NOTAM_Add=VCCF,VRMF,VOMF,YMMM,FIMM,WIIF,VABF
 Airspace_RVSM_Max=41000
 
 //COLOR TAGS
@@ -165,7 +165,6 @@ System_UseMouseWheel=1
 System_UseAcceptedCoordColor=1
 System_UseSidAllocationColor=2
 System_UseStarAllocationColor=2
-System_UseRwyLockedColor=1
 System_Uncontrolled_State_None=1
 System_TransferConfirmation=1
 System_Trf_Release=1
@@ -211,7 +210,7 @@ Label_UseTransferInColor=1
 Label_Alt_Digits=3
 Label_AFL_ForceNautical=1
 Label_AFL_Buffer=500
-Label_ASP_Digits=3
+Label_ASP_Digits=2
 Label_AHDG_ShowExtra=0
 Label_AHDG_ShowDct=2
 Label_AHDG_Point_Label=2
@@ -270,11 +269,11 @@ APW_WarningTime_Imm=120
 APW_AlertSound=0
 APW_Filter=2
 APW_Buffer_Lat_U=0
-APW_Buffer_Lat_L_IFR=0
-APW_Buffer_Lat_L_VFR=0
-APW_Buffer_Vert_U=0
-APW_Buffer_Vert_L_IFR=0
-APW_Buffer_Vert_L_VFR=0
+APW_Buffer_Lat_L_IFR=6
+APW_Buffer_Lat_L_VFR=3
+APW_Buffer_Vert_U=2000
+APW_Buffer_Vert_L_IFR=1000
+APW_Buffer_Vert_L_VFR=500
 APW_ConflictCount=4
 APW_Uncorrelated=1
 
