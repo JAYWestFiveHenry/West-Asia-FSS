@@ -171,7 +171,7 @@ System_UseILScat=1
 System_UsePresentHeading=1
 System_SyncData_WindowMessaging=1
 System_UseAcceptedCoordColor=1
-System_UseReportedGS=0
+System_UseReportedGS=1
 
 //TRACKS SETTINGS
 Track_HistoryDots=6
@@ -341,7 +341,3 @@ CPDLC_DCT=1
 CPDLC_Ping_All_Callsigns=1
 CPDLC_PDC_PlaySound=1
 CPDLC_PlaySound=1
-CPDLC_FSM_CDA_Fail_NoAck=ACK NOT RECEIVED CLEARANCE CANCELLED REVERT TO VOICE
-CPDLC_FSM_CDA_Fail_Unable=CONTACT ATC BY VOICE CONTACT REFUSE NOT SUPPORTED BY DATALINK
-CPDLC_FSM_PDC_Fail=NO PDC AVAILABLE FOR <callsign>
-CPDLC_FSM_PDC_Fail_2nd=NO PDC AVAILABLE FOR <callsign>

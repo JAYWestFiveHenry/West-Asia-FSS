@@ -1,7 +1,6 @@
 //GENERAL SETTINGS
 Equip_ProMode=1
 Equip_ModeS=0
-Equip_ModeS=WZLCISG
 
 //STATUS SETTINGS
 System_State_OnFreq=ON FREQ
