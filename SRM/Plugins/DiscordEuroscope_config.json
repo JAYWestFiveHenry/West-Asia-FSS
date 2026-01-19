@@ -7,24 +7,24 @@
         "idle": {
             "presence_small_image_key": "",
             "presence_large_image_key" : "",
-            "state" : "Still Sleeping",
-            "details" : "Break Room",
+            "state" : "We're preparing the Radar Scope",
+            "details" : "Let's wait for the Controller",
             "presence_small_image_text" : "",
             "presence_large_image_text" : ""
         },
         "playback": {
             "presence_small_image_key": "",
             "presence_large_image_key" : "",
-            "state" : "Watching Some SUS Moments",
-            "details" : "Timelapse Session",
+            "state" : "Let's watch Some Skill Issue moments",
+            "details" : "Controller Playback on Progress",
             "presence_small_image_text" : "",
             "presence_large_image_text" : ""
         },
         "sweatbox": {
             "presence_small_image_key": "",
             "presence_large_image_key" : "",
-            "state" : "Controller Skills Update in Progress",
-            "details" : "Let's make someone sweat",
+            "state" : "Reviving someone from being Skill Issue",
+            "details" : "Controller Training in Progress",
             "presence_small_image_text" : "",
             "presence_large_image_text" : ""
         },
@@ -39,7 +39,7 @@
             "if_observer" : {
                 "presence_small_image_key": "",
                 "presence_large_image_key" : "",
-                "state" : "Aircraft in range: {total_inrange}",
+                "state" : "I can see {total_inrange} in the Sky",
                 "details" : "Observing as {callsign}",
                 "presence_small_image_text" : "",
                 "presence_large_image_text" : ""
@@ -48,17 +48,17 @@
             "if_controller": {
                 "presence_small_image_key": "",
                 "presence_large_image_key" : "",
-                "state" : "Aircraft Tracked: {total_tracked}",
+                "state" : "Controlled ({total_tracked} out of {total_inrange})",
                 "details" : "{rcallsign} {frequency}MHz",
                 "presence_small_image_text" : "",
                 "presence_large_image_text" : "{callsign}",
                 "buttons": [
                     {
-                        "label": "Airport Infomation",
+                        "label": "Airport Procs and Charts",
                         "url" : "https://4r-ipm.me/vaccsrm/index.html?i=1"
                     },
                     {
-                        "label": "Submit Controller Feedback",
+                        "label": "Submit Your Feedback to Us!",
                         "url": "https://hq.vatwa.net/atc/feedback"
                     }
                 ]
