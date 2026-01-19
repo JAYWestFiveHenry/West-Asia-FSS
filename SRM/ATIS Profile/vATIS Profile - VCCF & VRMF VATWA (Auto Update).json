@@ -1,6 +1,6 @@
 {
   "name": "VCCF & VRMF VATWA",
-  "id": "8147e6e6-7e78-48f0-81fd-6e3273613379",
+  "id": "1cc73e48-499b-4ea2-a4c3-8349c5b0c4bd",
   "updateUrl": "https://raw.githubusercontent.com/JAYWestFiveHenry/SRMvACC-Sector-FIle-Beta/refs/heads/SRMvACC/SRM/ATIS%20Profile/vATIS%20Profile%20-%20VCCF%20%26%20VRMF%20VATWA%20(Auto%20Update).json",
   "updateSerial": 2026010601,
   "stations": [
@@ -3988,7 +3988,7 @@
         "transitionLevel": {
           "values": [],
           "template": {
-            "text": "TRANSITION LEVEL {trl}",
+            "text": "TL {trl}",
             "voice": "TRANSITION LEVEL {trl}"
           }
         },
@@ -4022,7 +4022,7 @@
           "name": "36 | ILS X",
           "airportConditions": "ARR RWY 36 EXPT ILS X APPR. DEP RWY 36. ALL LDG TFC ON RWY 36 TO VACATE ASAP",
           "notams": "",
-          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME].  [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE] ON INITIAL CONTACT.",
+          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME].  [FULL_WX_STRING]. TRL FL130. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE] ON INITIAL CONTACT.",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4038,7 +4038,7 @@
           "name": "18 | ILS X",
           "airportConditions": "ARR RWY 18 EXPT ILS X APPR. DEP RWY 18. ALL LDG TFC ON RWY 18 TO VACATE ASAP",
           "notams": "",
-          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME].  [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE] ON INITIAL CONTACT.",
+          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME].  [FULL_WX_STRING]. TRL FL130. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE] ON INITIAL CONTACT.",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4054,7 +4054,7 @@
           "name": "36 | ILS W",
           "airportConditions": "ARR RWY 36 EXPT ILS W APPR. DEP RWY 36. ALL LDG TFC ON RWY 36 TO VACATE ASAP",
           "notams": "",
-          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME].  [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE] ON INITIAL CONTACT.",
+          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME].  [FULL_WX_STRING]. TRL FL130. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE] ON INITIAL CONTACT.",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4070,7 +4070,7 @@
           "name": "18 | ILS W",
           "airportConditions": "ARR RWY 18 EXPT ILS W APPR. DEP RWY 18. ALL LDG TFC ON RWY 18 TO VACATE ASAP",
           "notams": "",
-          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME].  [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE] ON INITIAL CONTACT.",
+          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME].  [FULL_WX_STRING]. TRL FL130. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE] ON INITIAL CONTACT.",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4086,7 +4086,7 @@
           "name": "36 | VOR X",
           "airportConditions": "ARR RWY 36 EXPT VOR X APPR. DEP RWY 36. ALL LDG TFC ON RWY 36 TO VACATE ASAP",
           "notams": "",
-          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME].  [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE] ON INITIAL CONTACT.",
+          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME].  [FULL_WX_STRING]. TRL FL130. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE] ON INITIAL CONTACT.",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4102,7 +4102,7 @@
           "name": "18 | VOR X",
           "airportConditions": "ARR RWY 18 EXPT VOR X APPR. DEP RWY 18. ALL LDG TFC ON RWY 18 TO VACATE ASAP",
           "notams": "",
-          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME].  [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE] ON INITIAL CONTACT.",
+          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME].  [FULL_WX_STRING]. TRL FL130. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE] ON INITIAL CONTACT.",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4118,7 +4118,7 @@
           "name": "36 | RNP Z",
           "airportConditions": "ARR RWY 36 EXPT RNP Z APPR. DEP RWY 36. ALL LDG TFC ON RWY 36 TO VACATE ASAP",
           "notams": "",
-          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME].  [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE] ON INITIAL CONTACT.",
+          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME].  [FULL_WX_STRING]. TRL FL130. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE] ON INITIAL CONTACT.",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4134,7 +4134,7 @@
           "name": "18 | RNP Z",
           "airportConditions": "ARR RWY 18 EXPT RNP Z APPR. DEP RWY 18. ALL LDG TFC ON RWY 18 TO VACATE ASAP",
           "notams": "",
-          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME].  [FULL_WX_STRING]. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE] ON INITIAL CONTACT.",
+          "template": "THIS IS MALE VELANA INTL AIRPORT ATIS INFORMATION [ATIS_CODE]. AT TIME [OBS_TIME].  [FULL_WX_STRING]. TRL FL130. [ARPT_COND]. [NOTAMS]. ACKNOWLEDGE ATIS INFO [ATIS_CODE] ON INITIAL CONTACT.",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -4176,6 +4176,11 @@
           "variableName": "Z",
           "text": "Z",
           "voice": "ZULU"
+        },
+        {
+          "variableName": "TRL",
+          "text": "TRL",
+          "voice": "TRANSITION LEVEL"
         }
       ],
       "airportConditionDefinitions": [],
@@ -4186,7 +4191,7 @@
           "enabled": true
         },
         {
-          "text": "OLD ALLOCATION FOR RWY 18/36 IS REPLACED BY TWY C.",
+          "text": "OLD ALLOCATION FOR RWY 18/36 IS REPLACED BY TWY C. DO NOT MISTAKEN WHEN CONDUCTING ILS APPR.",
           "ordinal": 2,
           "enabled": true
         },
@@ -4196,13 +4201,13 @@
           "enabled": true
         },
         {
-          "text": "CONCENTRATION OF BIRDS AT VRMM. ON AND AROUND RWY18/36. ALL PILOTS ARE ADVISED TO EXERCISE CAUTION.",
+          "text": "CONCENTRATION OF BIRDS AT VRMM. ALL PILOTS ARE ADVISED TO EXERCISE CAUTION.",
           "ordinal": 4,
           "enabled": true
         },
         {
           "text": "READBACK ALL HOLD SHORT INSTRUCTIONS",
-          "ordinal": 4,
+          "ordinal": 5,
           "enabled": true
         }
       ]
