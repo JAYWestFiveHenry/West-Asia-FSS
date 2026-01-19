@@ -48,7 +48,7 @@
             "if_controller": {
                 "presence_small_image_key": "",
                 "presence_large_image_key" : "",
-                "state" : "Controlled ({total_tracked} out of {total_inrange})",
+                "state" : "Aircraft Tracked ({total_tracked} out of {total_inrange})",
                 "details" : "{rcallsign} {frequency}MHz",
                 "presence_small_image_text" : "",
                 "presence_large_image_text" : "{callsign}",
