@@ -86,17 +86,17 @@
             "path_to_ese" : "C:\\Users\\ghtra\\Documents\\EuroScope\\SRMvACC Test Sector"
         },
         "custom_callsigns": {
-            "^VCCF_CTR$": "Colombo ACC",
-            "^VCCF_T_CTR$": "Colombo ACC (Trainee)",
-            "^VCCF_I_CTR$": "Colombo ACC (Instructor)",
-            "^VCCF_X_CTR$": "Colombo ACC (Examiner)",
-            "^VCCF_M_CTR$": "Colombo ACC (Mentor)",
-            "^VRMF_CTR$": "Male ACC",
-            "^VRMF_I_CTR$": "Male ACC (Instructor)",
-            "^VRMF_X_CTR$": "Male ACC (Examiner)",
-            "^VRMF_T_CTR$": "Male ACC (Trainee)",
-            "^VRMF_M_CTR$": "Male ACC (Mentor)",
-            "^VRMF_S_CTR$": "Male South ACC",
+            "^VCCF_CTR$": "Colombo Control",
+            "^VCCF_T_CTR$": "Colombo Control (Trainee)",
+            "^VCCF_I_CTR$": "Colombo Control (Instructor)",
+            "^VCCF_X_CTR$": "Colombo Control (Examiner)",
+            "^VCCF_M_CTR$": "Colombo Control (Mentor)",
+            "^VRMF_CTR$": "Male Control",
+            "^VRMF_I_CTR$": "Male Control (Instructor)",
+            "^VRMF_X_CTR$": "Male Control (Examiner)",
+            "^VRMF_T_CTR$": "Male Control (Trainee)",
+            "^VRMF_M_CTR$": "Male Control (Mentor)",
+            "^VRMF_S_CTR$": "Male Control (South)",
             "^VCBI_APP$" : "Colombo Director",
             "^VCBI_T_APP" : "Colombo Director (Trainee)",
             "^VCBI_I_APP" : "Colombo Director (Instructor)",
@@ -144,7 +144,11 @@
             "^VREI_I_TWR": "Ifuru Infomation",
             "^VRGD_I_TWR": "Madivaru Infomation",
             "^VRMU_I_TWR": "Dhaalu Infomation",
-            "^VRNT_I_TWR": "Thiramafushi Infomation"
+            "^VRNT_I_TWR": "Thiramafushi Infomation",
+            "^VRMH_TWR": "Hanimaadhoo Tower",
+            "^VRMR_TWR": "Fuvahmulah Tower",
+            "^VRMT_TWR": "Kaadedhdhoo Tower",
+            "^VRMV_TWR": "Maamigili Tower"
         }
     }
 }
