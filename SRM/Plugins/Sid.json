@@ -120,14 +120,16 @@
          "MUGBA": [
 		 	{
                "direction": "ODD",
-               "airways":["MUGBA R457"]
+               "airways":["MUGBA R457"],
+               "navigation": "WXTUDBAMNP"
          }
          ],
          "DOPDO": [
             {
                "direction": "ODD",
                "airways":["DOPDO G465","DOPDO"],
-               "destinations":["VC"]
+               "destinations":["VC"],
+               "navigation": "WXTUDBAMNP"
             }
          ],
          "HOKEY": [
@@ -145,7 +147,8 @@
          "GOKAM": [
             {
                "direction": "ODD",
-               "airways":["GOKAM P756"]
+               "airways":["GOKAM P756"],
+               "navigation": "WXTUDBAMNP"
             }
          ],
          "TENIV": [
@@ -211,12 +214,14 @@
          "LELEM":[
             {
                "direction":"EVEN",
-               "airways":["LELEM L894"]
+               "airways":["LELEM L894"],
+               "navigation": "WXTUDBAMNP"
             },
             {
                "direction":"EVEN",
                "airways":["LELEM DCT"],
-               "destinations":["VR"]
+               "destinations":["VR"],
+               "navigation": "WXTUDBAMNP"
             }
          ],
          "PILIK":[
@@ -233,7 +238,8 @@
          "KAGUM":[
             {
                "direction":"EVEN",
-               "airways":["KAGUM R329"]
+               "airways":["KAGUM R329"],
+               "navigation": "WXTUDBAMNP"
             }
          ],
          "MUNUT":[
