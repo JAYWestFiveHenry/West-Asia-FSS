@@ -24,7 +24,6 @@ AG:VCRI_TWR Mattala Tower:119.850
 AG:VRMD_TWR Dharavandhoo Tower:118.250
 AG:VRMF_CTR Male Control:123.900
 AG:VRMF_S_CTR Male Control:127.100
-AG:VRMG_GND Gan Ground:121.600
 AG:VRMG_TWR Gan Control:119.100
 AG:VRMH_TWR Hanimaadhoo Tower:118.500
 AG:VRMK_TWR Kadhdhoo Tower:119.600
