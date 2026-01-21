@@ -120,6 +120,7 @@
          "MUGBA": [
 		 	{
                "direction": "ODD",
+               "suffix":"2A,2B,2C,2D",
                "airways":["MUGBA R457"],
                "navigation": "WXTUDBAMNP"
          }
@@ -127,6 +128,7 @@
          "DOPDO": [
             {
                "direction": "ODD",
+               "suffix":"2A,2B,2C,2D",
                "airways":["DOPDO G465","DOPDO"],
                "destinations":["VC"],
                "navigation": "WXTUDBAMNP"
@@ -141,12 +143,14 @@
          "ATSON": [
             {
                "direction": "ODD",
-               "airways":["ATSON G465"]
+               "suffix":"1A,1B",
+               "airways":["ATSON G465","ATSON DCT"]
             }
          ],
          "GOKAM": [
             {
                "direction": "ODD",
+               "suffix":"2A,2B,2C,2D",
                "airways":["GOKAM P756"],
                "navigation": "WXTUDBAMNP"
             }
@@ -160,28 +164,44 @@
          "AQAXA": [
             {
                "direction": "ODD",
+               "suffix": "1A,1B",
                "airways":["AQAXA L894"]
+            },
+            {
+               "direction":"ODD",
+               "suffix": "2A,2B,2C,2D",
+               "airways":["AQAXA L894","AQAXA DCT"],
+               "navigation":"WXTUDBAMNP"
             }
          ],
          "ATISA": [
             {
                "direction":"ODD",
+               "suffix":"1A,1B",
                "airways":["ATISA Z652"],
                "destinations":["VR"]
             },
             {
                "direction":"EVEN",
+               "suffix":"1A,1B",
                "airways":["ATISA R329"]
+            },
+            {
+               "direction":"ANY",
+               "suffix":"2A,2C,2B,2D",
+               "airways":["ATISA R329","ATISA Z652","ATISA DCT"]
             }
          ],
          "IGRAM": [
             {
                "direction":"EVEN",
+               "suffix":"1A,1B",
                "airways":["IGRAM Z749",
                "IGRAM Q511"]
             },
             {
                "direction":"EVEN",
+               "suffix":"1A,1B",
                "airways":["IGRAM DCT"],
                "destinations":["VR"]
             }
@@ -194,11 +214,19 @@
          "ESKOL":[
             {
                "direction":"EVEN",
+               "suffix":"1A,1B",
                "airways":["ESKOL G465"]
             },
-                        {
+            {
                "direction":"EVEN",
+               "suffix":"1A,1B",
                "airways":["ESKOL DCT"]
+            },
+            {
+               "direction":"EVEN",
+               "suffix":"2A,2B,2C,2D",
+               "airways":["ESKOL DCT","ESKOL G465"],
+               "navigation":"WXTUDBAMNP"
             }
          ],
          "ELBET":[
@@ -214,11 +242,13 @@
          "LELEM":[
             {
                "direction":"EVEN",
+               "suffix":"2A,2B,2C,2D",
                "airways":["LELEM L894"],
                "navigation": "WXTUDBAMNP"
             },
             {
                "direction":"EVEN",
+               "suffix":"2A,2B,2C,2D",
                "airways":["LELEM DCT"],
                "destinations":["VR"],
                "navigation": "WXTUDBAMNP"
@@ -227,10 +257,12 @@
          "PILIK":[
             {
                "direction":"EVEN",
+               "suffix":"1A,1B",
                "airways":"PILIK Y991"
             },
             {
                "direction":"EVEN",
+               "suffix":"1A,1B",
                "airways":["PILIK DCT"],
                "destinations":["VR"]
             }
@@ -238,13 +270,15 @@
          "KAGUM":[
             {
                "direction":"EVEN",
-               "airways":["KAGUM R329"],
+               "suffix":"2A,2B,2C,2D",
+               "airways":["KAGUM R329","KAGUM DCT"],
                "navigation": "WXTUDBAMNP"
             }
          ],
          "MUNUT":[
             {
                "direction":"EVEN",
+               "suffix":"1A,1B",
                "airways":["MUNUT Y993","MUNUT Y992","MUNUT R329"]
             }
          ]
