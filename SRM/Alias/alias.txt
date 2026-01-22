@@ -12,7 +12,7 @@
 ;                                                                                                                         ;
 ;=========================================================================================================================;
 ;                                                                                                                         ;
-;  ALL RIGHTS RESERVED ï¿½ AeroNav Association. NAV-DATA ï¿½ NAVIGRAPH.                                                       ;
+;  ALL RIGHTS RESERVED © AeroNav Association. NAV-DATA © NAVIGRAPH.                                                       ;
 ;  FILES MUST NOT BE DISTRIBUTED OUTSIDE OF AERONAV SERVICES!                                                             ;
 ;                                                                                                                         ;
 ;=========================================================================================================================;
@@ -24,13 +24,16 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2513/1  ++  File-Publisher: Sri Lanka & Maldives vACC - SRM                                                      ;
+;  AIRAC 2601/1  ++  File-Publisher: Sri Lanka & Maldives vACC - SRM                                                      ;
 ;=========================================================================================================================;
 ;*** 1. Initial Contact ***
 .cwr .msg $aircraft Hello. $radioname is providing top-down service for $dep. Please contact me on $freq when you are ready.
 .ci .msg $aircraft NO MOVEMENT without ATC permission please! $radioname is providing top-down service for $dep. HOLD POSITION and contact me IMMEDIATELY on $freq!
 .v Confirm are you able receive voice? Be advised as per VATSIM CoC Sections A14 (c) and (d). Pilots MUST at least be capable voice receive at bare minimum. Other reasons like Audio Issues, Language compabillities etc... Unfortunate you have to fly offline. Unless you have hearing disability, usage a lower level of voice capability or any of recoginzed disability must be explained and approved by a Network Supervisor.
-.icaocs .msg $aircraft Hello, we mainly use ICAO Callsign on VATSIM. Please change into $1 and re-file your FPL accordingly.
+.icaocs .msg $aircraft Hello, we mainly use ICAO Callsign on VATSIM Network. Please change into $1 and re-file your FPL accordingly. Thank you.
+.afk "ATTENTION ALL AIRCRAFTS", $radioname will be AFK around $1 mins. If you have ATC requests, Please Send via text. will sort them accordingly upon return. 
+.clsd "ATTENTION ALL AIRCRAFTS", $radioname is NOW CLOSED. Monitor Advisory 122.8. Enjoy your flights. bye bye.
+.sd "ATTENTION ALL AIRCRAFTS", $radioname will be closing in $1 mins.
 
 ;*** 2. Runway Management ***
 .cr Via $1, cross runway $2
@@ -57,12 +60,11 @@
 
 ;*** 3. Handoff ***
 .ho Contact $radioname($1) ($atccallsign($1)) $freq($1). Safe flight to $arr Bye Bye!
-.cso Contact $radioname($1) $freq($1) ($atccallsign($1)) callsign only
 .rh Report your heading to $radioname($1) ($atccallsign($1)) $freq($1)
 .rs Report your speed to $radioname($1) ($atccallsign($1)) $freq($1)
 .mon Monitor $radioname($1) ($atccallsign($1)) $freq($1)
-.oma You are currently outside my airspace. Monitor Advisory 122.8
-.uni You are leaving my airspace no further ATC available. Monitor Advisory 122.8. Safe flight to $arr Bye Bye!
+.oma You are currently outside my airspace. Please Monitor Advisory 122.8
+.uni You are leaving my airspace, No Further ATC on the next Sector. Monitor Advisory 122.8. Safe flight to $arr Bye Bye!
 
 ;*** 4. ATC Online/Offline ***
 .on /Good Day, $radioname is online.
@@ -70,16 +72,18 @@
 .boff /$radioname is closing in $1 minutes.
 
 ;*** 5. Radar ***
-.rdr Identified, $calt, continue as filed.
+.rdr Identified, $calt, continue flight plan route.
 .radar Identified, $calt, continue climb $alt.
 .clun Identified, Climb Unrestricted $alt.
+.id1 Identified, Maintain $alt, Continue Flight Plan Route.
+.id2 Identified, Maintain $alt.
 .starrnp Cleared into $arr, via the $star Arrival, Expect RNP Approach Runway $arrrwy. Report ready for descend.
 .star Cleared into $arr, via the $star Arrival, Expect ILS $1 Approach Runway $arrrwy. Report ready for descend.
-.sirpa Squawk Ident, report your passing altitude
-.rpa Report your passing altitude
-.sqwk Confirm Squawk $squawk
-.sqkc Squawk Mode Charlie
-.si Squawk Ident
+.sirpa Squawk Ident, report your passing altitude?
+.rpa Report your passing altitude?
+.sqk Confirm Squawk $squawk
+.sqc Set Squawk Mode C Please.
+.si Squawk Ident.
 .rcl Report your cleared level.
 .viails Via $1 Transition, Cleared ILS $2 Runway $arrrwy, Report When Established.
 .viaca Via $1 Transition, Cleared $2 Runway $arrrwy. Report On Final.
@@ -87,6 +91,7 @@
 
 ;*** 6. Climb/Descend ***
 .des Descend to $alt.
+.wrdes When Ready, Descend to $alt.
 .cl Climb to $alt.
 .desqnh Descend to altitude $alt, $1 QNH $altim($arr)
 
@@ -94,7 +99,7 @@
 .ias Report your Indicated speed.
 .rias Reduce speed $1 kts.
 .rias2 Reduce speed $1 kts or less.
-.rmin Reduce speed to your minimum clean.
+.rmin Reduce speed to minimum clean speed.
 .rfinal Reduce to final approach speed.
 .ianm Speed $1 kts until $2nm Final.
 
