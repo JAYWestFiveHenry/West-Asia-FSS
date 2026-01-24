@@ -154,7 +154,9 @@ System_GUI_Font_Fixed_1=EuroScope
 System_GUI_Font_Fixed_1_Size=10
 System_TrueColorMode=1
 System_ASP_IasMach=27500
-System_MetarSourceVATSIM=1
+System_MagModel_Type=2
+System_MagModel_Model=0
+System_MagModel_Year=2020
 System_TaxiTime=15
 System_RepHdg_Correction=2
 System_ProxySounds=0
@@ -165,7 +167,6 @@ System_UseStarAllocationColor=2
 System_Uncontrolled_State_None=1
 System_TransferConfirmation=1
 System_Trf_Release=1
-System_MetarSourceVATSIM=1
 System_UseTSAborderHighlightColor=1
 System_UseILScat=1
 System_UsePresentHeading=1
@@ -223,7 +224,7 @@ Label_ASSR_AcceptPilotSquawk=0
 Label_CompCsCaps=1
 Label_COP_MaxChars=5
 Label_FCOPX_Default=0110
-Label_Field18_Flag_Items=STS/,newbie,NEWBIE,Newbie,beginner
+Label_Field18_Flag_Items=/STS,NEWBIE,NOOB,N00B,BEGINNER,ANFAENGER,DISABLED,DISABILITY,IMPAIRED,NEWBE,NEWBEE,FS2020
 Label_RTE_Origin=VC,VR
 
 //AREAS SETTINGS
@@ -256,6 +257,7 @@ Vector_MinSep_Label_Time=1
 MSAW=1
 MSAW_AppInhibit=2
 MSAW_Filter=2
+MSAW_Buffer_IFR=100
 
 //APW
 APW=1
@@ -265,6 +267,7 @@ APW_WarningTime=120
 APW_WarningTime_Imm=120
 APW_AlertSound=0
 APW_Filter=2
+APW_Buffer_Lat_SepLevel=24500
 APW_Buffer_Lat_U=0
 APW_Buffer_Lat_L_IFR=6
 APW_Buffer_Lat_L_VFR=3
@@ -304,16 +307,6 @@ STCA_VFR=1
 STCA_UseCFL=1
 STCA_Sep_Lat_SepLevel=12500
 STCA_Floor=2000
-STCA_Coarse_Sep_Vert_U=1000
-STCA_Coarse_Sep_Vert_L=1000
-STCA_FastDiv_Sep_Vert_U=650
-STCA_FastDiv_Sep_Vert_L=650
-STCA_LinPred_Sep_Vert_U=750
-STCA_LinPred_Sep_Vert_L=750
-STCA_CurrProx_Sep_Vert_U=800
-STCA_CurrProx_Sep_Vert_L=800
-STCA_LevelOff_Sep_Vert_U=700
-STCA_LevelOff_Sep_Vert_L=700
 
 //MENU SETTINGS
 Menu_AHDG_Rounding=10

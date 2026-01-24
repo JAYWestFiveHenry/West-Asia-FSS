@@ -45,21 +45,41 @@ System_FPASD_MinState=1
 [VRMF_CTR]
 STCA_Coarse_Sep_Lat_U=7.5
 STCA_Coarse_Sep_Lat_L=7.5
+STCA_Coarse_Sep_Vert_U=1000
+STCA_Coarse_Sep_Vert_L=1000
 STCA_LinPred_Sep_Lat_U=7.5
 STCA_LinPred_Sep_Lat_L=7.5
 STCA_CurrProx_Sep_Lat_U=7.75
 STCA_CurrProx_Sep_Lat_L=7.75
+STCA_CurrProx_Sep_Vert_U=800
+STCA_CurrProx_Sep_Vert_L=800
+STCA_FastDiv_Sep_Vert_U=650
+STCA_FastDiv_Sep_Vert_L=650
+STCA_LinPred_Sep_Vert_U=750
+STCA_LinPred_Sep_Vert_L=750
+STCA_LevelOff_Sep_Vert_U=700
+STCA_LevelOff_Sep_Vert_L=700
 
 [VCCF_CTR]
 STCA_Coarse_Sep_Lat_U=10
 STCA_Coarse_Sep_Lat_L=10
+STCA_Coarse_Sep_Vert_U=1000
+STCA_Coarse_Sep_Vert_L=1000
 STCA_LinPred_Sep_Lat_U=7.5
 STCA_LinPred_Sep_Lat_L=7.5
 STCA_CurrProx_Sep_Lat_U=7.75
 STCA_CurrProx_Sep_Lat_L=7.75
+STCA_CurrProx_Sep_Vert_U=800
+STCA_CurrProx_Sep_Vert_L=800
+STCA_FastDiv_Sep_Vert_U=650
+STCA_FastDiv_Sep_Vert_L=650
+STCA_LinPred_Sep_Vert_U=750
+STCA_LinPred_Sep_Vert_L=750
+STCA_LevelOff_Sep_Vert_U=700
+STCA_LevelOff_Sep_Vert_L=700
 
 [_APP]
-MTCD=0
+MTCD=1
 
 [VCBI_APP]
 STCA_Coarse_Sep_Lat_U=7

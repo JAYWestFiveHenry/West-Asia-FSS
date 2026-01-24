@@ -187,12 +187,10 @@
          "IGRAM": [
             {
                "direction":"EVEN",
-               "suffix":"1A,1B",
                "airways":["IGRAM Z749","IGRAM Q511"]
             },
             {
                "direction":"EVEN",
-               "suffix":"1A,1B",
                "airways":["IGRAM DCT"],
                "destinations":["VR"]
             }
