@@ -104,4 +104,5 @@ CCAMS:ACList/Mode S EHS/m_Column_3:GS:4:1:504:0:0:1:CCAMS::
 vSMR:cpdlc_logon:VCBI
 vSMR:cpdlc_password:3geBVN2qCPfbzr
 vSMR:cpdlc_sound:1
+RDF Plugin for Euroscope:Bridge:0
 END
