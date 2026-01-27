@@ -39,9 +39,9 @@ Color_Proposition_Out=0,130,180
 Color_Proposition=255,130,180
 Color_Assumed=0,255,0
 Color_Redundant=180,180,180
-Color_Informed=175,125,175
-Color_Informed_2=255,195,75
-Color_Informed_3=147,124,108
+Color_Informed=180,180,180
+Color_Informed_2=180,180,180
+Color_Informed_3=180,180,180
 
 //COLOR MENUS AND BACKGROUNDS
 Color_Foreground=159,195,194
@@ -81,14 +81,12 @@ Color_Suite_Highlight=0,220,255
 Color_Flight_Leg=170,231,197
 Color_Warning_FL=255,125,0
 Color_Urgency_FL=225,25,25
-Color_Information=0,232,0
+Color_Information=245,193,51
 Color_Information_FL=41,245,41
 Color_Potential=41,40,216
 Color_Potential_FL=40,41,216
 Color_QDM=190,225,250
-Color_Heading_Vector=170,231,197
 Color_Sid_Star_Allocation=52,235,222
-Color_Rwy_Locked=0,255,0
 
 //COLOR MAP SETTINGS
 Color_Map_Info=0,127,156
@@ -171,7 +169,6 @@ System_UseTSAborderHighlightColor=1
 System_UseILScat=1
 System_UsePresentHeading=1
 System_SyncData_WindowMessaging=1
-System_UseAcceptedCoordColor=1
 System_UseReportedGS=1
 
 //TRACKS SETTINGS
