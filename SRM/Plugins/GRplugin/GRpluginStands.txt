@@ -443,6 +443,8 @@ USE:A
 
 //// ---- VRMM ---- /////
 
+LIMITS:1,2:F:F
+
 // NEW PAX TERM
 // BAY STAND
 //A12
