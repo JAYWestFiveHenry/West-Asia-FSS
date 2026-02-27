@@ -87,6 +87,7 @@
         },
         "custom_callsigns": {
             "^VCCF_CTR$": "Colombo Control",
+            "^VCCF_OC_CTR": "Colombo Oceanic", 
             "^VCCF_T_CTR$": "Colombo Control (Trainee)",
             "^VCCF_I_CTR$": "Colombo Control (Instructor)",
             "^VCCF_X_CTR$": "Colombo Control (Examiner)",
