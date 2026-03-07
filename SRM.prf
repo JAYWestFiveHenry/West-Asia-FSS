@@ -98,6 +98,6 @@ Plugins	Plugin7Display1	SMR radar display
 Plugins	Plugin8Display0	Standard ES radar screen
 Plugins	Plugin8Display1	Ground Radar display
 Plugins	Plugin8Display2	SMR radar display
-LastSession	password	
-LastSession	atis4	
 RecentFiles	Recent9	\SRM\ASR\Jaffna GMC.asr
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin4Display1	Ground Radar display
