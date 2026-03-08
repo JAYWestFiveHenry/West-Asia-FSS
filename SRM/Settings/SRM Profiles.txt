@@ -1,31 +1,31 @@
 PROFILE
-PROFILE:XX_OBS:300:0
+PROFILE:<initials>_OBS:300:0
 ATIS2:SRMvACC Observer
 ATIS3:Welcome to SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:
 PROFILE:VCBI_GND:20:3
 ATIS2:"Colombo Ground" 
-ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
+ATIS3:Colombo FIR Airports Info -> 4r-ipm.me/vaccsrm/srilanka.html
 ATIS4:We Love Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VCBI_TWR:50:4
 ATIS2:"Colombo Tower" 
-ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
+ATIS3:Colombo FIR Airports Info -> 4r-ipm.me/vaccsrm/srilanka.html
 ATIS4:We Love Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VCBI_APP:150:5
 ATIS2:"Colombo Director" | Covering Colombo CTA ONLY up to FL150
-ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
+ATIS3:Colombo FIR Airports Info -> 4r-ipm.me/vaccsrm/srilanka.html
 ATIS4:We Love Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VCRI_APP:150:5
 ATIS2:"Mattala Approach" | Covering Mattala CTA ONLY up to FL130
-ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
+ATIS3:Colombo FIR Airports Info -> 4r-ipm.me/vaccsrm/srilanka.html
 ATIS4:We Love Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VCRI_TWR:50:4
 ATIS2:"Mattala Tower" 
-ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
+ATIS3:Colombo FIR Airports Info -> 4r-ipm.me/vaccsrm/srilanka.html
 ATIS4:We Love Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VCRI_GND:20:3
 ATIS2:"Mattala Ground" 
-ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
+ATIS3:Colombo FIR Airports Info -> 4r-ipm.me/vaccsrm/srilanka.html
 ATIS4:We Love Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VCCC_TWR:50:4
 ATIS2:"Ratmalana Tower"
@@ -81,15 +81,15 @@ ATIS3:Male FIR Airports Info -> 4r-ipm.me/vaccsrm/maldives.html
 ATIS4:We Love Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VRMM_APP:150:5
 ATIS2:"Male Approach" | Covering Male TMA Up to FL285
-ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
+ATIS3:Male FIR Airports Info -> 4r-ipm.me/vaccsrm/maldives.html
 ATIS4:We Love Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VRMM_TWR:50:4
 ATIS2:"Male Tower"
-ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
+ATIS3:Male FIR Airports Info -> 4r-ipm.me/vaccsrm/maldives.html
 ATIS4:We Love Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VRMM_GND:20:3
 ATIS2:"Male Ground"
-ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
+ATIS3:Male FIR Airports Info -> 4r-ipm.me/vaccsrm/maldives.html
 ATIS4:We Love Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VRMG_TWR:50:4
 ATIS2:"Gan Control"
@@ -124,7 +124,7 @@ ATIS2:"Fuvahmulah Tower"
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:We Love Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VRMG_TWR:50:4
-ATIS2:"Gan Control" | Procedural Tower up to 6000ft
+ATIS2:"Gan Control" | Procedural Tower up to 8500ft
 ATIS3:Part of SRMvACC -> www.4r-ipm.me/vaccsrm/
 ATIS4:We Love Feedback -> hq.vatwa.net/atc/feedback
 PROFILE:VREI_I_TWR:50:4
