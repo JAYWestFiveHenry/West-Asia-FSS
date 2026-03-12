@@ -196,26 +196,20 @@ def findname(group):
     vacc = sector.split("·")[0]
     group = sector.split("·")[1]
 
-    if group.startswith("LSASZ"):
-        return "LSAZ"
+    if group.startswith("VCCF"):
+        return "VCCF"
 
-    # elif group.startswith("LSASG"):
-    #     return "LSAG"
+    if group.startswith("VRMF"):
+        return "VRMF"
     
-    # elif group.startswith("LSAS"):
-    #     return "LSAS"
+    if group.startswith("APP"):
+        return "APP"
     
-    # elif group.startswith("CBWV"):
-    #     return "CBWV"
+    if group.startswith("TWR"):
+        return "TWR"
 
-    # elif group.startswith("ZEELAND"):
-    #     return "ZEELAND"  
-
-    # elif vacc.startswith("ACI"):  
-    #     return "ACI"
-
-    # elif group.endswith("AREA"):  
-    #     return "AREA"
+    if group.endswith("AFIS"):  
+        return "AFIS"
     
     ## Do NOT REMOVE, this is your fail safe - Do **not** add this key to your groups json
     else:

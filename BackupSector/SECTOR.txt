@@ -357,27 +357,3 @@ BORDER:216:217:218:31
 SECTOR:YMMM·BRISBANE RADIO INDIAN·000·600:00000:60000
 OWNER:IND
 BORDER:219:113:44:218
-
-//
-"groups": {
-  "VCCF": {
-        "name": "Colombo",
-        "colour": "#ffffff"
-    },
-  "VRMF": {
-        "name": "Male",
-        "colour": "#ffffff"
-    },
-  "APP": {
-        "name": "Approach",
-        "colour": "#ffffff"
-    },
-  "TWR": {
-        "name": "Tower",
-        "colour": "#ffffff"
-    },
-  "AFIS": {
-        "name": "Information",
-        "colour": "#ffffff"
-      }
-},

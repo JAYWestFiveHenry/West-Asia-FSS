@@ -9,7 +9,7 @@
         "colour": "#ffffff"
     },
   "APP": {
-        "name": "Approach",
+        "name": "Director",
         "colour": "#ffffff"
     },
   "TWR": {
@@ -17,8 +17,8 @@
         "colour": "#ffffff"
     },
   "AFIS": {
-        "name": "Information",
+        "name": "Infomation",
         "colour": "#ffffff"
       }
-   }
+  }
 }
