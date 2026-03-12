@@ -5,7 +5,7 @@ FIR_ids_for_this_vacc = ["VCCF","VRMF"]
 
 
 # A file containing only SECTOR data, limited noise (white lines, comments) is allowed. 
-with open('SRM/"Backup Sector"/SECTOR.txt',"r",encoding='utf-8') as f:
+with open('BackupSector/SECTOR.txt',"r",encoding='utf-8') as f:
     # File like:
     # SECTOR:EBBU·EBBE TMA1A·025·035:02500:03500
     # OWNER:MIL:BI
@@ -74,7 +74,7 @@ for sector in sectors:
     }
 
 # A file containing only SECTORLINES, limited noise (white lines, comments) is allowed. 
-with open('SRM/AIRSPACE.txt') as f:
+with open('BackupSector/AIRSPACE.txt') as f:
     # File like:
     # SECTORLINE:572
     # COORD:502517:0004917
@@ -192,7 +192,7 @@ WordOfGodFinalDict = {}
 airspaces = []
 
 # Used to assign the sector a group based on the sectors' name
-def findname(sector):
+def findname(group):
     vacc = sector.split("·")[0]
     group = sector.split("·")[1]
 
@@ -251,5 +251,5 @@ for sector in reversed(sectordic.keys()):
 WordOfGodFinalDict["airspace"] = airspaces
 
 # Directly from dictionary
-with open('SRM/"Backup Sector"/airspace.json', 'w') as outfile:
+with open('BackupSector/airspace.json', 'w') as outfile:
     json.dump(WordOfGodFinalDict, outfile)

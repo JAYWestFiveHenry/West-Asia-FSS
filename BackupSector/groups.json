@@ -1,0 +1,24 @@
+{
+"groups": {
+  "VCCF": {
+        "name": "Colombo",
+        "colour": "#ffffff"
+    },
+  "VRMF": {
+        "name": "Male",
+        "colour": "#ffffff"
+    },
+  "APP": {
+        "name": "Approach",
+        "colour": "#ffffff"
+    },
+  "TWR": {
+        "name": "Tower",
+        "colour": "#ffffff"
+    },
+  "AFIS": {
+        "name": "Information",
+        "colour": "#ffffff"
+      }
+   }
+}
