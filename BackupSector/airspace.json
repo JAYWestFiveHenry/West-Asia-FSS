@@ -282,6 +282,77 @@
             ]
         },
         {
+            "id": "VRMF ACC UC",
+            "group": "VRMF",
+            "owner": [
+                "WAC"
+            ],
+            "sectors": [
+                {
+                    "min": 460,
+                    "max": 599,
+                    "points": [
+                        [
+                            "030500",
+                            "0700000"
+                        ],
+                        [
+                            "020000",
+                            "0691750"
+                        ],
+                        [
+                            "000000",
+                            "0680000"
+                        ],
+                        [
+                            "-060000",
+                            "0680000"
+                        ],
+                        [
+                            "-060000",
+                            "0750000"
+                        ],
+                        [
+                            "-020000",
+                            "0780000"
+                        ],
+                        [
+                            "020000",
+                            "0780000"
+                        ],
+                        [
+                            "060000",
+                            "0780000"
+                        ],
+                        [
+                            "060000",
+                            "0770000"
+                        ],
+                        [
+                            "060000",
+                            "0740000"
+                        ],
+                        [
+                            "073000",
+                            "0740000"
+                        ],
+                        [
+                            "073000",
+                            "0720000"
+                        ],
+                        [
+                            "073000",
+                            "0700000"
+                        ],
+                        [
+                            "030500",
+                            "0700000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
             "id": "VCCF U1 ACC",
             "group": "VCCF",
             "owner": [
@@ -455,8 +526,91 @@
             ]
         },
         {
-            "id": "VCBI TMA ACC",
+            "id": "VCCF ACC UC",
             "group": "VCCF",
+            "owner": [
+                "WAC"
+            ],
+            "sectors": [
+                {
+                    "min": 460,
+                    "max": 599,
+                    "points": [
+                        [
+                            "-020000",
+                            "0780000"
+                        ],
+                        [
+                            "020000",
+                            "0780000"
+                        ],
+                        [
+                            "060000",
+                            "0780000"
+                        ],
+                        [
+                            "060000",
+                            "0770000"
+                        ],
+                        [
+                            "070000",
+                            "0770000"
+                        ],
+                        [
+                            "090000",
+                            "0793000"
+                        ],
+                        [
+                            "092558",
+                            "0794306"
+                        ],
+                        [
+                            "094813",
+                            "0795405"
+                        ],
+                        [
+                            "095503",
+                            "0795733"
+                        ],
+                        [
+                            "100000",
+                            "0800000"
+                        ],
+                        [
+                            "100001",
+                            "0803147"
+                        ],
+                        [
+                            "100006",
+                            "0814654"
+                        ],
+                        [
+                            "100000",
+                            "0820000"
+                        ],
+                        [
+                            "060000",
+                            "0920000"
+                        ],
+                        [
+                            "020000",
+                            "0920000"
+                        ],
+                        [
+                            "-020000",
+                            "0920000"
+                        ],
+                        [
+                            "-020000",
+                            "0780000"
+                        ]
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "VCBI TMA ACC",
+            "group": "OTHER",
             "owner": [
                 "CFC",
                 "WAC"
@@ -608,7 +762,7 @@
         },
         {
             "id": "VRMM TMA",
-            "group": "APP",
+            "group": "OTHER",
             "owner": [
                 "MMA",
                 "MC"
@@ -940,7 +1094,7 @@
         },
         {
             "id": "VCRI CTA",
-            "group": "APP",
+            "group": "OTHER",
             "owner": [
                 "RIA",
                 "CFC"
@@ -1068,7 +1222,7 @@
         },
         {
             "id": "VCCA CTA",
-            "group": "APP",
+            "group": "OTHER",
             "owner": [
                 "CAA",
                 "CFC"
@@ -1284,7 +1438,7 @@
         },
         {
             "id": "VCBI CTA",
-            "group": "APP",
+            "group": "OTHER",
             "owner": [
                 "BIA",
                 "CFC"
@@ -1616,7 +1770,7 @@
         },
         {
             "id": "VRMV CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "MVT",
                 "MMA",
@@ -2109,7 +2263,7 @@
         },
         {
             "id": "VRMT CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "MTT",
                 "MCS",
@@ -2290,7 +2444,7 @@
         },
         {
             "id": "VRMR CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "MRT",
                 "MCS",
@@ -2471,7 +2625,7 @@
         },
         {
             "id": "VRMO CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "MOT",
                 "MCS",
@@ -2656,7 +2810,7 @@
         },
         {
             "id": "VRMM CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "MMT",
                 "MMA",
@@ -2837,7 +2991,7 @@
         },
         {
             "id": "VRMK CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "MKT",
                 "MCS",
@@ -3026,7 +3180,7 @@
         },
         {
             "id": "VRMH CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "MHT",
                 "MC"
@@ -3206,7 +3360,7 @@
         },
         {
             "id": "VRMG CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "MGT",
                 "MCS",
@@ -3387,7 +3541,7 @@
         },
         {
             "id": "VRMD CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "MDT",
                 "MC"
@@ -3891,7 +4045,7 @@
         },
         {
             "id": "VRDA CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "DAT",
                 "MC"
@@ -4199,7 +4353,7 @@
         },
         {
             "id": "VCRI CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "RIT",
                 "RIA",
@@ -4316,7 +4470,7 @@
         },
         {
             "id": "VCCV CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "CVT",
                 "CFC"
@@ -4496,7 +4650,7 @@
         },
         {
             "id": "VCCT CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "CTT",
                 "CFC"
@@ -4676,7 +4830,7 @@
         },
         {
             "id": "VCCS CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "CST",
                 "CFC"
@@ -4856,7 +5010,7 @@
         },
         {
             "id": "VCCK CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "CKT",
                 "RIA",
@@ -5165,7 +5319,7 @@
         },
         {
             "id": "VCCJ CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "CJT",
                 "CFC"
@@ -5273,7 +5427,7 @@
         },
         {
             "id": "VCCH CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "CHT",
                 "CFC"
@@ -5453,7 +5607,7 @@
         },
         {
             "id": "VCCG CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "CGT",
                 "CFC"
@@ -5633,7 +5787,7 @@
         },
         {
             "id": "VCCC CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "CCT",
                 "BIA",
@@ -5786,7 +5940,7 @@
         },
         {
             "id": "VCCB CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "CBT",
                 "CFC"
@@ -5966,7 +6120,7 @@
         },
         {
             "id": "VCCA CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "CAT",
                 "CAA",
@@ -6147,7 +6301,7 @@
         },
         {
             "id": "VCBI CTR",
-            "group": "TWR",
+            "group": "OTHER",
             "owner": [
                 "BIT",
                 "BIA",
@@ -6324,7 +6478,7 @@
         },
         {
             "id": "VRMM UC5",
-            "group": "APP",
+            "group": "OTHER",
             "owner": [
                 "MMA",
                 "MC"
@@ -6404,7 +6558,7 @@
         },
         {
             "id": "VRMM UC4",
-            "group": "APP",
+            "group": "OTHER",
             "owner": [
                 "MMA",
                 "MC"
@@ -6524,7 +6678,7 @@
         },
         {
             "id": "VRMM UC2",
-            "group": "APP",
+            "group": "OTHER",
             "owner": [
                 "MMA",
                 "MC"
@@ -6812,7 +6966,7 @@
         },
         {
             "id": "VRMM UC1",
-            "group": "APP",
+            "group": "OTHER",
             "owner": [
                 "MMA",
                 "MC"
@@ -9877,79 +10031,8 @@
             ]
         },
         {
-            "id": "VRMF ACC UC",
-            "group": "VRMF",
-            "owner": [
-                "WAC"
-            ],
-            "sectors": [
-                {
-                    "min": 460,
-                    "max": 599,
-                    "points": [
-                        [
-                            "030500",
-                            "0700000"
-                        ],
-                        [
-                            "020000",
-                            "0691750"
-                        ],
-                        [
-                            "000000",
-                            "0680000"
-                        ],
-                        [
-                            "-060000",
-                            "0680000"
-                        ],
-                        [
-                            "-060000",
-                            "0750000"
-                        ],
-                        [
-                            "-020000",
-                            "0780000"
-                        ],
-                        [
-                            "020000",
-                            "0780000"
-                        ],
-                        [
-                            "060000",
-                            "0780000"
-                        ],
-                        [
-                            "060000",
-                            "0770000"
-                        ],
-                        [
-                            "060000",
-                            "0740000"
-                        ],
-                        [
-                            "073000",
-                            "0740000"
-                        ],
-                        [
-                            "073000",
-                            "0720000"
-                        ],
-                        [
-                            "073000",
-                            "0700000"
-                        ],
-                        [
-                            "030500",
-                            "0700000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        {
             "id": "VCRI UC2",
-            "group": "APP",
+            "group": "OTHER",
             "owner": [
                 "RIA",
                 "CFC"
@@ -10049,7 +10132,7 @@
         },
         {
             "id": "VCRI UC1",
-            "group": "APP",
+            "group": "OTHER",
             "owner": [
                 "RIA",
                 "CFC"
@@ -11897,91 +11980,8 @@
             ]
         },
         {
-            "id": "VCCF ACC UC",
-            "group": "VCCF",
-            "owner": [
-                "WAC"
-            ],
-            "sectors": [
-                {
-                    "min": 460,
-                    "max": 599,
-                    "points": [
-                        [
-                            "-020000",
-                            "0780000"
-                        ],
-                        [
-                            "020000",
-                            "0780000"
-                        ],
-                        [
-                            "060000",
-                            "0780000"
-                        ],
-                        [
-                            "060000",
-                            "0770000"
-                        ],
-                        [
-                            "070000",
-                            "0770000"
-                        ],
-                        [
-                            "090000",
-                            "0793000"
-                        ],
-                        [
-                            "092558",
-                            "0794306"
-                        ],
-                        [
-                            "094813",
-                            "0795405"
-                        ],
-                        [
-                            "095503",
-                            "0795733"
-                        ],
-                        [
-                            "100000",
-                            "0800000"
-                        ],
-                        [
-                            "100001",
-                            "0803147"
-                        ],
-                        [
-                            "100006",
-                            "0814654"
-                        ],
-                        [
-                            "100000",
-                            "0820000"
-                        ],
-                        [
-                            "060000",
-                            "0920000"
-                        ],
-                        [
-                            "020000",
-                            "0920000"
-                        ],
-                        [
-                            "-020000",
-                            "0920000"
-                        ],
-                        [
-                            "-020000",
-                            "0780000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        {
             "id": "VCCA UC2",
-            "group": "APP",
+            "group": "OTHER",
             "owner": [
                 "CAA",
                 "CFC"
@@ -12169,7 +12169,7 @@
         },
         {
             "id": "VCCA UC1",
-            "group": "APP",
+            "group": "OTHER",
             "owner": [
                 "CAA",
                 "CFC"
@@ -12357,7 +12357,7 @@
         },
         {
             "id": "VCBI UC2",
-            "group": "APP",
+            "group": "OTHER",
             "owner": [
                 "BIA",
                 "CFC"
@@ -12577,7 +12577,7 @@
         },
         {
             "id": "VCBI UC1",
-            "group": "APP",
+            "group": "OTHER",
             "owner": [
                 "BIA",
                 "CFC"
