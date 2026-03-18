@@ -55,12 +55,12 @@ Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
 Datablock:SCTA CFL used warning rectangle:65535:3.5:0:0:7
 Datablock:SCTA warning leader:3289855:3.5:0:3:7
 Datablock:SCTA CFL used warning leader:65535:3.5:0:3:7
-Controller:normal:13816320:3.5:0:0:7
-Controller:breaking:33023:3.5:0:0:7
+Controller:normal:33023:3.5:0:0:7
+Controller:breaking:12615935:3.5:0:0:7
 Controller:timeout:8355711:3.5:0:0:7
-Metar:normal:13816320:3.5:0:0:7
+Metar:normal:33023:3.5:0:0:7
 Metar:modified:8421631:3.5:0:0:7
-Metar:timeout:16777215:3.5:0:0:7
+Metar:timeout:9408399:3.5:0:0:7
 Other:wait:16777215:3.5:0:0:7
 Other:distance line:8234414:3.5:0:0:7
 Other:distance values:8430252:4.0:0:1:7
