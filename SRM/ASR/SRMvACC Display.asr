@@ -23,6 +23,7 @@ ARTCC low boundary:VCCV_TWR Vavunya CTR:
 ARTCC low boundary:VCRI_TWR Mattala CTR:
 ARTCC low boundary:VRDA_TWR Maafaru CTR:
 ARTCC low boundary:VREI_AFIS Ifuru AFIS:
+ARTCC low boundary:VRGD AFIS Area:
 ARTCC low boundary:VRMD_TWR Dharavandhoo CTR:
 ARTCC low boundary:VRMG_TWR Gan CTR:
 ARTCC low boundary:VRMH_TWR Hanimaadhoo CTR:
@@ -97,6 +98,21 @@ Runways:VCCC 04-22:extended centerline 2 left vectoring
 Runways:VCCC 04-22:extended centerline 2 right base
 Runways:VCCC 04-22:extended centerline 2 right ticks
 Runways:VCCC 04-22:extended centerline 2 right vectoring
+Runways:VCCG 07-25:centerline
+Runways:VCCG 07-25:extended centerline 1
+Runways:VCCG 07-25:extended centerline 1 left base
+Runways:VCCG 07-25:extended centerline 1 left ticks
+Runways:VCCG 07-25:extended centerline 1 left vectoring
+Runways:VCCG 07-25:extended centerline 1 right base
+Runways:VCCG 07-25:extended centerline 1 right ticks
+Runways:VCCG 07-25:extended centerline 1 right vectoring
+Runways:VCCG 07-25:extended centerline 2
+Runways:VCCG 07-25:extended centerline 2 left base
+Runways:VCCG 07-25:extended centerline 2 left ticks
+Runways:VCCG 07-25:extended centerline 2 left vectoring
+Runways:VCCG 07-25:extended centerline 2 right base
+Runways:VCCG 07-25:extended centerline 2 right ticks
+Runways:VCCG 07-25:extended centerline 2 right vectoring
 Runways:VCCH 07-25:centerline
 Runways:VCCH 07-25:extended centerline 1
 Runways:VCCH 07-25:extended centerline 1 left base
@@ -127,6 +143,36 @@ Runways:VCCJ 05-23:extended centerline 2 left vectoring
 Runways:VCCJ 05-23:extended centerline 2 right base
 Runways:VCCJ 05-23:extended centerline 2 right ticks
 Runways:VCCJ 05-23:extended centerline 2 right vectoring
+Runways:VCCK 07-25:centerline
+Runways:VCCK 07-25:extended centerline 1
+Runways:VCCK 07-25:extended centerline 1 left base
+Runways:VCCK 07-25:extended centerline 1 left ticks
+Runways:VCCK 07-25:extended centerline 1 left vectoring
+Runways:VCCK 07-25:extended centerline 1 right base
+Runways:VCCK 07-25:extended centerline 1 right ticks
+Runways:VCCK 07-25:extended centerline 1 right vectoring
+Runways:VCCK 07-25:extended centerline 2
+Runways:VCCK 07-25:extended centerline 2 left base
+Runways:VCCK 07-25:extended centerline 2 left ticks
+Runways:VCCK 07-25:extended centerline 2 left vectoring
+Runways:VCCK 07-25:extended centerline 2 right base
+Runways:VCCK 07-25:extended centerline 2 right ticks
+Runways:VCCK 07-25:extended centerline 2 right vectoring
+Runways:VCCN 11-29:centerline
+Runways:VCCN 11-29:extended centerline 1
+Runways:VCCN 11-29:extended centerline 1 left base
+Runways:VCCN 11-29:extended centerline 1 left ticks
+Runways:VCCN 11-29:extended centerline 1 left vectoring
+Runways:VCCN 11-29:extended centerline 1 right base
+Runways:VCCN 11-29:extended centerline 1 right ticks
+Runways:VCCN 11-29:extended centerline 1 right vectoring
+Runways:VCCN 11-29:extended centerline 2
+Runways:VCCN 11-29:extended centerline 2 left base
+Runways:VCCN 11-29:extended centerline 2 left ticks
+Runways:VCCN 11-29:extended centerline 2 left vectoring
+Runways:VCCN 11-29:extended centerline 2 right base
+Runways:VCCN 11-29:extended centerline 2 right ticks
+Runways:VCCN 11-29:extended centerline 2 right vectoring
 Runways:VCCS 04-22:centerline
 Runways:VCCS 04-22:extended centerline 1
 Runways:VCCS 04-22:extended centerline 1 left base
@@ -172,6 +218,21 @@ Runways:VCCV 05-23:extended centerline 2 left vectoring
 Runways:VCCV 05-23:extended centerline 2 right base
 Runways:VCCV 05-23:extended centerline 2 right ticks
 Runways:VCCV 05-23:extended centerline 2 right vectoring
+Runways:VCCW 07-25:centerline
+Runways:VCCW 07-25:extended centerline 1
+Runways:VCCW 07-25:extended centerline 1 left base
+Runways:VCCW 07-25:extended centerline 1 left ticks
+Runways:VCCW 07-25:extended centerline 1 left vectoring
+Runways:VCCW 07-25:extended centerline 1 right base
+Runways:VCCW 07-25:extended centerline 1 right ticks
+Runways:VCCW 07-25:extended centerline 1 right vectoring
+Runways:VCCW 07-25:extended centerline 2
+Runways:VCCW 07-25:extended centerline 2 left base
+Runways:VCCW 07-25:extended centerline 2 left ticks
+Runways:VCCW 07-25:extended centerline 2 left vectoring
+Runways:VCCW 07-25:extended centerline 2 right base
+Runways:VCCW 07-25:extended centerline 2 right ticks
+Runways:VCCW 07-25:extended centerline 2 right vectoring
 Runways:VCRI 05-23:centerline
 Runways:VCRI 05-23:extended centerline 1
 Runways:VCRI 05-23:extended centerline 1 left base
@@ -217,6 +278,21 @@ Runways:VREI 18-36:extended centerline 2 left vectoring
 Runways:VREI 18-36:extended centerline 2 right base
 Runways:VREI 18-36:extended centerline 2 right ticks
 Runways:VREI 18-36:extended centerline 2 right vectoring
+Runways:VRGD 18-36:centerline
+Runways:VRGD 18-36:extended centerline 1
+Runways:VRGD 18-36:extended centerline 1 left base
+Runways:VRGD 18-36:extended centerline 1 left ticks
+Runways:VRGD 18-36:extended centerline 1 left vectoring
+Runways:VRGD 18-36:extended centerline 1 right base
+Runways:VRGD 18-36:extended centerline 1 right ticks
+Runways:VRGD 18-36:extended centerline 1 right vectoring
+Runways:VRGD 18-36:extended centerline 2
+Runways:VRGD 18-36:extended centerline 2 left base
+Runways:VRGD 18-36:extended centerline 2 left ticks
+Runways:VRGD 18-36:extended centerline 2 left vectoring
+Runways:VRGD 18-36:extended centerline 2 right base
+Runways:VRGD 18-36:extended centerline 2 right ticks
+Runways:VRGD 18-36:extended centerline 2 right vectoring
 Runways:VRMD 12-30:centerline
 Runways:VRMD 12-30:extended centerline 1
 Runways:VRMD 12-30:extended centerline 1 left base
@@ -395,4 +471,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:-0.00000
 TAGFAMILY:SRM TopSky
-WINDOWAREA:-7.745664:56.358772:10.660678:89.799059
+WINDOWAREA:-9.003855:58.818748:14.004073:100.619108
