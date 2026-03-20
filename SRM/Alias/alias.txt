@@ -24,16 +24,29 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2602/1  ++  File-Publisher: Sri Lanka & Maldives vACC - SRM                                                      ;
+;  AIRAC 2603/1  ++  File-Publisher: Sri Lanka & Maldives vACC - SRM                                                      ;
 ;=========================================================================================================================;
 ;*** 1. Initial Contact ***
 .cwr .msg $aircraft Hello. $radioname is providing top-down service for $dep. Please contact me on $freq when you are ready.
 .ci .msg $aircraft NO MOVEMENT without ATC permission please! $radioname is providing top-down service for $dep. HOLD POSITION and contact me IMMEDIATELY on $freq!
-.v Confirm are you able receive voice? Be advised as per VATSIM CoC Sections A14 (c) and (d). Pilots MUST at least be capable voice receive at bare minimum. Other reasons like Audio Issues, Language compabillities etc... Unfortunate you have to fly offline. Unless you have hearing disability, usage a lower level of voice capability or any of recoginzed disability must be explained and approved by a Network Supervisor.
-.icaocs .msg $aircraft Hello, we mainly use ICAO Callsign on VATSIM Network. Please change into $1 and re-file your FPL accordingly. Thank you.
+.icaocs .msg $aircraft Hello, we mainly use ICAO 3-Letter Callsign on VATSIM Network. Please change into $1 and re-file your FPL accordingly. Thank you.
 .afk "ATTENTION ALL AIRCRAFTS", $radioname will be AFK around $1 mins. If you have ATC requests, Please Send via text. will sort them accordingly upon return. 
-.clsd "ATTENTION ALL AIRCRAFTS", $radioname is NOW CLOSED. Monitor Advisory 122.8. Enjoy your flights. bye bye.
-.sd "ATTENTION ALL AIRCRAFTS", $radioname will be closing in $1 mins.
+.back "ATTENTION ALL AIRCRAFTS" $radioname is now back.
+.clsd "ATTENTION ALL AIRCRAFTS", $radioname is NOW CLOSED. Monitor Advisory 122.8. Safe flights. bye bye.
+.sd "ATTENTION ALL AIRCRAFTS", $radioname will be closing in $1 mins. 
+.co .contactme
+
+;*** 10. Reroute ***
+.routefull .msg $aircraft Hello, Your Filed flightplan route is Total Invalid, Expect Full Revised Route as follows: "$1". Please Reprogram the mentioned revised route onto FMS. ATC will Modify the changes, NO FURTHER ACTIONS REQUIRED.
+.routefix .msg $aircraft Hello, One part of your filed flightplan route is Invalid, Expect Full Revised Route as follows: "$1" Then planned route. Please Reprogram the mentioned revised route onto FMS. ATC will Modify the changes, NO FURTHER ACTIONS REQUIRED.
+
+;*** 11. Pre-Departure Clearance ***
+.pdc .msg $aircraft $dep PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(20) ... ATIS $atiscode ... SID ALTITUDE IS $temp. REPORT READY FOR PUSH $com // END OF ACARS MESSAGE NO READ-BACK REQUIRED \\
+.pdc2 .msg $aircraft $dep PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(20) ... ATIS $atiscode ... SID ALTITUDE IS $temp. REPORT READY FOR PUSH $1 // END OF ACARS MESSAGE NO READ-BACK REQUIRED \\
+.pdcaa .msg $aircraft PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(20) ... ATIS $atiscode ... SID ALTITUDE IS $temp. WHEN READY FOR PUSH, MONITOR $com // END OF ACARS MESSAGE NO READ-BACK REQUIRED \\
+.pdcaa2 .msg $aircraft PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA $sid ... SQUAWK $asquawk ... ADT $ftime(20) ... ATIS $atiscode ... SID ALTITUDE IS $temp. WHEN READY FOR PUSH, MONITOR $1 // END OF ACARS MESSAGE NO READ-BACK REQUIRED \\
+.pdco .msg $aircraft $dep PRE-DEPARTURE CLEARANCE ... $aircraft CLRD TO $arr OFF $deprwy VIA RUNWAY HEADING ... SQUAWK $asquawk ... ADT $ftime(20) ... ATIS $atiscode ... SID ALTITUDE IS $temp. REPORT READY FOR PUSH $com // END OF ACARS MESSAGE NO READ-BACK REQUIRED \\
+.nopdc PDC UNAVAILABLE. CALL VOICE $com
 
 ;*** 2. Runway Management ***
 .cr Via $1, cross runway $2
@@ -60,11 +73,11 @@
 
 ;*** 3. Handoff ***
 .ho Contact $radioname($1) ($atccallsign($1)) $freq($1). Safe flight to $arr Bye Bye!
-.rh Report your heading to $radioname($1) ($atccallsign($1)) $freq($1)
-.rs Report your speed to $radioname($1) ($atccallsign($1)) $freq($1)
+.rh Report your heading to $radioname($1) ($atccallsign($1)) $freq($1). Bye Bye!
+.rs Report your speed to $radioname($1) ($atccallsign($1)) $freq($1). Bye Bye!
 .mon Monitor $radioname($1) ($atccallsign($1)) $freq($1)
-.oma You are currently outside my airspace. Please Monitor Advisory 122.8
-.uni You are leaving my airspace, No Further ATC on the next Sector. Monitor Advisory 122.8. Safe flight to $arr Bye Bye!
+.oma You are currently outside my airspace. Please Monitor Advisory 122.8. Refer to VAT-Spy Data
+.uni You are leaving my airspace, No Further ATC Available. Monitor Advisory 122.8. Safe flight to $arr. Bye Bye!
 
 ;*** 4. ATC Online/Offline ***
 .on /Good Day, $radioname is online.
@@ -73,14 +86,15 @@
 
 ;*** 5. Radar ***
 .rdr Identified, $calt, continue flight plan route.
-.radar Identified, $calt, continue climb $alt.
-.clun Identified, Climb Unrestricted $alt.
+.radar Identified, $alt, continue climb $calt.
+.clun Identified, Climb Unrestricted $calt.
 .id1 Identified, Maintain $alt, Continue Flight Plan Route.
 .id2 Identified, Maintain $alt.
-.starrnp Cleared into $arr, via the $star Arrival, Expect RNP Approach Runway $arrrwy. Report ready for descend.
-.star Cleared into $arr, via the $star Arrival, Expect ILS $1 Approach Runway $arrrwy. Report ready for descend.
+.exapp Expect $1 Approach RWY $arrrwy.
+.starapp Cleared into $arr, $star Arrival, Expect $1 Approach Runway $arrrwy. Report ready for descend.
+.star Cleared into $arr, $star Arrival, Runway $arrrwy. Report ready for descend.
 .sirpa Squawk Ident, report your passing altitude?
-.rpa Report your passing altitude?
+.rpa Report your passing altitude please?
 .sqk Confirm Squawk $squawk
 .sqc Set Squawk Mode C Please.
 .si Squawk Ident.
@@ -96,12 +110,14 @@
 .desqnh Descend to altitude $alt, $1 QNH $altim($arr)
 
 ;*** 7. Speed ***
-.ias Report your Indicated speed.
+.ias Report your Indicated speed?
+.mach Report Mach Number?
 .rias Reduce speed $1 kts.
-.rias2 Reduce speed $1 kts or less.
-.rmin Reduce speed to minimum clean speed.
+.aias speed $1 kts or #2.
+.rmin Reduce to minimum clean speed.
 .rfinal Reduce to final approach speed.
 .ianm Speed $1 kts until $2nm Final.
+.onco On Conversion, Speed $1 kts or #2.
 
 ;*** 8. Emergency ***
 .emergency Your emergency has been acknowledged. How much fuel and how many passengers do you have on board.
@@ -111,13 +127,13 @@
 
 ;*** 9. Clearance and Taxi ***
 .clr Cleared to Destination $arr, $sid Departure, Runway $deprwy. Initial Climb $alt, Squawk $asquawk.
-.clmod Cleared to Destination $arr, $sid Departure, Runway $deprwy, $1 Flight Plan Route, Initial Climb $alt, Squawk $asquawk. 
+.clfix Cleared to Destination $arr, $sid Departure, Runway $deprwy, $1 Flight Plan Route, Initial Climb $alt, Squawk $asquawk. 
 .rc1 Readback is correct, report when ready for push and start.
-.rc2 Readback is correct, push and start at your own discretion, report when ready for taxi. QNH $altim($dep).
+.rc2 Readback is correct, push and start at your own discretion, report when ready for taxi. $1 QNH $altim($dep).
 .ps QNH $altim($dep). Push and Start Approved.
 .psface QNH $altim($dep). Push and Start Approved. Face $1.
-.taxi Taxi to holding point $1, runway $deprwy, via $2.
-.taxi1 Taxi to holding point runway $deprwy. QNH $alt($dep).
+.taxi Taxi via $1 holding point $1 runway $deprwy.
+.taxi1 Taxi to holding point runway $deprwy.
 .taxifollow Taxi to holding point $1, runway $deprwy, follow company traffic $2. QNH $alt($dep).
 .ratsm Report your Aircraft Type and Stand Number.
 
