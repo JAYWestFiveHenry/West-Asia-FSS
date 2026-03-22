@@ -1,0 +1,93 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\ghtra\Documents\EuroScope\W_ASIA_FSS\VATWA_FSS\Sector File\VATWA_FSS-master.sct
+SECTORTITLE:VATWA_FSS-master.sct
+ARTCC boundary:OAKX:
+ARTCC boundary:OPKR:
+ARTCC boundary:OPLR:
+ARTCC boundary:VAAH_CTR:
+ARTCC boundary:VABB_CTR:
+ARTCC boundary:VABF:
+ARTCC boundary:VABX_CTR:
+ARTCC boundary:VANP_CTR:
+ARTCC boundary:VCCF:
+ARTCC boundary:VEBN_CTR:
+ARTCC boundary:VECC-B_CTR:
+ARTCC boundary:VECC-R_CTR:
+ARTCC boundary:VECC_CTR:
+ARTCC boundary:VECF:
+ARTCC boundary:VECX_CTR:
+ARTCC boundary:VEGF:
+ARTCC boundary:VGFR:
+ARTCC boundary:VIDF:
+ARTCC boundary:VIDP_CTR:
+ARTCC boundary:VILK_CTR:
+ARTCC boundary:VNSM:
+ARTCC boundary:VOBL_CTR:
+ARTCC boundary:VOCI_CTR:
+ARTCC boundary:VOHS_CTR:
+ARTCC boundary:VOMF:
+ARTCC boundary:VOML_CTR:
+ARTCC boundary:VOMM_CTR:
+ARTCC boundary:VOMX_CTR:
+ARTCC boundary:VOTV_CTR:
+ARTCC boundary:VRMF:
+ARTCC low boundary:OAKB_CTA:
+ARTCC low boundary:OAKB_TMA:
+ARTCC low boundary:OPKC_APP:
+ARTCC low boundary:VAAU_TMA:
+ARTCC low boundary:VABB_CTA:
+ARTCC low boundary:VCBI_TMA:
+ARTCC low boundary:VGHS_APP:
+ARTCC low boundary:VNKT_APP:
+ARTCC low boundary:VOBL_CTA:
+ARTCC low boundary:VOMM_CTA:
+ARTCC low boundary:VRMM_APP:
+Free Text:ACC\OPKR-E_CTR:freetext
+Free Text:ACC\OPKR-N_CTR:freetext
+Free Text:ACC\OPKR-S_CTR:freetext
+Free Text:ACC\OPKR-W_CTR:freetext
+Free Text:ACC\OPLR-E_CTR:freetext
+Free Text:ACC\OPLR-W_CTR:freetext
+Free Text:ACC\VAAH (AHMEDABAD):freetext
+Free Text:ACC\VABB (MUMBAI):freetext
+Free Text:ACC\VANP (NAGPUR):freetext
+Free Text:ACC\VEBN (VARANASI):freetext
+Free Text:ACC\VECC (KOLKATA):freetext
+Free Text:ACC\VECC-B (BHUBANESHWAR):freetext
+Free Text:ACC\VECC-R (RAIPUR):freetext
+Free Text:ACC\VIDP (DELHI):freetext
+Free Text:ACC\VILK (LUCKNOW):freetext
+Free Text:ACC\VOBL (BENGALURU):freetext
+Free Text:ACC\VOCI (COCHIN):freetext
+Free Text:ACC\VOHS (HYDERABAD):freetext
+Free Text:ACC\VOML (MANGALORE):freetext
+Free Text:ACC\VOMM (CHENNAI):freetext
+Free Text:ACC\VOTV (TRIVANDRUM):freetext
+Free Text:FIRS\BHUTAN:freetext
+Free Text:FIRS\OAKX (KABUL):freetext
+Free Text:FIRS\VABX (MUMBAI RADIO):freetext
+Free Text:FIRS\VCCF (COLOMBO):freetext
+Free Text:FIRS\VECX (KOLKATA RADIO):freetext
+Free Text:FIRS\VEGF (GUWAHATI):freetext
+Free Text:FIRS\VGFR (DHAKA):freetext
+Free Text:FIRS\VIDF:freetext
+Free Text:FIRS\VNSM (KATHMANDU):freetext
+Free Text:FIRS\VOMX (CHENNAI RADIO):freetext
+Free Text:FIRS\VRMF (MALE):freetext
+Geo:GEO:
+SHOWC:1
+SHOWSB:1
+BELOW:24500
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:SRM TopSky
+WINDOWAREA:-9.272970:25.728543:42.292819:124.703959

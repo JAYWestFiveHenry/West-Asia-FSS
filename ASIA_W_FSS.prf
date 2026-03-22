@@ -1,0 +1,66 @@
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	Settingsfile	\VATWA_FSS\Settings\General.txt
+Settings	SettingsfileARR	\VATWA_FSS\Settings\ArrivalList.txt
+Settings	SettingsfileCONFLICT	\VATWA_FSS\Settings\ConflictList.txt
+Settings	SettingsfileDEP	\VATWA_FSS\Settings\DepartureList.txt
+Settings	SettingsfileFP	\VATWA_FSS\Settings\FlightPlanList.txt
+Settings	SettingsfilePLUGINS	\VATWA_FSS\Settings\Plugin.txt
+Settings	SettingsfilePROFILE	\VATWA_FSS\Settings\Profiles.txt
+Settings	SettingsfileSCREEN	\VATWA_FSS\Settings\Screen.txt
+Settings	SettingsfileSEL	\VATWA_FSS\Settings\SectorExitList.txt
+Settings	SettingsfileSIL	\VATWA_FSS\Settings\SectorInboundList.txt
+Settings	SettingsfileSYMBOLOGY	\VATWA_FSS\Settings\Symbology.txt
+Settings	SettingsfileTAGS	\VATWA_FSS\Settings\Tags.txt
+Settings	SettingsfileVCCS	\VATWA_FSS\Settings\VCCS.txt
+Settings	SettingsfileVOICE	\VATWA_FSS\Settings\VoiceChannels.txt
+Settings	aircraft	\VATWA_FSS\DataFiles\ICAO_Aircraft.txt
+Settings	airlines	\VATWA_FSS\DataFiles\ICAO_Airlines.txt
+Settings	airportcoords	\VATWA_FSS\DataFiles\icao.txt
+Settings	airports	\VATWA_FSS\DataFiles\ICAO_Airports.txt
+Settings	airways	\VATWA_FSS\DataFiles\airway.txt
+Settings	alias	\VATWA_FSS\Alias\alias.txt
+Settings	sector	\VATWA_FSS\Sector File\VATWA_FSS-master.sct
+Sounds	Sound0	\VATWA_FSS\Sounds\handoff_request.wav
+Sounds	Sound1	\VATWA_FSS\Sounds\handoff_accept.wav
+Sounds	Sound10	\VATWA_FSS\Sounds\disconnected.wav
+Sounds	Sound11	\VATWA_FSS\Sounds\ongoing_request.wav
+Sounds	Sound12	\VATWA_FSS\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\VATWA_FSS\Sounds\ongoing_refused.wav
+Sounds	Sound14	\VATWA_FSS\Sounds\ongoing_manual.wav
+Sounds	Sound15	\VATWA_FSS\Sounds\new_atis.wav
+Sounds	Sound16	\VATWA_FSS\Sounds\handoff_refused.wav
+Sounds	Sound17	\VATWA_FSS\Sounds\pointout.wav
+Sounds	Sound18	\VATWA_FSS\Sounds\startup.wav
+Sounds	Sound2	\VATWA_FSS\Sounds\conflict_alert.wav
+Sounds	Sound3	\VATWA_FSS\Sounds\radio_message.wav
+Sounds	Sound4	\VATWA_FSS\Sounds\private_message.wav
+Sounds	Sound5	\VATWA_FSS\Sounds\atc_message.wav
+Sounds	Sound6	\VATWA_FSS\Sounds\broadcast_message.wav
+Sounds	Sound7	\VATWA_FSS\Sounds\landline_request.wav
+Sounds	Sound8	\VATWA_FSS\Sounds\supervisor_message.wav
+Sounds	Sound9	\VATWA_FSS\Sounds\connected.wav
+LastSession	connecttype	0
+LastSession	callsign	ASIA_W_FSS
+LastSession	facility	1
+LastSession	rating	4
+LastSession	tovatsim	1
+LastSession	atis2	"West Asia Control" | Covering Above FL245 ONLY | [CPDLC - ASIW] 
+LastSession	atis4	Audio Receivers on VABX,VCCF,VRMF FIRs are affected - Please Respond via Text and CPDLC
+LastSession	range	1500
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+RecentFiles	Recent1	\VATWA_FSS\ASR\West Asia Control.asr
+Plugins	Plugin0	\VATWA_FSS\Plugins\Discord Euroscope\DiscordEuroscope.dll
+Plugins	Plugin1	\VATWA_FSS\Plugins\TopSky\TopSky.dll
+Plugins	Plugin2	\VATWA_FSS\Plugins\RDF\RDFPlugin.dll
+RecentFiles	Recent2	\VATWA_FSS\ASR\West Asia Control.asr
+LastSession	atis_freq4	118000
+LastSession	realname	Gia Huy Tran
+LastSession	certificate	1442675
+LastSession	password	cz11Mrc9
+LastSession	server	AUTOMATIC
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin1Display0	Standard ES radar screen
+LastSession	atis_freq3	118000
+LastSession	atis3	Live Streaming on YouTube Channel -> JAYWestFiveHenry

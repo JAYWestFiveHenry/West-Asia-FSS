@@ -1,0 +1,10 @@
+PROFILE
+PROFILE:<Initials>_OBS:200:0
+ATIS2:West Asia Flight Service Station Observer
+ATIS3:Observing West Asia Control
+ATIS4:www.vatwa.net
+PROFILE:ASIA_W_FSS:1500:1
+ATIS2:"West Asia Control" | Covering Above FL245 ONLY | [CPDLC - ASIW] 
+ATIS3:Live Streaming on YouTube -> JAYWestFiveHenry
+ATIS4:Audio Receivers on VABX,VCCF,VRMF FIRs are affected - Please Respond via Text and CPDLC
+END
