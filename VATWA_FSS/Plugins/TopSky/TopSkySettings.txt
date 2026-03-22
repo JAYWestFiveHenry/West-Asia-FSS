@@ -174,4 +174,15 @@ Vector_QDM_Airports=0
 Vector_MinSep_FontSize=10
 Vector_MinSep_Label_Time=1
 
+//COLOR SETTINGS
+Color_Background=38,38,38
+Color_Border=19,19,19
+Color_WM_Bg=81,81,81
+Color_WM_Border=54,54,54
+Color_WM_Fg=200,200,200
 
+Color_Unconcerned=131,131,131
+Color_Concerned=204,160,56
+Color_Coordination=204,160,56
+Color_Assumed=0,200,80
+Color_Redundant=204,160,56

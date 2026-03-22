@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\ghtra\Documents\EuroScope\W_ASIA_FSS\VATWA_FSS\Sector File\VATWA_FSS-master.sct
+SECTORFILE:C:\Users\ghtra\Documents\EuroScope\West Asia FSS\VATWA_FSS\Sector File\VATWA_FSS-master.sct
 SECTORTITLE:VATWA_FSS-master.sct
 ARTCC boundary:OAKX:
 ARTCC boundary:OPKR:
@@ -90,4 +90,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:SRM TopSky
-WINDOWAREA:-9.272970:25.728543:42.292819:124.703959
+WINDOWAREA:4.284076:42.560097:37.286181:105.904363
