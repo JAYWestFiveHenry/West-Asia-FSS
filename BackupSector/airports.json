@@ -1,0 +1,102 @@
+{
+    "airports": {
+        "VRDA": {
+            "callsign": "Maafaru Intl",
+            "coord": [
+                5.818572,
+                73.469708
+            ]
+        },
+        "VREI": {
+            "callsign": "Ungoofaaru Ifuru",
+            "coord": [
+                5.708333,
+                73.025
+            ]
+        },
+        "VRGD": {
+            "callsign": "Madivaru",
+            "coord": [
+                5.457778,
+                73.370278
+            ]
+        },
+        "VRMD": {
+            "callsign": "Dharavandhoo",
+            "coord": [
+                5.156225,
+                73.130275
+            ]
+        },
+        "VRMG": {
+            "callsign": "Gan Intl",
+            "coord": [
+                -0.68306,
+                73.15
+            ]
+        },
+        "VRMH": {
+            "callsign": "Hanimaadhoo Intl",
+            "coord": [
+                6.746111,
+                73.168333
+            ]
+        },
+        "VRMK": {
+            "callsign": "Kadhdhoo",
+            "coord": [
+                1.858333,
+                73.519722
+            ]
+        },
+        "VRMM": {
+            "callsign": "Male Velana Intl",
+            "coord": [
+                4.19165,
+                73.529144
+            ]
+        },
+        "VRMO": {
+            "callsign": "Kooddoo",
+            "coord": [
+                0.733333,
+                73.434167
+            ]
+        },
+        "VRMR": {
+            "callsign": "Fuvahmulah",
+            "coord": [
+                -0.309444,
+                73.432778
+            ]
+        },
+        "VRMT": {
+            "callsign": "Kaadedhdhoo",
+            "coord": [
+                0.488333,
+                72.996111
+            ]
+        },
+        "VRMU": {
+            "callsign": "Dhaalu",
+            "coord": [
+                2.666119,
+                72.886303
+            ]
+        },
+        "VRMV": {
+            "callsign": "Maamigili Villa Intl",
+            "coord": [
+                3.471611,
+                72.8345
+            ]
+        },
+        "VRNT": {
+            "callsign": "Thimarafushi",
+            "coord": [
+                2.210794,
+                73.153033
+            ]
+        }
+    }
+}

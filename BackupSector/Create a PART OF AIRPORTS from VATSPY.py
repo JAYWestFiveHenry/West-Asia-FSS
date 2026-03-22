@@ -6,18 +6,20 @@
 ### DO NOT FORGET TO ADD THE TOPDOWN KEY FOR RELEVANT AIRPORTS AFTERWARDS ###
 
 airports_to_convert = """
-EBAM|Amougies|50.739444|3.486111||EBBU|0
-EBAR|Arlon/Sterpenich|49.662778|5.886944|QON|EBBU|0
-EBAV|Hannut/Avernas-Le-Bauduin|50.706667|5.068056||EBBU|0
-EBAW|Antwerpen|51.189444|4.460278||EBBU|0
-EBBE|Beauvechain|50.757833|4.767||EBBU|0
-EBBL|Kleine Brogel|51.168333|5.469722||EBBU|0
-EBBN|Buellingen|50.415|6.276389||EBBU|0
-EBBR|Bruxelles National|50.901389|4.484444||EBBU|0
-EBBT|Brasschaat|51.33306|4.5||EBBU|0
-EBBX|Bertrix Bel- AFB|49.89972|5.21639||EBBU|0
-EBBY|Genappe/Baisy-Thy|50.568611|4.434722||EBBU|0
-EBBZ|Pont-A-Celles/Buzet|50.541667|4.381111||EBBU|0
+VRDA|Maafaru Intl|5.818572|73.469708||VRMF|0
+VREI|Ungoofaaru Ifuru|5.7083330|73.0250000||VRMF|0
+VRGD|Madivaru|5.4577780|73.3702780||VRMF|0
+VRMD|Dharavandhoo|5.156225|73.130275|DRV|VRMF|0
+VRMG|Gan Intl|-0.68306|73.15||VRMF|0
+VRMH|Hanimaadhoo Intl|6.746111|73.168333|HAQ|VRMF|0
+VRMK|Kadhdhoo|1.858333|73.519722|KDO|VRMF|0
+VRMM|Male Velana Intl|4.19165|73.529144||VRMF|0
+VRMO|Kooddoo|0.733333|73.434167|GKK|VRMF|0
+VRMR|Fuvahmulah|-0.309444|73.432778|FVM|VRMF|0
+VRMT|Kaadedhdhoo|0.488333|72.996111|KDM|VRMF|0
+VRMU|Dhaalu|2.666119|72.886303||VRMF|0
+VRMV|Maamigili Villa Intl|3.471611|72.8345|VAM|VRMF|0
+VRNT|Thimarafushi|2.210794|73.153033||VRMF|0
 """
 lines = airports_to_convert.split("\n")
 lines = [x for x in lines if x != '']
@@ -39,7 +41,7 @@ final_dictionary = {
 
 # Directly from dictionary
 import json
-with open('./Output/airports.json', 'w') as outfile:
+with open('BackupSector/airports.json', 'w') as outfile:
     ### DO NOT FORGET TO ADD THE TOPDOWN KEY FOR RELEVANT AIRPORTS ###
     json.dump(final_dictionary, outfile)
 
