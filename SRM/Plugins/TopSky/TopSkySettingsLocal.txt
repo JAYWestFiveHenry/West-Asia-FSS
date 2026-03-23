@@ -23,11 +23,6 @@ Window_ASM_Chars_MapText=20
 Window_ASM_Chars_Cat=5
 Window_ASM_Chars_User=12
 Window_Clock=3,1520,950
-Window_CARD=3,0,650
-Window_CARD_RefreshRate=10
-Window_CPDLC_Current=1,1550,380
-Window_CPDLC_Current_MaxListItems=5
-Window_CPDLC_Setting=1,0,355
 
 //WINDOW LIST SETTINGS
 List_Holding=1695,200
@@ -35,6 +30,8 @@ List_Holding_MaxItems=5
 List_Holding_States=23457
 
 [_CTR]
+Window_CARD=3,0,650
+Window_CARD_RefreshRate=10
 System_FPASD=1
 System_FPASD_MinState=1
 
@@ -55,6 +52,11 @@ STCA_LinPred_Sep_Vert_U=750
 STCA_LinPred_Sep_Vert_L=750
 STCA_LevelOff_Sep_Vert_U=700
 STCA_LevelOff_Sep_Vert_L=700
+Window_CARD=3,0,650
+Window_CARD_RefreshRate=10
+Window_CPDLC_Current=1,1550,380
+Window_CPDLC_Current_MaxListItems=5
+Window_CPDLC_Setting=1,0,355
 
 [VCCF_CTR]
 STCA_Coarse_Sep_Lat_U=10
@@ -73,8 +75,15 @@ STCA_LinPred_Sep_Vert_U=750
 STCA_LinPred_Sep_Vert_L=750
 STCA_LevelOff_Sep_Vert_U=700
 STCA_LevelOff_Sep_Vert_L=700
+Window_CARD=3,0,650
+Window_CARD_RefreshRate=10
+Window_CPDLC_Current=1,1550,380
+Window_CPDLC_Current_MaxListItems=5
+Window_CPDLC_Setting=1,0,355
 
 [_APP]
+Window_CARD=3,0,650
+Window_CARD_RefreshRate=10
 MTCD=1
 
 [VCBI_APP]
@@ -84,6 +93,8 @@ STCA_LinPred_Sep_Lat_U=4.5
 STCA_LinPred_Sep_Lat_L=4.5
 STCA_CurrProx_Sep_Lat_U=4.75
 STCA_CurrProx_Sep_Lat_L=4.75
+Window_CARD=3,0,650
+Window_CARD_RefreshRate=10
 
 [VRMM_APP]
 STCA_Coarse_Sep_Lat_U=7
@@ -92,6 +103,8 @@ STCA_LinPred_Sep_Lat_U=4.5
 STCA_LinPred_Sep_Lat_L=4.5
 STCA_CurrProx_Sep_Lat_U=4.75
 STCA_CurrProx_Sep_Lat_L=4.75
+Window_CARD=3,0,650
+Window_CARD_RefreshRate=10
 
 [_TWR]
 MTCD=0
