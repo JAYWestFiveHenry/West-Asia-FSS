@@ -46,7 +46,7 @@ LastSession	facility	1
 LastSession	rating	4
 LastSession	tovatsim	1
 LastSession	atis2	"West Asia Control" | ATS Above FL245 ONLY | [CPDLC - ASIW] 
-LastSession	atis4	Audio Receivers on VABX,VCCF,VRMF FIRs are affected - Please Respond via Text and CPDLC
+LastSession	atis4	NO Top-down Coverage - DO NOT CONTACT FOR CLEARANCE
 LastSession	range	1500
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
@@ -54,7 +54,6 @@ RecentFiles	Recent1	\VATWA_FSS\ASR\West Asia Control.asr
 Plugins	Plugin0	\VATWA_FSS\Plugins\Discord Euroscope\DiscordEuroscope.dll
 Plugins	Plugin1	\VATWA_FSS\Plugins\TopSky\TopSky.dll
 Plugins	Plugin2	\VATWA_FSS\Plugins\RDF\RDFPlugin.dll
-RecentFiles	Recent2	\VATWA_FSS\ASR\West Asia Control.asr
 LastSession	atis_freq4	118000
 LastSession	realname	Gia Huy Tran
 LastSession	certificate	1442675
@@ -63,4 +62,4 @@ LastSession	server	AUTOMATIC
 Plugins	Plugin2Display0	Standard ES radar screen
 Plugins	Plugin1Display0	Standard ES radar screen
 LastSession	atis_freq3	118000
-LastSession	atis3	ATC Live Streaming on YouTube Channel -> JAYWestFiveHenry
+LastSession	atis3	Occasionally Live Streaming on YouTube -> JAYWestFiveHenry

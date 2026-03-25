@@ -18,5 +18,6 @@ m_Column:ETN:5:1:10016:0:0:1:TopSky plugin:::0:0.0
 m_Column:COPN:5:1:10004:45:21:1:TopSky plugin:TopSky plugin::0:3.5
 m_Column:DEP:5:1:395:7:7:1:TopSky plugin:::3:3.5
 m_Column:DEST:5:1:79:7:99:1:TopSky plugin::TopSky plugin:4:3.5
-m_Column:ATC:4:1:66:20:20:1:TopSky plugin:::8:3.5
+m_Column:ATC:4:1:15:0:0:1::::8:3.5
+m_Column:SCRATCH PAD:15:1:155:2:2:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
 END

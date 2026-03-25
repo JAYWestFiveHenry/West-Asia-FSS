@@ -5,6 +5,6 @@ ATIS3:Observing West Asia Control
 ATIS4:www.vatwa.net
 PROFILE:ASIA_W_FSS:1500:1
 ATIS2:"West Asia Control" | ATS Above FL245 ONLY | [CPDLC - ASIW] 
-ATIS3:ATC Live Streaming on YouTube Channel -> JAYWestFiveHenry
-ATIS4:Audio Receivers on VABX,VCCF,VRMF FIRs are affected - Please Respond via Text and CPDLC
+ATIS3:Occasionally Live Streaming on YouTube -> JAYWestFiveHenry
+ATIS4:NO Top-down Coverage - DO NOT CONTACT FOR CLEARANCE
 END
