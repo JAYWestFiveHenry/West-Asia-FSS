@@ -6,9 +6,10 @@
 .cw .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when
 .cp .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing $uc($1).
 
-;*** Clearance ***
+;*** Comms Capablibillity ***
 .r Confirm you can receive voice transmissions?
 .t Confirm transmission via text only or able to receive voice?
+.audiorx Due to Broken Audio receivers on $1 Sector, ATCO Might unable to hear your transmissions, Please Switch to Text Communications and CPDLC Datalink. 
 
 ;*** Handoff ***
 .co Contact $radioname($1) $freq($1), Safe Flight Bye.
@@ -28,10 +29,10 @@
 
 ;*** Initial Contact ***
 .h $radioname, hello. 
-.gd $radioname, good day. 
 .id Identified. 
 .v? Are you able to receive voice?
 .pym Pass your message.
+.fl245 Hello, I'm Only Responsible Upper Area Control from FL245 and Above. NOT Responsible for Top-Down Coverage. Contact me on $freq when passing FL240 and For now Please Continue on Advisory 122.8.
 
 ;*** Lateral Navigation ***
 .tl Turn left heading $1.
@@ -63,9 +64,9 @@
 .wxa Weather report $metar($arr).
 .sb Standby, I'll call you back.
 .ro Roger.
-.on / Namashkarr, $radioname is online.
-.off / $radioname is now closed. Good Day!
-.offmin / $radioname is closing in $1 minutes.
+.on /Namashkarr, $radioname is online.
+.off /$radioname is now closed. Good Day!
+.offmin /$radioname is closing in $1 minutes.
 .ntv .msg $aircraft Hello, I see you are new to the network. First of all - welcome to VATSIM! It may be tempting to jump right ahead and fly, but I would suggest you read through some training material first, in order to prepare yourself for what you may encounter. First of all - you should read the VATSIM tutorials at vats.im/plc. Here you can find everything you need. Second of all, you should read through the VATSIM Code of Conduct (vats.im/coc), especially sections A and B, in order to not get in trouble for something you didn't know. Let me know if you need any more questions, I am here to help you!
 .dci .msg $aircraft Hello, it seems like you have taken a direct to CI $arrrwy. This is incorrect. When you're being radar vectored to final, you have to follow ATC instructions and maintain the intercept heading until your aircraft captures the localizer. So next time when a controller gives you a heading and clears you for the ILS approach, just put the heading in the Autopilot MCP and press the APP (or APPR) button and the aircraft will eventually intercept the localizer on its own. Taking a direct to CI $arrrwy messes up the approach and will NOT make you intercept the ILS properly. You can take direct FI $arrrwy AFTER you're established on LOC/ILS.
 .iata .msg $aircraft Greetings, please reconnect as $1 as we use ICAO callsign in VATSIM. Kindly refile your flightplan with the new callsign as well.
@@ -81,49 +82,29 @@
 .b8 Your are in violation of VATSIM CoC B8(a) and (b). If non-compliance continues, I will have to call a supervisor.
 
 ;*** Speed Control ***
-.rs Report indicated airspeed.
-.s Maintain speed $1 knots 
-.autospeed Maintain speed $1 knots 
-.sr Reduce speed to $1 knots.
-.si Increase speed to $1 knots.
 .rm Report mach number.
 .m Maintain mach number $1 
-.automach Maintain mach number $1 
-.mc Reduce to minimum clean speed.
-.mcr Reduce to minimum clean speed and report.
-.ma Reduce to minimum approach speed.
 .nsr No speed restrictions.
-.autonospeed No speed restrictions.
-.rns Resume normal speed.
 
 ;*** Transponder ***
 .sq Squawk $squawk.
-.sqs Squawk Mode standby.
+.sqs Squawk Mode Standby.
 .sqc Squawk Mode C. 
-.sqi Squawk ident.
+.sqi Squawk Ident.
 
 ;*** Vertical Navigation ***
-.c Climb to FL $1.
-.autoclimblevel Climb to FL $1.
-.ca Climb to $1 ft.
-.caq Climb to $1 ft, QNH $altim($dep).
-.caqq Climb to $1 ft, QNH $2.
+.c Climb to FL$1.
+.autoclimblevel Climb to FL$1.
+.ca Climb to $1ft.
+.caq Climb to $1ft, QNH $altim($dep).
+.caqq Climb to $1ft, QNH $2.
 .autoclimbaltitude Climb to $1 ft, QNH $altim($dep).
-.d Descend to FL $1.
-.autodescendlevel Descend to FL $1.
-.da Descend to $1 ft.
-.daq Descend to $1 ft, QNH $altim($arr).
-.daqq Descend to $1 ft, QNH $2.
-.autodescendaltitude Descend to $1 ft, QNH $altim($arr).
-.mf Maintain $1 feet.
-.ml Maintain FL $1.
-.rpa Report passing altitude.
-.rrl Report requested level.
-.rd Report ready for descent.
-.tod Report top of descent.
+.d Descend to FL$1.
+.ml Maintain FL$1.
+.rpa Report passing Level.
+.rrl Report Final Requested Level.
 .rl Report level.
-.wrd When ready, descend to FL $1.
-.wrdr When ready, descend to FL $1 to reach level at $2.
+.wrd When ready, Descend to FL$1.
 .cas Check QNH setting and confirm level. You are indicating $calt.
 .sas Set standard pressure (1013.25 hPa).
 .rla Reach level at $1.
@@ -132,8 +113,8 @@
 .xb Cross $1 at $2 or below.
 .ob or before.
 .ola or later.
-.le Currently only EVEN levels available. Do you prefer FL $1 or FL $2?
-.lo Currently only ODD levels available. Do you prefer FL $1 or FL $2?
+.le Due to Direction Of Flight, Only EVEN levels available. Able for FL$1 or FL$2?
+.lo Due to Direction Of Flight, Only ODD levels available. Able for FL$1 or FL$2?
 .roc Climb at $1 feet per minute 
 .rod Descend at $1 feet per minute 
 .og or greater.

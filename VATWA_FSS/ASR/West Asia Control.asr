@@ -58,7 +58,7 @@ Free Text:ACC\VEBN (VARANASI):freetext
 Free Text:ACC\VECC (KOLKATA):freetext
 Free Text:ACC\VECC-B (BHUBANESHWAR):freetext
 Free Text:ACC\VECC-R (RAIPUR):freetext
-Free Text:ACC\VIDP (DELHI):freetext
+Free Text:ACC\VIDP (DELHI LOW):freetext
 Free Text:ACC\VILK (LUCKNOW):freetext
 Free Text:ACC\VOBL (BENGALURU):freetext
 Free Text:ACC\VOCI (COCHIN):freetext
@@ -68,14 +68,14 @@ Free Text:ACC\VOMM (CHENNAI):freetext
 Free Text:ACC\VOTV (TRIVANDRUM):freetext
 Free Text:FIRS\BHUTAN:freetext
 Free Text:FIRS\OAKX (KABUL):freetext
-Free Text:FIRS\VABX (MUMBAI RADIO):freetext
+Free Text:FIRS\VABX (MUMBAI OCEANIC):freetext
 Free Text:FIRS\VCCF (COLOMBO):freetext
-Free Text:FIRS\VECX (KOLKATA RADIO):freetext
+Free Text:FIRS\VECX (KOLKATA OCEANIC):freetext
 Free Text:FIRS\VEGF (GUWAHATI):freetext
 Free Text:FIRS\VGFR (DHAKA):freetext
-Free Text:FIRS\VIDF:freetext
+Free Text:FIRS\VIDF (DELHI):freetext
 Free Text:FIRS\VNSM (KATHMANDU):freetext
-Free Text:FIRS\VOMX (CHENNAI RADIO):freetext
+Free Text:FIRS\VOMX (CHENNAI OCEANIC):freetext
 Free Text:FIRS\VRMF (MALE):freetext
 Geo:GEO:
 SHOWC:1
@@ -91,4 +91,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:SRM TopSky
-WINDOWAREA:-7.708348:26.260503:43.857441:125.235919
+WINDOWAREA:-9.378271:26.706716:42.187520:125.682135
