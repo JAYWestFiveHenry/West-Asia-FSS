@@ -5,6 +5,9 @@ Setup_COOPANS=1
 Setup_AutoSignIn=1
 Setup_Informed=ADEP:VC* VR* ADES:VC* VR*
 
+//BLINDSPOT
+BlindSpot=-1
+
 //Equipment
 Equip_UseCodes=3
 Equip_Use_NAV_PBN=1
