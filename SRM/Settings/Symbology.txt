@@ -59,7 +59,7 @@ Controller:normal:16776960:3.5:0:0:7
 Controller:breaking:12615935:3.5:0:0:7
 Controller:timeout:8355711:3.5:0:0:7
 Metar:normal:16776960:3.5:0:0:7
-Metar:modified:12615935:3.5:0:0:7
+Metar:modified:13606911:3.5:0:0:7
 Metar:timeout:9408399:3.5:0:0:7
 Other:wait:16777215:3.5:0:0:7
 Other:distance line:8234414:3.5:0:0:7
@@ -90,7 +90,7 @@ Other:disabled menu item:8421504:3.5:0:0:7
 Transitions:transition grid:5263440:3.0:0:0:7
 Chat:text:16777215:3.5:0:0:7
 Chat:background:1775896:3.5:0:0:7
-Chat:name normal:16776960:3.5:0:0:7
+Chat:name normal:16777215:3.5:0:0:7
 Chat:name unread:16776960:3.5:0:0:7
 Ground Network:exit:16711680:3.5:0:3:7
 Ground Network:taxiway:65280:3.5:0:3:7
