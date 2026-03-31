@@ -121,7 +121,7 @@
 		 	{
                "direction": "ODD",
                "suffix":"2A,2B,2C,2D",
-               "airways":["MUGBA R457"],
+               "airways":["MUGBA R457","MUGBA"],
                "navigation": "WXTUDBAMNP"
          }
          ],
@@ -142,20 +142,20 @@
          "ATSON": [
             {
                "direction": "ODD",
-               "airways":["ATSON G465","ATSON DCT"]
+               "airways":["ATSON G465","ATSON"]
             }
          ],
          "GOKAM": [
             {
                "direction": "ODD",
-               "airways":["GOKAM P756"],
+               "airways":["GOKAM P756","GOKAM"],
                "navigation": "WXTUDBAMNP"
             }
          ],
          "TENIV": [
             {
                "direction": "ODD",
-               "airways":["TENIV P756"]
+               "airways":["TENIV P756","TENIV"]
             }
          ],
          "AQAXA": [
@@ -165,7 +165,8 @@
             },
             {
                "direction":"ODD",
-               "airways":["AQAXA L894","AQAXA DCT"],
+               "suffix":"2A,2B,2C,2D",
+               "airways":["AQAXA L894","AQAXA"],
                "navigation":"WXTUDBAMNP"
             }
          ],
@@ -181,7 +182,9 @@
             },
             {
                "direction":"ANY",
-               "airways":["ATISA R329","ATISA Z652","ATISA DCT"]
+               "suffix":"2A,2B,2C,2D",
+               "airways":["ATISA R329","ATISA Z652","ATISA"],
+               "navigation":"WXTUDBAMNP"
             }
          ],
          "IGRAM": [
@@ -191,7 +194,7 @@
             },
             {
                "direction":"EVEN",
-               "airways":["IGRAM DCT"],
+               "airways":["IGRAM"],
                "destinations":["VR"]
             }
          ],
