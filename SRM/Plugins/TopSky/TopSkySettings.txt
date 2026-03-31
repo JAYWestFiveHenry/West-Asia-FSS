@@ -9,10 +9,10 @@ Setup_Informed=ADEP:VC* VR* ADES:VC* VR*
 BlindSpot=-1
 
 //FAST System
-FAST=1
+FAST=0
 FAST_Min_State=2
 FAST_Seq_Source=1
-FAST_Dist_FTD_GAP=3
+FAST_Dist_FTD_GAP=5
 
 //Equipment
 Equip_UseCodes=3
@@ -24,7 +24,7 @@ Equip_NonRNAV=WXTUDBAMNP
 Equip_NonRVSM=WXTUDBAMNP
 
 //AIRSPACE SETTINGS
-Airspace_C_Flag=VRMM,VCBI
+Airspace_C_Flag=VRMM,VCBI,VCRI
 Airspace_P_Flag=VRMM,VCBI
 Airspace_No_DUPE_Codes=1000,7000,2000,2200,1200,1234,7500
 Airspace_ASSR_Type=2
@@ -323,6 +323,7 @@ CPDLC_Server=http://www.hoppie.nl/
 CPDLC_MiniServer=localhost
 CPDLC_MinLevel=195
 CPDLC_Page=acars/system/connect.html
+CPDLC_MessageSet_Heading=0
 CPDLC_Send_FSM_RCD=1
 CPDLC_Transfer=1
 CPDLC_VCI_UM_Type=1
