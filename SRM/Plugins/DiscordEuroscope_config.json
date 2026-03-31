@@ -49,7 +49,7 @@
                 "presence_small_image_key": "",
                 "presence_large_image_key" : "",
                 "state" : "Aircraft Tracked ({total_tracked} out of {total_inrange})",
-                "details" : "{rcallsign} {frequency}MHz",
+                "details" : "{rcallsign} on {frequency}MHz",
                 "presence_small_image_text" : "",
                 "presence_large_image_text" : "{callsign}",
                 "buttons": [
@@ -90,11 +90,13 @@
             "^VCCF_OC_CTR": "Colombo Oceanic", 
             "^VCCF_T_CTR$": "Colombo Control (Trainee)",
             "^VCCF_I_CTR$": "Colombo Control (Instructor)",
-            "^VCCF_X_CTR$": "Colombo Control (Examiner)",
+            "^VCCF_X1_CTR$": "VCCF (Local Examiner)",
+            "^VCCF_X2_CTR$": "VCCF (Divisional Examiner)",
             "^VCCF_M_CTR$": "Colombo Control (Mentor)",
             "^VRMF_CTR$": "Male Control",
             "^VRMF_I_CTR$": "Male Control (Instructor)",
-            "^VRMF_X_CTR$": "Male Control (Examiner)",
+            "^VRMF_X1_CTR$": "VRMF (Local Examiner)",
+            "^VRMF_X2_CTR$": "VRMF (Divisional Examiner)",
             "^VRMF_T_CTR$": "Male Control (Trainee)",
             "^VRMF_M_CTR$": "Male Control (Mentor)",
             "^VRMF_S_CTR$": "Male Control (South)",
@@ -149,7 +151,8 @@
             "^VRMH_TWR": "Hanimaadhoo Tower",
             "^VRMR_TWR": "Fuvahmulah Tower",
             "^VRMT_TWR": "Kaadedhdhoo Tower",
-            "^VRMV_TWR": "Maamigili Tower"
+            "^VRMV_TWR": "Maamigili Tower",
+            "^VRMK_TWR": "Kadhdhoo Tower"
         }
     }
 }
