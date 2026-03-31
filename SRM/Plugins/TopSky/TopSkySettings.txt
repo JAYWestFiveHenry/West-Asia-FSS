@@ -8,6 +8,12 @@ Setup_Informed=ADEP:VC* VR* ADES:VC* VR*
 //BLINDSPOT
 BlindSpot=-1
 
+//FAST System
+FAST=1
+FAST_Min_State=2
+FAST_Seq_Source=1
+FAST_Dist_FTD_GAP=3
+
 //Equipment
 Equip_UseCodes=3
 Equip_Use_NAV_PBN=1
