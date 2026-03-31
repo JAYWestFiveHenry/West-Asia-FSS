@@ -1,6 +1,6 @@
 {
   "name": "VCCF & VRMF VATWA",
-  "id": "1cc73e48-499b-4ea2-a4c3-8349c5b0c4bd",
+  "id": "8efa5c24-dd72-48b8-996e-e5343f97b5bb",
   "updateUrl": "https://raw.githubusercontent.com/JAYWestFiveHenry/SRMvACC-Sector-FIle-Beta/refs/heads/SRMvACC/SRM/ATIS%20Profile/vATIS%20Profile%20-%20VCCF%20%26%20VRMF%20VATWA%20(Auto%20Update).json",
   "updateSerial": 2026010601,
   "stations": [
@@ -4186,12 +4186,12 @@
       "airportConditionDefinitions": [],
       "notamDefinitions": [
         {
-          "text": "ADVISE ATC IF YOU HAVE OUTDATED SCENERY FOR VRMM AIRPORT",
+          "text": "ADVISE ATC IF YOU HAVE OUTDATED SCENERY FOR VRMM AIRPORT ON INITIAL CONTACT.",
           "ordinal": 1,
           "enabled": true
         },
         {
-          "text": "OLD ALLOCATION FOR RWY 18/36 IS REPLACED BY TWY C. DO NOT MISTAKEN WHEN CONDUCTING ILS APPR.",
+          "text": "OLD ALLOCATION FOR RWY 18/36 IS BEEN REPLACED BY TWY C. DO NOT MISTAKEN WHILE CONDUCTING ILS APPR.",
           "ordinal": 2,
           "enabled": true
         },
