@@ -263,7 +263,7 @@ APW_UseCFL=1
 APW_VFR=1
 APW_WarningTime=120
 APW_WarningTime_Imm=120
-APW_AlertSound=0
+APW_AlertSound=1
 APW_Filter=2
 APW_Buffer_Lat_SepLevel=24500
 APW_Buffer_Lat_U=0
@@ -288,7 +288,7 @@ FlightLeg_Label_DIST=1
 FlightLeg_Label_Point=1
 
 //SAP System
-SAP=0
+SAP=1
 SAP_AHDG=1
 SAP_Buffer_Lat_L_IFR=3
 SAP_Buffer_Vert_L_IFR=1000
