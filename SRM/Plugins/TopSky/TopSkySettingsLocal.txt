@@ -29,14 +29,8 @@ List_Holding=1695,200
 List_Holding_MaxItems=5
 List_Holding_States=23457
 
-[_CTR]
-Window_CARD=3,0,650
-Window_CARD_RefreshRate=10
-Window_CPDLC_Current=1,1550,380
-Window_CPDLC_Current_MaxListItems=5
-Window_CPDLC_Setting=1,0,355
-
 [VRMF_CTR]
+STCA_Floor=2500
 STCA_Coarse_Sep_Lat_U=7.5
 STCA_Coarse_Sep_Lat_L=7.5
 STCA_Coarse_Sep_Vert_U=1000
@@ -58,8 +52,14 @@ Window_CARD_RefreshRate=10
 Window_CPDLC_Current=1,1550,380
 Window_CPDLC_Current_MaxListItems=5
 Window_CPDLC_Setting=1,0,355
+TCT_BS_Time_To_Leave_Level=60
+TCT_BS_Sep_Lat=5.0
+TCT_BS_Sep_Lat_Div=5.0
+TCT_BS_Sep_Vert_L=750
+TCT_BS_Sep_Vert_U=1000,2000
 
 [VCCF_CTR]
+STCA_Floor=2500
 STCA_Coarse_Sep_Lat_U=10
 STCA_Coarse_Sep_Lat_L=10
 STCA_Coarse_Sep_Vert_U=1000
@@ -83,11 +83,23 @@ Window_CPDLC_Current_MaxListItems=5
 Window_CPDLC_Setting=1,0,355
 
 [_APP]
+STCA_Floor=1500
+STCA_Coarse_Sep_Lat_U=7
+STCA_Coarse_Sep_Lat_L=7
+STCA_LinPred_Sep_Lat_U=4.5
+STCA_LinPred_Sep_Lat_L=4.5
+STCA_CurrProx_Sep_Lat_U=4.75
+STCA_CurrProx_Sep_Lat_L=4.75
 Window_CARD=3,0,650
 Window_CARD_RefreshRate=10
-MTCD=1
+TCT_BS_Time_To_Leave_Level=60
+TCT_BS_Sep_Lat=5.0
+TCT_BS_Sep_Lat_Div=5.0
+TCT_BS_Sep_Vert_L=750
+TCT_BS_Sep_Vert_U=1000,2000
 
 [VCBI_APP]
+STCA_Floor=1500
 STCA_Coarse_Sep_Lat_U=7
 STCA_Coarse_Sep_Lat_L=7
 STCA_LinPred_Sep_Lat_U=4.5
@@ -96,8 +108,14 @@ STCA_CurrProx_Sep_Lat_U=4.75
 STCA_CurrProx_Sep_Lat_L=4.75
 Window_CARD=3,0,650
 Window_CARD_RefreshRate=10
+TCT_BS_Time_To_Leave_Level=60
+TCT_BS_Sep_Lat=5.0
+TCT_BS_Sep_Lat_Div=5.0
+TCT_BS_Sep_Vert_L=750
+TCT_BS_Sep_Vert_U=1000,2000
 
 [VRMM_APP]
+STCA_Floor=1500
 STCA_Coarse_Sep_Lat_U=7
 STCA_Coarse_Sep_Lat_L=7
 STCA_LinPred_Sep_Lat_U=4.5
@@ -106,6 +124,11 @@ STCA_CurrProx_Sep_Lat_U=4.75
 STCA_CurrProx_Sep_Lat_L=4.75
 Window_CARD=3,0,650
 Window_CARD_RefreshRate=10
+TCT_BS_Time_To_Leave_Level=60
+TCT_BS_Sep_Lat=5.0
+TCT_BS_Sep_Lat_Div=5.0
+TCT_BS_Sep_Vert_L=750
+TCT_BS_Sep_Vert_U=1000,2000
 
 [_TWR]
 MTCD=0

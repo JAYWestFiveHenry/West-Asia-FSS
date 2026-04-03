@@ -6,7 +6,18 @@ Setup_AutoSignIn=1
 Setup_Informed=ADEP:VC* VR* ADES:VC* VR*
 
 //BLINDSPOT
-BlindSpot=-1
+BlindSpot=1
+BlindSpot_Level_Range=50
+BlindSpot_Time_Warning=120
+
+//TCT System
+TCT=1
+TCT_Floor=1500
+TCT_Min_Speed=50
+TCT_Min_State_Target=0
+TCT_Use_CFL_For_Coordinated=1
+TCT_Inhibit_Uncontrolled=1
+TCT_Inhibit_VFR=1
 
 //FAST System
 FAST=0
@@ -85,6 +96,7 @@ Color_Potential=255,125,0
 Color_Potential_FL=255,125,0
 Color_QDM=190,225,250
 Color_Sid_Star_Allocation=52,235,222
+Color_Rwy_Locked=52,235,222
 Color_CARD_Time_Vector=170,231,197
 Color_FPLSEP_Tool_1=153,217,234
 Color_FPLSEP_Tool_2=255,153,184
@@ -113,15 +125,22 @@ Color_Predisplay_Map=90,40,45
 Color_Rwy_App_Line_Inuse=135,150,170
 Color_Rwy_App_Line_Not_Inuse=40,40,40
 
+//COLOR TSA
 Color_TSA_Active=93,138,195
 Color_TSA_Border_Highlight=0,0,0
 Color_TSA_Filter=0,0,255
 Color_TSA_Preactive=132,142,139
-
-Color_AIW_Intrusion=255,160,10
-
 Color_Text_Notes=200,200,200
 Color_TSA_Filter=150,150,150
+
+//COLOR TCT/BlindSpot
+Color_BS_Unknown=240,223,41
+Color_BS_Warning=233,40,40
+Color_TCT_Warning=220,216,22
+Color_BS_Crossed_Level=75,81,84
+
+
+Color_AIW_Intrusion=255,160,10
 
 //Divergence
 Divergence_CLAM=1
@@ -164,6 +183,7 @@ System_UseMouseWheel=1
 System_UseAcceptedCoordColor=1
 System_UseSidAllocationColor=2
 System_UseStarAllocationColor=2
+System_UseRwyLockedColor=1
 System_Uncontrolled_State_None=1
 System_TransferConfirmation=1
 System_Trf_Release=1
@@ -262,7 +282,7 @@ APW=1
 APW_UseCFL=1
 APW_VFR=1
 APW_WarningTime=120
-APW_WarningTime_Imm=120
+APW_WarningTime_Imm=30
 APW_AlertSound=1
 APW_Filter=2
 APW_Buffer_Lat_SepLevel=24500
@@ -274,9 +294,7 @@ APW_Buffer_Vert_L_IFR=1000
 APW_Buffer_Vert_L_VFR=500
 APW_ConflictCount=4
 APW_Uncorrelated=1
-
-//MTCD
-MTCD_DeAcknowledge=5
+APW_Uncontrolled=1
 
 //FLIGHT LEG
 FlightLeg_FontSize=10
@@ -301,10 +319,11 @@ SAP_Risks_Label=1
 
 //STCA
 STCA=1
+STCA_AlertSound=1
+STCA_AlertSound_Filter=1
 STCA_VFR=1
 STCA_UseCFL=1
 STCA_Sep_Lat_SepLevel=12500
-STCA_Floor=2000
 
 //MENU SETTINGS
 Menu_AHDG_Rounding=10
@@ -333,5 +352,4 @@ CPDLC_DCT=1
 CPDLC_Ping_All_Callsigns=1
 CPDLC_PDC_PlaySound=1
 CPDLC_PlaySound=1
-CPDLC_FSM_RCD_Fail=RCD REJECTED @REVERT TO VOICE PROCEDURES
-CPDLC_FSM_PDC_Fail=NO PDC AVAILABLE FOR <callsign>
+
