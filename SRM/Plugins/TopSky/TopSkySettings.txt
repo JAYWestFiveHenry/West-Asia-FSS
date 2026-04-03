@@ -191,6 +191,7 @@ System_UseTSAborderHighlightColor=1
 System_UsePresentHeading=1
 System_SyncData_WindowMessaging=1
 System_UseReportedGS=1
+System_TrackData_Time=600
 
 //TRACKS SETTINGS
 Track_HistoryDots=6
@@ -301,9 +302,12 @@ FlightLeg_FontSize=10
 FlightLeg_Font=EuroScope
 FlightLeg_LineWidth=0
 FlightLeg_AutoShow=1
+FlightLeg_Potential_Predicted=1
+FlightLeg_Potential_Risk=1
 FlightLeg_Label_Time=1
 FlightLeg_Label_DIST=1
 FlightLeg_Label_Point=1
+FlightLeg_Label_SCFL=1
 
 //SAP System
 SAP=1
