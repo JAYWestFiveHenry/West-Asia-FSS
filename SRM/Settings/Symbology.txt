@@ -21,7 +21,7 @@ NDBs:symbol:5131082:1.0:0:0:7
 NDBs:name:5131082:3.0:0:0:12
 NDBs:frequency:8421504:3.0:0:0:0
 Runways:centerline:16777071:3.5:0:2:7
-Runways:extended centerline:98:1.0:0:0:7
+Runways:extended centerline:3618615:1.0:0:0:7
 Runways:name:12566272:4.0:0:0:7
 Datablock:non concerned:8618883:3.5:0:0:7
 Datablock:notified:7248238:3.5:0:0:7
