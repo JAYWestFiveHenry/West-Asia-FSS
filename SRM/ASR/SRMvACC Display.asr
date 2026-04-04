@@ -39,20 +39,6 @@ Geo:GEO:
 Geo:VCCF Landmark Coastline:
 Geo:VRMF Landmark Coastline:
 Runways:VCBI 04-22:centerline
-Runways:VCBI 04-22:extended centerline 1
-Runways:VCBI 04-22:extended centerline 1 left base
-Runways:VCBI 04-22:extended centerline 1 left ticks
-Runways:VCBI 04-22:extended centerline 1 left vectoring
-Runways:VCBI 04-22:extended centerline 1 right base
-Runways:VCBI 04-22:extended centerline 1 right ticks
-Runways:VCBI 04-22:extended centerline 1 right vectoring
-Runways:VCBI 04-22:extended centerline 2
-Runways:VCBI 04-22:extended centerline 2 left base
-Runways:VCBI 04-22:extended centerline 2 left ticks
-Runways:VCBI 04-22:extended centerline 2 left vectoring
-Runways:VCBI 04-22:extended centerline 2 right base
-Runways:VCBI 04-22:extended centerline 2 right ticks
-Runways:VCBI 04-22:extended centerline 2 right vectoring
 Runways:VCCA 05-23:centerline
 Runways:VCCA 05-23:extended centerline 1
 Runways:VCCA 05-23:extended centerline 1 left base
@@ -234,20 +220,6 @@ Runways:VCCW 07-25:extended centerline 2 right base
 Runways:VCCW 07-25:extended centerline 2 right ticks
 Runways:VCCW 07-25:extended centerline 2 right vectoring
 Runways:VCRI 05-23:centerline
-Runways:VCRI 05-23:extended centerline 1
-Runways:VCRI 05-23:extended centerline 1 left base
-Runways:VCRI 05-23:extended centerline 1 left ticks
-Runways:VCRI 05-23:extended centerline 1 left vectoring
-Runways:VCRI 05-23:extended centerline 1 right base
-Runways:VCRI 05-23:extended centerline 1 right ticks
-Runways:VCRI 05-23:extended centerline 1 right vectoring
-Runways:VCRI 05-23:extended centerline 2
-Runways:VCRI 05-23:extended centerline 2 left base
-Runways:VCRI 05-23:extended centerline 2 left ticks
-Runways:VCRI 05-23:extended centerline 2 left vectoring
-Runways:VCRI 05-23:extended centerline 2 right base
-Runways:VCRI 05-23:extended centerline 2 right ticks
-Runways:VCRI 05-23:extended centerline 2 right vectoring
 Runways:VRDA 06-24:centerline
 Runways:VRDA 06-24:extended centerline 1
 Runways:VRDA 06-24:extended centerline 1 left base
@@ -354,20 +326,6 @@ Runways:VRMK 03-21:extended centerline 2 right base
 Runways:VRMK 03-21:extended centerline 2 right ticks
 Runways:VRMK 03-21:extended centerline 2 right vectoring
 Runways:VRMM 18-36:centerline
-Runways:VRMM 18-36:extended centerline 1
-Runways:VRMM 18-36:extended centerline 1 left base
-Runways:VRMM 18-36:extended centerline 1 left ticks
-Runways:VRMM 18-36:extended centerline 1 left vectoring
-Runways:VRMM 18-36:extended centerline 1 right base
-Runways:VRMM 18-36:extended centerline 1 right ticks
-Runways:VRMM 18-36:extended centerline 1 right vectoring
-Runways:VRMM 18-36:extended centerline 2
-Runways:VRMM 18-36:extended centerline 2 left base
-Runways:VRMM 18-36:extended centerline 2 left ticks
-Runways:VRMM 18-36:extended centerline 2 left vectoring
-Runways:VRMM 18-36:extended centerline 2 right base
-Runways:VRMM 18-36:extended centerline 2 right ticks
-Runways:VRMM 18-36:extended centerline 2 right vectoring
 Runways:VRMO 18-36:centerline
 Runways:VRMO 18-36:extended centerline 1
 Runways:VRMO 18-36:extended centerline 1 left base
@@ -471,4 +429,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:-0.00000
 TAGFAMILY:SRM TopSky
-WINDOWAREA:-0.130025:65.945928:7.409215:79.643075
+WINDOWAREA:-9.807850:59.112470:13.200086:100.912845
