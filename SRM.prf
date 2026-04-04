@@ -70,15 +70,15 @@ Plugins	Plugin7	\SRM\Plugins\VCH.dll
 ASRFastKeys	1	\SRM\ASR\SRMvACC Display.asr
 ASRFastKeys	2	\SRM\ASR\Colombo SMC.asr
 ASRFastKeys	3	\SRM\ASR\Male GMC.asr
-RecentFiles	Recent1	\SRM\ASR\SRMvACC Display.asr
-RecentFiles	Recent2	\SRM\ASR\Jaffna GMC.asr
-RecentFiles	Recent3	\SRM\ASR\Gan SMC.asr
-RecentFiles	Recent4	\SRM\ASR\Male GMC.asr
+RecentFiles	Recent1	\SRM\ASR\Dharavadhoo GND.asr
+RecentFiles	Recent2	\SRM\ASR\Mattala GMC.asr
+RecentFiles	Recent3	\SRM\ASR\SRMvACC Display.asr
+RecentFiles	Recent4	\SRM\ASR\Jaffna GMC.asr
 Plugins	Plugin8	\SRM\Plugins\VFPC.dll
 LastSession	atis_freq4	118000
 Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin8	\SRM\Plugins\Sync.dll
-RecentFiles	Recent7	\SRM\ASR\Colombo SMC.asr
+RecentFiles	Recent7	\SRM\ASR\Maamigili GMC.asr
 Plugins	Plugin2Display0	SMR radar display
 LastSession	realname	Your Registered Name
 LastSession	certificate	Your VATSIM CID
@@ -87,12 +87,12 @@ Plugins	Plugin3Display0	Standard ES radar screen
 Plugins	Plugin3Display1	SMR radar display
 LastSession	atis2	SRMvACC Observer
 LastSession	atis3	Welcome to SRMvACC -> www.4r-ipm.me/vaccsrm/
-RecentFiles	Recent5	\SRM\ASR\Dharavadhoo GND.asr
-RecentFiles	Recent6	\SRM\ASR\Maamigili GMC.asr
-RecentFiles	Recent8	\SRM\ASR\Ratmalana GMC.asr
+RecentFiles	Recent5	\SRM\ASR\Gan SMC.asr
+RecentFiles	Recent6	\SRM\ASR\Male GMC.asr
+RecentFiles	Recent8	\SRM\ASR\Colombo SMC.asr
 Plugins	Plugin7Display0	Standard ES radar screen
 Plugins	Plugin7Display1	SMR radar display
-RecentFiles	Recent9	\SRM\ASR\Mattala GMC.asr
+RecentFiles	Recent9	\SRM\ASR\Ratmalana GMC.asr
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
 Plugins	Plugin6Display0	Standard ES radar screen
