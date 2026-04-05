@@ -69,9 +69,9 @@ Color_RunwayExtension=0,0,0
 Color_SelectedLabelFill_App=0,0,0
 Color_SelectedLabelFill_Gnd=0,0,0
 Color_RunwayExtension=72,73,75
-Color_APP_RunwayExtension=70,70,70
+Color_APP_RunwayExtension=55,55,55
 Color_APP_Background=0,0,0
-Color_APP_Runway=74,74,74
+Color_APP_Runway=180,180,180
 
 //WINDOW SEETINGS
 Window_APP=1,0,560,248,338

@@ -3,10 +3,10 @@ Settings	sector	\SRMvACC.sct
 Settings	SettingsfileSYMBOLOGY	\SRM\Settings\Symbology.txt
 Settings	SettingsfileVOICE	\SRM\Settings\SRM VoiceChannels.txt
 Settings	SettingsfilePROFILE	\SRM\Settings\SRM Profiles.txt
-Settings	SettingsfileTAGS	\SRM\Settings\Custom Tag.txt
+Settings	SettingsfileTAGS	\SRM\Settings\Tags.txt
 Settings	SettingsfileSIL	\SRM\Settings\SectorInbound.txt
 Settings	SettingsfileSEL	\SRM\Settings\SectorExit.txt
-Settings	SettingsfileDEP	\SRM\Settings\Departure vSMR.txt
+Settings	SettingsfileDEP	\SRM\Settings\DepartureList.txt
 Settings	SettingsfileARR	\SRM\Settings\Lists.txt
 Settings	SettingsfileFP	\SRM\Settings\Lists.txt
 Settings	SettingsfilePLUGINS	\SRM\Settings\Plugins.txt
