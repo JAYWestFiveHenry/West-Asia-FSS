@@ -18,8 +18,10 @@ ARTCC low boundary:VCCB_TWR Batticaloa CTR:
 ARTCC low boundary:VCCC_TWR Ratmalana CTR:
 ARTCC low boundary:VCCH_TWR Minneriya CTR:
 ARTCC low boundary:VCCK_TWR Koggala CTR:
+ARTCC low boundary:VCCN_TWR Katukurunda CTR:
 ARTCC low boundary:VCCT_TWR China-bay CTR:
 ARTCC low boundary:VCCV_TWR Vavunya CTR:
+ARTCC low boundary:VCCW_TWR Wirawilla CTR:
 ARTCC low boundary:VCRI_TWR Mattala CTR:
 ARTCC low boundary:VRDA_TWR Maafaru CTR:
 ARTCC low boundary:VREI_AFIS Ifuru AFIS:
@@ -471,4 +473,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:-0.00000
 TAGFAMILY:SRM TopSky
-WINDOWAREA:-7.673900:55.300120:10.732449:88.740421
+WINDOWAREA:-9.293791:58.582419:13.714145:100.382795
