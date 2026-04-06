@@ -8,7 +8,7 @@ m_ShowTitlePrimaryFreq:1
 m_ShowTitleAtisFreq:0
 m_ShowTitleClock:1
 m_ShowTitleLeader:0
-m_ShowTitleFilter:1
+m_ShowTitleFilter:0
 m_ShowTitleTrans:0
 m_ShowVoiceRoomUsers:0
 m_ShowFSSControllers:1
@@ -17,7 +17,7 @@ m_ShowAPPControllers:1
 m_ShowTWRControllers:0
 m_ShowGNDControllers:0
 m_ShowATISControllers:0
-m_ShowOBSControllers:1
+m_ShowOBSControllers:0
 m_ShowUnidentifiedControllers:0
 m_ShowFreqUsers:1
 m_ShowAtisUsers:1
