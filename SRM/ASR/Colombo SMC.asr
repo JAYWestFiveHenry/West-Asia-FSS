@@ -4,8 +4,6 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
 Geo:GEO:
-Geo:VCBI Groundlayout:
-Regions:VCBI GroundLayout:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -19,7 +17,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:53.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:7.165065:79.855065:7.195812:79.910925
+WINDOWAREA:7.164320:79.855523:7.195067:79.911384
 PLUGIN:Ground Radar plugin:AirportElevation:30
 PLUGIN:Ground Radar plugin:AirportRadius:5
 PLUGIN:Ground Radar plugin:GroundMode:VCBI
