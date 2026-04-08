@@ -113,12 +113,6 @@ System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=50
 System_CMAC_NoContact_Distance_Info=10.0
 
-//WINDOW APP
-Window_APP=1,0,560,248,338
-Window_APP_Rotation=000.0
-Window_APP_Extensions=25
-Window_APP_Scale=15.7
-
 //LABEL SETTINGS
 Label_AFL+VS=1,0,1,1
 Label_ASSR=1,1,1,0
@@ -171,12 +165,6 @@ System_RIM=1
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=30
 System_CMAC_NoContact_Distance_Info=10.0
-
-//WINDOW APP
-Window_APP=1,0,560,248,338
-Window_APP_Rotation=000.0
-Window_APP_Extensions=25
-Window_APP_Scale=15.7
 
 //LABEL SETTINGS
 Label_AFL+VS=1,0,1,1
@@ -290,12 +278,6 @@ System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=30
 System_CMAC_NoContact_Distance_Info=10.0
 
-//WINDOW APP
-Window_APP=1,0,560,248,338
-Window_APP_Rotation=000.0
-Window_APP_Extensions=20
-Window_APP_Scale=15.7
-
 //LABEL SETTINGS
 Label_AFL+VS=1,0,1,1
 Label_ASSR=1,1,1,0
@@ -348,12 +330,6 @@ System_RIM=1
 System_CMAC_HighSpeed_Info=30
 System_CMAC_HighSpeed=30
 System_CMAC_NoContact_Distance_Info=10.0
-
-//WINDOW APP
-Window_APP=1,0,560,248,338
-Window_APP_Rotation=000.0
-Window_APP_Extensions=20
-Window_APP_Scale=15.7
 
 //LABEL SETTINGS
 Label_AFL+VS=1,0,1,1
