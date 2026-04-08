@@ -4,7 +4,9 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Users\ghtra\Documents\EuroScope\SRMvACC Test Sector\SRMvACC.sct
 SECTORTITLE:SRMvACC.sct
 Geo:GEO:
+Geo:VRMM Centerlines New Runway:
 Geo:VRMM Groundlayout:
+Geo:VRMM Groundlayout Water Aerodrome:
 Regions:VRMM GroundLayout:polygon
 SHOWC:1
 SHOWSB:0
@@ -19,7 +21,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:91.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:4.180326:73.509692:4.200442:73.546237
+WINDOWAREA:4.179038:73.507428:4.204183:73.553111
 PLUGIN:Ground Radar plugin:AirportElevation:8
 PLUGIN:Ground Radar plugin:AirportRadius:5
 PLUGIN:Ground Radar plugin:GroundMode:VRMM
