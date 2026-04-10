@@ -300,7 +300,7 @@
                "destinations":["VCBI"]
             }
          ],
-         "HEDAM":[
+         "HEDA":[
             {
                "direction":"EVEN",
                "airways":["SAGOR"]
