@@ -164,7 +164,8 @@ Label=APP:DEP:3:RMK,0,1
 Airport_Elevation=23
 Airport_LVP=0
 Airport_TransAlt=11000
-Airport_Runway_MaxCode=F
+Airport_Runway_MaxCode=22:F
+Airport_Runway_MaxCode=04:F
 
 [VRMM]
 System_APM=1
@@ -222,7 +223,8 @@ Label=APP:DEP:3:RMK,0,1
 
 //AIRPORT SETTINGS
 Airport_Elevation=8
-Airport_Runway_MaxCode=F
+Airport_Runway_MaxCode=36:F
+Airport_Runway_MaxCode=18:F
 Airport_LVP=0
 Airport_TransAlt=11000
 Airport_Runway_Thr=36:N004.11.06.450:E073.31.51.670
