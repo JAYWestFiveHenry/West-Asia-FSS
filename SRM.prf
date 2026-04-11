@@ -69,7 +69,7 @@ Plugins	Plugin6	\SRM\Plugins\VATCAN Bookings\VATCANBookings.dll
 Plugins	Plugin7	\SRM\Plugins\VCH.dll
 ASRFastKeys	1	\SRM\ASR\SRMvACC Display.asr
 ASRFastKeys	2	\SRM\ASR\Colombo SMC.asr
-ASRFastKeys	3	\SRM\ASR\Male GMC.asr
+ASRFastKeys	3	\SRM\ASR\Mattala GMC.asr
 RecentFiles	Recent1	\SRM\ASR\SRMvACC Display.asr
 RecentFiles	Recent2	\SRM\ASR\Dharavadhoo GND.asr
 RecentFiles	Recent3	\SRM\ASR\Mattala GMC.asr
@@ -102,3 +102,6 @@ Plugins	Plugin4Display2	SMR radar display
 Plugins	Plugin9	\SRM\Plugins\Sync.dll
 Plugins	Plugin9Display0	Standard ES radar screen
 Plugins	Plugin9Display1	Ground Radar display
+ASRFastKeys	4	\SRM\ASR\Ratmalana GMC.asr
+ASRFastKeys	5	\SRM\ASR\Male GMC.asr
+ASRFastKeys	6	\SRM\ASR\Gan SMC.asr
