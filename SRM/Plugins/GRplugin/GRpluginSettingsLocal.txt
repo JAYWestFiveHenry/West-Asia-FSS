@@ -1,48 +1,4 @@
 //You can change the position of the windows in this file. Generally the numbers below are x-coord,y-coord. Ground Radar plugin for EuroScope - Developer Guide.pdf for more details
-//Just remember to remove the // from the left to uncomment the line
-//Example 2715*1527 resolution
-
-[VCBI]
-//List_Inbound=21,0,1500,799
-//List_Inbound=03,0,1500,799
-//List_Arrival=1,1760,799
-//List_Alerts=1,1910,36
-//List_Stand=0,1558,36
-//Window_APP=1,1475,42,440,320
-Window_APP_Rotation=52.2
-
-[VRMM]
-//List_Inbound=21,0,1500,799
-//List_Inbound=03,0,1500,799
-//List_Arrival=1,1760,799
-//List_Alerts=1,1910,36
-//List_Stand=0,1558,36
-//Window_APP=1,1475,42,440,320
-Window_APP_Rotation=90
-[VCRI]
-//List_Inbound=21,0,1500,799
-//List_Inbound=03,0,1500,799
-//List_Arrival=1,1760,799
-//List_Alerts=1,1910,36
-//List_Stand=0,1558,36
-//Window_APP=1,1475,42,440,320
-Window_APP_Rotation=44
-[VRMG]
-//List_Inbound=21,0,1500,799
-//List_Inbound=03,0,1500,799
-//List_Arrival=1,1760,799
-//List_Alerts=1,1910,36
-//List_Stand=0,1558,36
-//Window_APP=1,1475,42,440,320
-Window_APP_Rotation=351.6
-[VCCC]
-//List_Inbound=21,0,1500,799
-//List_Inbound=03,0,1500,799
-//List_Arrival=1,1760,799
-//List_Alerts=1,1910,36
-//List_Stand=0,1558,36
-//Window_APP=1,1475,42,440,320
-Window_APP_Rotation=57.5
 
 [VCBI]
 System_APM=1
@@ -208,6 +164,7 @@ Label=APP:DEP:3:RMK,0,1
 Airport_Elevation=23
 Airport_LVP=0
 Airport_TransAlt=11000
+Airport_Runway_MaxCode=F
 
 [VRMM]
 System_APM=1
@@ -265,8 +222,11 @@ Label=APP:DEP:3:RMK,0,1
 
 //AIRPORT SETTINGS
 Airport_Elevation=8
+Airport_Runway_MaxCode=F
 Airport_LVP=0
 Airport_TransAlt=11000
+Airport_Runway_Thr=36:N004.11.06.450:E073.31.51.670
+Airport_Runway_Thr=18:N004.12.31.000:E073.31.51.590
 
 [VRMV]
 System_APM=1
